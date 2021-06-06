@@ -5,10 +5,10 @@ user-guide-title: Tutorials Adobe Campaign
 user-guide-description: Adobe Campaign consente agli esperti di marketing di progettare esperienze cliente diverse e fornisce un ambiente per l’orchestrazione visiva delle campagne, la gestione delle interazioni in tempo reale e l’esecuzione su più canali.
 breadcrumb-title: Tutorial
 breadcrumb-url: /docs/campaign-learn/tutorials/overview.html
-source-git-commit: 2ceb224ad9caea6b2c74e1e813f2b513cd41673f
+source-git-commit: ee567c5fbe90ddce24617b3d5a8210c04728b4db
 workflow-type: tm+mt
-source-wordcount: '300'
-ht-degree: 40%
+source-wordcount: '301'
+ht-degree: 38%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 40%
 + [Panoramica](/help/overview.md)
 + Guida introduttiva {#getting-started}
    + [Introduzione ad Adobe Campaign](/help/getting-started/introduction-to-adobe-campaign.md)
-   + [Installare e configurare il client di Adobe Campaign](/help/getting-started/install-and-setup-the-adobe-campaign-client.md)
+   + [Installare e configurare il client Adobe Campaign](/help/getting-started/install-and-setup-the-adobe-campaign-client.md)
    + [Esplorare l’interfaccia utente di Adobe Campaign ](/help/getting-started/explore-the-adobe-campaign-user-interface.md)
    + [Gestire le campagne di marketing](/help/getting-started/manage-marketing-campaigns.md)
    + [Creare un piano marketing, programmi e campagne](/help/getting-started/create-a-marketing-plan-programs-and-campaigns.md)
@@ -48,7 +48,7 @@ ht-degree: 40%
       + [Progettare le e-mail per ottimizzarne la consegna](/help/send-messages/email/design-emails-for-deliverability.md)
       + [Guida alle best practice per la consegna dei messaggi e-mail](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=it)
    + SMS {#sms}
-      + [Creare una consegna SMS](/help/send-messages/mobile/create-a-sms-delivery.md)
+      + [Crea una consegna SMS](/help/send-messages/mobile/create-a-sms-delivery.md)
    + Push {#push}
       + [Installare il canale app mobile](/help/send-messages/mobile/install-the-mobile-app.md)
       + [Configurare il canale push con l’SDK di Experience Platform Mobile](/help/send-messages/mobile/configure-push-using-aep-mobile-sdk.md)
