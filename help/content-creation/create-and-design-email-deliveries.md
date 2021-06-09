@@ -1,5 +1,5 @@
 ---
-title: Progettazione e creazione di consegne e-mail
+title: Creare e progettare consegne e-mail
 description: Scopri il processo di creazione di una consegna e-mail e come progettare e personalizzare i contenuti.
 feature: E-mail, Progettazione e-mail, Personalizzazione
 kt: 7847
@@ -9,15 +9,15 @@ activity: use
 team: WWFRE
 role: Business Practitioner
 level: Beginner
-source-git-commit: 30e16faef1a85a0854b7e4d8fe0177833c631565
+source-git-commit: 23c441d426ed7fe40403efa2f29b2b70b379bbe0
 workflow-type: tm+mt
 source-wordcount: '48'
-ht-degree: 79%
+ht-degree: 100%
 
 ---
 
 
-# Progettazione e creazione di consegne e-mail
+# Creare e progettare consegne e-mail
 
 Scopri il processo di creazione di una consegna e-mail e come progettare e personalizzare i contenuti.
 
