@@ -10,15 +10,15 @@ team: TM
 role: Administrator
 level: Beginner
 source-git-commit: f6bb16306773a4b6ff7aa390a514e9b31fe047d6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '31'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Imposta le proprietà del modello di consegna {#set-the-delivery-template-properties}
+# Impostare le proprietà del modello di consegna {#set-the-delivery-template-properties}
 
-Scopri come impostare le proprietà del modello di consegna e spiega in dettaglio ciascuna proprietà .
+Scopri come impostare le proprietà del modello di consegna e il dettaglio di ciascuna proprietà.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24067?quality=12)
