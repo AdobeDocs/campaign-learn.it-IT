@@ -10,9 +10,9 @@ team: TM
 role: Administrator, Developer
 level: Experienced
 source-git-commit: 1608439868cef8996f959e298f786d9c90fd57c7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '88'
-ht-degree: 1%
+ht-degree: 100%
 
 ---
 
@@ -25,8 +25,8 @@ Scopri come configurare un servizio [!DNL Android™] e creare un’app mobile [
 
 **Passaggio precedente**
 
-Passaggio 1: [Estendi lo schema di sottoscrizione dell&#39;app per personalizzare le notifiche push](/help/tutorial-get-started-with-push-notifications-for-android/extend-the-app-subscription-schema.md)
+Passaggio 1: [estendere lo schema di abbonamento all’app per personalizzare le notifiche push](/help/tutorial-get-started-with-push-notifications-for-android/extend-the-app-subscription-schema.md)
 
 **Passaggio successivo**
 
-Passaggio 3: [Configurare e inviare notifiche push](/help/tutorial-get-started-with-push-notifications-for-android/configure-and-send-push-notifications.md)
+Passaggio 3: [configurare e inviare le notifiche push](/help/tutorial-get-started-with-push-notifications-for-android/configure-and-send-push-notifications.md)
