@@ -9,16 +9,16 @@ team: DOC
 role: Business Practitioner
 level: Beginner
 source-git-commit: f6bb16306773a4b6ff7aa390a514e9b31fe047d6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '91'
-ht-degree: 16%
+ht-degree: 100%
 
 ---
 
 
-# Creazione di un flusso di lavoro
+# Creare un flusso di lavoro
 
-Adobe Campaign include un modulo di flusso di lavoro che ti consente di orchestrare l’intera gamma di processi e attività nei diversi moduli dell’application server. Questo ambiente grafico completo consente di progettare processi, tra cui segmentazione, esecuzione di campagne, elaborazione di file, partecipazione di utenti e così via. Il motore del flusso di lavoro esegue e traccia tali processi.
+Adobe Campaign include un modulo per flussi di lavoro con cui puoi migliorare l’orchestrazione dell’intera gamma di processi e attività tra i diversi moduli del server dell’applicazione. Questo ambiente grafico completo consente di progettare i processi come segmentazione, esecuzione di campagne, elaborazione di file, partecipazione di utenti, ecc. Il motore del flusso di lavoro esegue e traccia tali processi.
 
 I flussi di lavoro si verificano in vari contesti e fasi del processo di gestione delle campagne.
 
