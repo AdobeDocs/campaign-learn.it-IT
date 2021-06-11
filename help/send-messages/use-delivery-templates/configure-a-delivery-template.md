@@ -10,16 +10,16 @@ team: TM
 role: Administrator
 level: Beginner
 source-git-commit: f6bb16306773a4b6ff7aa390a514e9b31fe047d6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '91'
-ht-degree: 1%
+ht-degree: 100%
 
 ---
 
 
 # Configurare un modello di consegna
 
-I reparti di marketing producono modelli di consegna per standardizzare l’aspetto creativo e l’aspetto creativo, al fine di essere più rapidi nell’esecuzione e nel lancio delle campagne.
+I reparti di marketing producono modelli di consegna per uniformare l’aspetto grafico delle comunicazioni e velocizzare l’esecuzione e il lancio delle campagne.
 
 Un modello può includere sistematicamente:
 
