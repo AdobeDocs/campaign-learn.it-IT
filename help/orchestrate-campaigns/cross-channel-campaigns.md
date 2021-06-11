@@ -11,16 +11,16 @@ hide: true
 hidefromtoc: true
 source-git-commit: 9e794c686fc776dca5b554d4861810a802c5be72
 workflow-type: tm+mt
-source-wordcount: '59'
-ht-degree: 37%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 # Creare campagne cross-channel
 
-In una campagna cross-channel, una singola comunicazione di marketing utilizza più canali per raggiungere un pubblico di destinazione più ampio in base al canale destinatario preferito.
+In una campagna cross-channel, una singola comunicazione di marketing utilizza più canali per raggiungere un pubblico di destinazione più ampio in base al canale preferito dai destinatari.
 
-Scopri come creare una campagna cross-channel utilizzando le consegne e-mail, SMS e direct mail.
+Scopri come creare una campagna cross-channel utilizzando consegne e-mail, SMS e direct mail.
 
 >[!VIDEO](https://video.tv.adobe.com/v/330990?quality=12)
 
