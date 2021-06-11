@@ -1,6 +1,6 @@
 ---
 title: Introduzione ad Adobe Campaign V8
-description: Scopri in che modo Adobe Campaign si inserisce nel portfolio Adobe Digital Experience e scopri le funzioni e le funzionalità principali.
+description: Scopri in che modo Adobe Campaign si inserisce nel portfolio Adobe Digital Experience e le funzioni e caratteristiche principali.
 feature: Panoramica
 kt: 7822
 thumbnail: 35129.jpg
@@ -13,14 +13,14 @@ hide: true
 hidefromtoc: true
 source-git-commit: 9e794c686fc776dca5b554d4861810a802c5be72
 workflow-type: tm+mt
-source-wordcount: '49'
-ht-degree: 2%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 
 # Introduzione ad Adobe Campaign V8
 
-Scopri in che modo Adobe Campaign si inserisce nel portfolio Adobe Digital Experience e scopri le funzioni e le funzionalità principali.
+Scopri in che modo Adobe Campaign si inserisce nel portfolio Adobe Digital Experience e le funzioni e caratteristiche principali.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35129?quality=12)
