@@ -1,7 +1,7 @@
 ---
 title: Eseguire una campagna
 description: Scopri come eseguire una campagna, esaminare una consegna e-mail e le proprietà di consegna.
-feature: Campagne, E-mail
+feature: Campagne, e-mail
 kt: 7786
 thumbnail: 329647.jpg
 doc-type: feature video
@@ -14,7 +14,7 @@ hidefromtoc: true
 source-git-commit: 9e794c686fc776dca5b554d4861810a802c5be72
 workflow-type: tm+mt
 source-wordcount: '52'
-ht-degree: 19%
+ht-degree: 100%
 
 ---
 
