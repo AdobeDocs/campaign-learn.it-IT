@@ -1,7 +1,7 @@
 ---
-title: Tutorials Adobe Campaign V8 - Panoramica
-description: Adobe Campaign fornisce una piattaforma per la progettazione di esperienze cliente cross-channel e un ambiente per l’orchestrazione visiva delle campagne, la gestione delle interazioni in tempo reale e l’esecuzione cross-channel. Questa guida utente contiene video ed esercitazioni sulle numerose funzioni e capacità di Adobe Campaign Standard.
-sub-product: Campagna V8
+title: 'Tutorial di Adobe Campaign V8: panoramica'
+description: Adobe Campaign fornisce una piattaforma per la progettazione di customer experience cross-channel e fornisce un ambiente per l’orchestrazione visiva delle campagne, la gestione delle interazioni in tempo reale e l’esecuzione cross-channel. Questa guida utente contiene video e tutorial sulle numerose funzioni e caratteristiche di Adobe Campaign Standard.
+sub-product: Campaign V8
 feature: Panoramica
 role: Business Practitioner, Administrator, Developer
 level: Beginner
@@ -9,17 +9,17 @@ exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 source-git-commit: 495e99456b53adb650d6a3aac230510e64567fdc
 workflow-type: tm+mt
 source-wordcount: '293'
-ht-degree: 18%
+ht-degree: 71%
 
 ---
 
-# Tutorials Adobe Campaign V8 - Panoramica
+# Tutorial di Adobe Campaign V8: panoramica
 
-Adobe Campaign fornisce una piattaforma per la progettazione di esperienze cliente cross-channel e un ambiente per l’orchestrazione visiva delle campagne, la gestione delle interazioni in tempo reale e l’esecuzione cross-channel. Questa guida utente contiene video ed esercitazioni sulle numerose funzioni e funzionalità di Adobe Campaign V8.
+Adobe Campaign fornisce una piattaforma per la progettazione di customer experience cross-channel e fornisce un ambiente per l’orchestrazione visiva delle campagne, la gestione delle interazioni in tempo reale e l’esecuzione cross-channel. La presente guida utente contiene video e tutorial sulle numerose funzioni e caratteristiche di Adobe Campaign V8.
 
 >[!NOTE]
 > Campaign v8 è attualmente disponibile solo come Cloud Service gestito e non può essere distribuito in ambienti on-premise o ibridi. La migrazione da un ambiente Campaign Classic v7 esistente non è ancora disponibile.
->Per ulteriori informazioni sulle differenze tra le due versioni, consulta la [Documentazione dei prodotti da v7 a V8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/capability-matrix.html) . Consulta anche la sezione [Esercitazioni Campaign Classic V7](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=it) per informazioni su come video.
+>Per ulteriori informazioni sulle differenze tra le due versioni, consulta la [documentazione sul passaggio da Classic V7 a V8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/capability-matrix.html). Consulta anche la sezione [Tutorial su Campaign Classic V7](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=it) per trovare dei video esplicativi.
 
 ## Novità
 
@@ -74,11 +74,11 @@ Adobe Campaign fornisce una piattaforma per la progettazione di esperienze clien
 </td>
   <td>
     <a href="./reporting/generate-a-descriptive-analysis-report.md">
-      <img alt="Genera un rapporto di analisi descrittivo" src="./assets/333994.jpg" />
+      <img alt="Generare un rapporto di analisi descrittivo" src="./assets/333994.jpg" />
     </a>
     <div>
       <a href="./reporting/generate-a-descriptive-analysis-report.md">
-    <strong>Genera un rapporto di analisi descrittivo</strong>
+    <strong>Generare un rapporto di analisi descrittivo</strong>
     </a>
     </div>
     <p>
