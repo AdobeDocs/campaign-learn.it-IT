@@ -9,14 +9,14 @@ team: WWFRE
 role: Business Practitioner
 level: Beginner
 source-git-commit: f6bb16306773a4b6ff7aa390a514e9b31fe047d6
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '44'
 ht-degree: 100%
 
 ---
 
 
-# Progettare le e-mail per ottimizzarne la consegna
+# Progettare le e-mail per la consegna
 
 Scopri come applicare le best practice per la consegna delle e-mail.
 
