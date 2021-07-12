@@ -1,22 +1,22 @@
 ---
-title: 'Configurare il canale push con l’SDK di Experience Platform Mobile '
-description: 'Scopri come configurare il canale push utilizzando l’SDK di Experience Cloud Mobile. '
+title: Configurare il canale push con l’SDK di Experience Platform Mobile
+description: Scopri come configurare il canale push utilizzando l’SDK di Experience Cloud Mobile.
 feature: Push
 kt: 7960
 doc-type: feature video
 activity: setup
 team: PM
-role: Administrator
+role: Admin
 level: Beginner
 hide: true
 hidefromtoc: true
-source-git-commit: f6bb16306773a4b6ff7aa390a514e9b31fe047d6
+exl-id: 1bdfb72b-49e0-4cdd-848a-97648fb1a7bf
+source-git-commit: 02a6238163a7c8f887236e03b78673c57c836a45
 workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 100%
 
 ---
-
 
 # Configurare il canale push con l’SDK di Experience Platform Mobile
 
