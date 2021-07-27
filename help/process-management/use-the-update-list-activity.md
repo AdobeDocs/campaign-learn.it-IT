@@ -2,15 +2,14 @@
 title: Utilizzare l’attività di aggiornamento elenco per creare un elenco con un flusso di lavoro
 description: Scopri gli elenchi in Adobe Campaign e come creare un elenco utilizzando l’attività di aggiornamento elenco in un flusso di lavoro.
 feature: Flussi di lavoro, attività di targeting, editor di query
-kt: 7988
-thumbnail: 35620.jpg
+kt: 7840
+thumbnail: 334909.jpg
 doc-type: feature video
 activity: use
-team: WWFRE
+team: TM
 role: User
 level: Beginner
-exl-id: a8cc7fed-0818-4dcb-8360-fda9dc79dae7
-source-git-commit: 02a6238163a7c8f887236e03b78673c57c836a45
+source-git-commit: ae66723c1d9cd54b5d378354bd780febadbb73ae
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 100%
@@ -21,7 +20,7 @@ ht-degree: 100%
 
 Scopri gli elenchi in Adobe Campaign e come creare un elenco utilizzando l’attività di aggiornamento elenco in un flusso di lavoro.
 
->[!VIDEO](https://video.tv.adobe.com/v/35620?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/334909?quality=12)
 
 ## Risorse aggiuntive
 
