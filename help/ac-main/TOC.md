@@ -5,10 +5,10 @@ user-guide-title: Tutorial su Adobe Campaign
 user-guide-description: Adobe Campaign consente agli esperti di marketing di progettare esperienze cliente per diversi canali e fornisce un ambiente per l’orchestrazione visiva delle campagne, la gestione delle interazioni in tempo reale e l’esecuzione cross-channel.
 breadcrumb-title: Tutorial
 breadcrumb-url: /docs/campaign-learn/tutorials/overview.html
-source-git-commit: 2ab58641e8805dd14b045ca497896f94e3b81647
+source-git-commit: 39d79c9d853214b91e4f192fb01381473ec06ca0
 workflow-type: tm+mt
-source-wordcount: '304'
-ht-degree: 96%
+source-wordcount: '296'
+ht-degree: 93%
 
 ---
 
@@ -16,13 +16,13 @@ ht-degree: 96%
 # Tutorial su Adobe Campaign V8 {#tutorials}
 
 + [Panoramica](/help/overview.md)
-+ Guida introduttiva {#getting-started}
-   + [Introduzione ad Adobe Campaign](/help/getting-started/introduction-to-adobe-campaign.md)
-   + [Installare e configurare il client Adobe Campaign](/help/getting-started/install-and-setup-the-adobe-campaign-client.md)
-   + [Esplorare l’interfaccia utente di Adobe Campaign](/help/getting-started/explore-the-adobe-campaign-user-interface.md)
-   + [Gestire le campagne di marketing](/help/getting-started/manage-marketing-campaigns.md)
-   + [Creare un piano marketing, programmi e campagne](/help/getting-started/create-a-marketing-plan-programs-and-campaigns.md)
-   + [Creare campagne attivate da un evento](/help/getting-started/create-event-triggered-campaigns.md)
++ Introduzione {#getting-started}
+   + [Introduzione ad Adobe Campaign](/help/get-started/introduction-to-adobe-campaign.md)
+   + [Installare e configurare il client Adobe Campaign](/help/get-started/install-and-setup-the-adobe-campaign-client.md)
+   + [Esplorare l’interfaccia utente di Adobe Campaign](/help/get-started/explore-the-adobe-campaign-user-interface.md)
+   + [Gestire le campagne di marketing](/help/get-started/manage-marketing-campaigns.md)
+   + [Creare un piano marketing, programmi e campagne](/help/get-started/create-a-marketing-plan-programs-and-campaigns.md)
+   + [Creare campagne attivate da un evento](/help/get-started/create-event-triggered-campaigns.md)
 + Gestione profilo {#profile-management}
    + [Creare e gestire i profili](/help/profile-management/create-and-manage-profiles.md)
    + [Targeting dei profili in un flusso di lavoro](/help/profile-management/target-profiles-in-a-workflow.md)
@@ -48,7 +48,7 @@ ht-degree: 96%
       + [Progettare le e-mail per la consegna](/help/send-messages/email/design-emails-for-deliverability.md)
       + [Guida alle best practice per la consegna](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=it)
    + SMS {#sms}
-      + [Crea una consegna SMS](/help/send-messages/mobile/create-a-sms-delivery.md)
+      + [Creare una consegna SMS](/help/send-messages/mobile/create-a-sms-delivery.md)
    + Push {#push}
       + [Installare il canale app mobile](/help/send-messages/mobile/install-the-mobile-app.md)
       + [Configurare il canale push con l’SDK mobile di Experience Platform](/help/send-messages/mobile/configure-push-using-aep-mobile-sdk.md)
@@ -65,12 +65,12 @@ ht-degree: 96%
 + Gestione dei processi e automazione{#process-management}
    + [Creare un flusso di lavoro](/help/process-management/create-a-workflow.md)
    + [Creare consegne ricorrenti e continue](/help/process-management/recurring-deliveries.md)
-   + [Creare un flusso di lavoro di targeting](/help/process-management/create-a-targeting-workflow.md)
-   + [Utilizzare l’attività di aggiornamento elenco per creare un elenco con un flusso di lavoro](/help/process-management/use-the-update-list-activity.md)
+   + [Creare flussi di lavoro di targeting](/help/process-management/create-a-targeting-workflow.md)
    + [Ottimizzare le destinazioni attraverso la combinazione dei risultati delle query](/help/process-management/refine-targets-by-combining-query-results.md)
    + [Ottimizzare le destinazioni attraverso l’esclusione dei risultati delle query](/help/process-management/refine-targets-by-excluding-query-results.md)
    + [Creare flussi di lavoro di convalida](/help/process-management/create-validation-workflows.md)
    + [Gestire le approvazioni](/help/process-management/manage-approvals.md)
+   + [Utilizzare l’attività di aggiornamento elenco](/help/process-management/use-the-update-list-activity.md)
    + [Configurare le attività di arricchimento](/help/process-management/enrichment-activity.md)
 + Gestione dati {#data-management}
    + [Importare i profili](/help/data-management/import-profiles.md)
