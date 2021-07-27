@@ -1,6 +1,6 @@
 ---
 title: Creare campagne multicanale
-description: Scopri come creare una campagna multicanale utilizzando consegne e-mail, SMS e direct mail.
+description: Scopri come creare una campagna multicanale utilizzando e-mail, SMS e una consegna direct mailing, in base al canale preferito del destinatario.
 feature: Flussi di lavoro
 kt: 7794
 thumbnail: 335440.jpg
@@ -10,20 +10,18 @@ team: TM
 role: User
 level: Beginner
 exl-id: 5f71cea8-aa13-4b89-a1c5-10c97a8992c8
-source-git-commit: 54ffd051cabc37b4d084ed6f4a36fe2164d7044b
+source-git-commit: e28e2f83ef1cbf82fe4969420bd80faae27e3a17
 workflow-type: tm+mt
-source-wordcount: '78'
-ht-degree: 100%
+source-wordcount: '92'
+ht-degree: 16%
 
 ---
 
 # Creare campagne multicanale
 
-In una campagna multicanale, una singola comunicazione di marketing utilizza più canali per raggiungere un pubblico di destinazione più ampio in base al canale preferito dai destinatari.
+In una campagna multicanale, una singola comunicazione di marketing utilizza più canali per raggiungere un pubblico di destinazione più ampio. I canali sono indipendenti senza alcuna connessione tra di loro, il che significa che i clienti rimangono in un unico canale all’interno di un unico flusso di lavoro.
 
-Le consegne multicanale sono progettate ed eseguite in un unico flusso di lavoro.
-
-Scopri come creare una campagna multicanale utilizzando consegne e-mail, SMS e direct mail.
+Scopri come creare una campagna multicanale utilizzando e-mail, SMS e una consegna direct mailing, in base al canale preferito del destinatario.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335440?quality=12)
 
