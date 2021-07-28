@@ -3,16 +3,13 @@ title: Configurare il contenuto dinamico
 description: Scopri i diversi tipi di contenuti dinamici e come creare e applicare blocchi di personalizzazione e istruzioni condizionali a una consegna.
 feature: Contenuto dinamico, Personalizzazione, E-Mail
 kt: 7789
-thumbnail: 329936.jpg
+thumbnail: 335734.jpg
 doc-type: feature video
 activity: use
-team: WWFRE
+team: TM
 role: User
 level: Beginner
-exl-id: a649e71c-1866-4596-88cf-0ede861c8845
-hide: true
-hidefromtoc: true
-source-git-commit: 02a6238163a7c8f887236e03b78673c57c836a45
+source-git-commit: 3f73019c23dad58d7246cf7fc5d200949a756d23
 workflow-type: tm+mt
 source-wordcount: '65'
 ht-degree: 100%
@@ -23,7 +20,7 @@ ht-degree: 100%
 
 Scopri i diversi tipi di contenuti dinamici e come creare e applicare blocchi di personalizzazione e istruzioni condizionali a una consegna.
 
->[!VIDEO](https://video.tv.adobe.com/v/329936?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335734?quality=12)
 
 ## Risorse aggiuntive
 
