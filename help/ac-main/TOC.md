@@ -7,8 +7,8 @@ breadcrumb-title: Tutorial
 breadcrumb-url: /docs/campaign-learn/tutorials/overview.html
 source-git-commit: 685d9d1c417cf26af3e518ca5e0b1a363831d66d
 workflow-type: tm+mt
-source-wordcount: '297'
-ht-degree: 92%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
