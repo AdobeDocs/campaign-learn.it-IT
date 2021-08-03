@@ -5,10 +5,10 @@ user-guide-title: Tutorial su Adobe Campaign
 user-guide-description: Adobe Campaign consente agli esperti di marketing di progettare esperienze cliente per diversi canali e fornisce un ambiente per l’orchestrazione visiva delle campagne, la gestione delle interazioni in tempo reale e l’esecuzione cross-channel.
 breadcrumb-title: Tutorial
 breadcrumb-url: /docs/campaign-learn/tutorials/overview.html
-source-git-commit: 685d9d1c417cf26af3e518ca5e0b1a363831d66d
+source-git-commit: b992915fa4eae36296ea23f8b073458418014cf4
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '297'
+ht-degree: 92%
 
 ---
 
@@ -23,10 +23,10 @@ ht-degree: 0%
    + [Gestire le campagne di marketing](/help/get-started/manage-marketing-campaigns.md)
    + [Creare un piano marketing, programmi e campagne](/help/get-started/create-a-marketing-plan-programs-and-campaigns.md)
    + [Creare campagne attivate da un evento](/help/get-started/create-event-triggered-campaigns.md)
-+ Gestione profilo {#profile-management}
++ Gestione dei profili {#profile-management}
    + [Creare e gestire i profili](/help/profile-management/create-and-manage-profiles.md)
    + [Targeting dei profili in un flusso di lavoro](/help/profile-management/target-profiles-in-a-workflow.md)
-+ Orchestrazione della campagna {#campaign-orchestration}
++ Orchestrazione campagna {#campaign-orchestration}
    + [Eseguire una campagna](/help/orchestrate-campaigns/execute-a-campaign.md)
    + [Introduzione a campagne multiple e trasversali](/help/orchestrate-campaigns/introduction-to-cross-and-multi-channel-campaigns.md)
    + [Creare campagne multicanale](/help/orchestrate-campaigns/multi-channel-campaigns.md)
@@ -58,7 +58,7 @@ ht-degree: 0%
       + [Configurare un modello di consegna](/help/send-messages/use-delivery-templates/configure-a-delivery-template.md)
       + [Impostare le proprietà del modello di consegna](/help/send-messages/use-delivery-templates/set-delivery-template-properties.md)
       + [Distribuire un modello di consegna e-mail ad hoc](/help/send-messages/use-delivery-templates/deploy-ad-hoc-email-delivery-template.md)
-   + Gestione dell’eccesso{#fatigue-management}
+   + Gestione dell&#39;affaticamento{#fatigue-management}
       + [Regole di tipologia](/help/send-messages/fatigue-management/typology-rules-for-fatigue-management.md)
       + [Filtri predefiniti](/help/send-messages/fatigue-management/fatigue-management-using-filters.md)
    + [Configurare e gestire i servizi di abbonamento](/help/send-messages/configure-and-manage-subscription-services.md)
