@@ -1,5 +1,5 @@
 ---
-title: Gestisci l’affaticamento utilizzando le regole di tipologia.
+title: Gestire l’eccesso utilizzando le regole di tipologia.
 description: Scopri come implementare la gestione dell’eccesso applicando le regole di tipologia.
 feature: Gestione dell’eccesso
 kt: 7959
@@ -11,17 +11,17 @@ role: User
 level: Beginner
 exl-id: 8a6e8580-24c2-44d9-88bc-1120bfdd9e8a
 source-git-commit: 02a6238163a7c8f887236e03b78673c57c836a45
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '87'
-ht-degree: 73%
+ht-degree: 100%
 
 ---
 
-# Gestire l’affaticamento utilizzando le regole di tipologia
+# Gestire l’eccesso utilizzando le regole di tipologia
 
 La gestione dell’eccesso controlla la frequenza e la quantità di messaggi per evitare un’eccessiva sollecitazione dei destinatari e viene spesso applicata utilizzando una regola di tipologia.
 
-Scopri come implementare la gestione dell’affaticamento in Adobe Campaign utilizzando le regole di tipologia.
+Scopri come implementare la gestione dell’eccesso in Adobe Campaign utilizzando le regole di tipologia.
 
 >[!VIDEO](https://video.tv.adobe.com/v/333787?quality=12)
 
