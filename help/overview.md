@@ -6,16 +6,19 @@ feature: Panoramica
 role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-source-git-commit: b2f45f3ac832b0fca913a74d2df2baa6303e5a43
+source-git-commit: 813c9af51ac9605455d97e7a07c58d02520b62b1
 workflow-type: tm+mt
-source-wordcount: '293'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 # Tutorial di Adobe Campaign V8: panoramica
 
 Adobe Campaign fornisce una piattaforma per la progettazione di customer experience cross-channel e fornisce un ambiente per l’orchestrazione visiva delle campagne, la gestione delle interazioni in tempo reale e l’esecuzione cross-channel. La presente guida utente contiene video e tutorial sulle numerose funzioni e caratteristiche di Adobe Campaign V8.
+
+>[!INFO]
+> Lei ha delle domande? Vuoi condividere la tua esperienza o scambiare pensieri con i tuoi colleghi? Oppure, hai un feedback sui contenuti di apprendimento per il team di Adobe? Partecipa alla conversazione nel [thread della community di apprendimento Adobe Campaign](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic/join-the-discussion-around-adobe-campaign-learning/td-p/419096)!
 
 >[!NOTE]
 > Campaign V8 è attualmente disponibile solo come Cloud Service gestito e non può essere distribuito in ambienti on-premise o ibridi. La migrazione da un ambiente Campaign Classic v7 esistente non è ancora disponibile.
