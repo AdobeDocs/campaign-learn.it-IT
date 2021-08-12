@@ -6,9 +6,9 @@ user-guide-description: Adobe Campaign consente agli esperti di marketing di pro
 breadcrumb-title: Tutorial
 breadcrumb-url: /docs/campaign-learn/tutorials/overview.html
 source-git-commit: b992915fa4eae36296ea23f8b073458418014cf4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '297'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -48,7 +48,7 @@ ht-degree: 92%
       + [Progettare le e-mail per la consegna](/help/send-messages/email/design-emails-for-deliverability.md)
       + [Guida alle best practice per la consegna](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=it)
    + SMS {#sms}
-      + [Crea una consegna SMS](/help/send-messages/mobile/create-an-sms-delivery.md)
+      + [Creare una consegna SMS](/help/send-messages/mobile/create-an-sms-delivery.md)
    + Push {#push}
       + [Installare il canale app mobile](/help/send-messages/mobile/install-the-mobile-app.md)
       + [Configurare il canale push con l’SDK mobile di Experience Platform](/help/send-messages/mobile/configure-push-using-aep-mobile-sdk.md)
@@ -58,9 +58,9 @@ ht-degree: 92%
       + [Configurare un modello di consegna](/help/send-messages/use-delivery-templates/configure-a-delivery-template.md)
       + [Impostare le proprietà del modello di consegna](/help/send-messages/use-delivery-templates/set-delivery-template-properties.md)
       + [Distribuire un modello di consegna e-mail ad hoc](/help/send-messages/use-delivery-templates/deploy-ad-hoc-email-delivery-template.md)
-   + Gestione dell&#39;affaticamento{#fatigue-management}
+   + Gestione dell’eccesso{#fatigue-management}
       + [Regole di tipologia](/help/send-messages/fatigue-management/typology-rules-for-fatigue-management.md)
-      + [Filtri predefiniti](/help/send-messages/fatigue-management/fatigue-management-using-filters.md)
+      + [Filtri preimpostati](/help/send-messages/fatigue-management/fatigue-management-using-filters.md)
    + [Configurare e gestire i servizi di abbonamento](/help/send-messages/configure-and-manage-subscription-services.md)
 + Gestione dei processi e automazione{#process-management}
    + [Creare un flusso di lavoro](/help/process-management/create-a-workflow.md)
