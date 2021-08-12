@@ -1,6 +1,6 @@
 ---
 title: Targeting dei profili in un flusso di lavoro
-description: Scopri l’utilizzo dei flussi di lavoro delle campagne e come creare un flusso di lavoro e utilizzare le condizioni di filtro per eseguire il targeting dei profili in un flusso di lavoro.
+description: Scopri l’utilizzo dei flussi di lavoro per campagne e come creare un flusso di lavoro e utilizzare le condizioni di filtro per eseguire il targeting dei profili in un flusso di lavoro.
 kt: 7842
 thumbnail: 334300.jpg
 doc-type: feature video
@@ -9,15 +9,15 @@ team: WWFRE
 role: User
 level: Beginner
 source-git-commit: 08e46479272cd319377fdf27f8585acc47deea06
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '84'
-ht-degree: 45%
+ht-degree: 100%
 
 ---
 
 # Targeting dei profili in un flusso di lavoro
 
-Scopri l’utilizzo dei flussi di lavoro delle campagne e come creare un flusso di lavoro e utilizzare le condizioni di filtro per eseguire il targeting dei profili in un flusso di lavoro.
+Scopri l’utilizzo dei flussi di lavoro per campagne e come creare un flusso di lavoro e utilizzare le condizioni di filtro per eseguire il targeting dei profili in un flusso di lavoro.
 
 >[!VIDEO](https://video.tv.adobe.com/v/334300?quality=12)
 
