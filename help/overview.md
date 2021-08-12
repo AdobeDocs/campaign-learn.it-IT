@@ -9,7 +9,7 @@ exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 source-git-commit: b2f45f3ac832b0fca913a74d2df2baa6303e5a43
 workflow-type: tm+mt
 source-wordcount: '293'
-ht-degree: 71%
+ht-degree: 100%
 
 ---
 
@@ -18,12 +18,12 @@ ht-degree: 71%
 Adobe Campaign fornisce una piattaforma per la progettazione di customer experience cross-channel e fornisce un ambiente per l’orchestrazione visiva delle campagne, la gestione delle interazioni in tempo reale e l’esecuzione cross-channel. La presente guida utente contiene video e tutorial sulle numerose funzioni e caratteristiche di Adobe Campaign V8.
 
 >[!NOTE]
-> Campaign v8 è attualmente disponibile solo come Cloud Service gestito e non può essere distribuito in ambienti on-premise o ibridi. La migrazione da un ambiente Campaign Classic v7 esistente non è ancora disponibile.
->Per ulteriori informazioni sulle differenze tra le due versioni, consulta la [documentazione sul passaggio da Classic V7 a V8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/capability-matrix.html). Consulta anche la sezione [Tutorial su Campaign Classic V7](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=it) per trovare dei video esplicativi.
+> Campaign V8 è attualmente disponibile solo come Cloud Service gestito e non può essere distribuito in ambienti on-premise o ibridi. La migrazione da un ambiente Campaign Classic v7 esistente non è ancora disponibile.
+>Per ulteriori informazioni sulle differenze tra le due versioni, consulta la [documentazione sul passaggio da Classic V7 a V8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/capability-matrix.html?lang=it). Consulta anche la sezione [Tutorial su Campaign Classic V7](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=it) per trovare dei video esplicativi.
 
 ## Novità
 
-[Funzionalità principali](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/whats-new.html)
+[Funzionalità principali](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/whats-new.html?lang=it)
 
 ## Scelti dallo staff
 
@@ -58,15 +58,15 @@ Adobe Campaign fornisce una piattaforma per la progettazione di customer experie
   </td>
   <td>
     <a href="./send-messages/fatigue-management/typology-rules-for-fatigue-management.md">
-      <img alt="Gestione dell’affaticamento tramite le regole di tipologia (video)" src="./assets/333787.jpg" />
+      <img alt="Gestire l’eccesso tramite le regole di tipologia (video)" src="./assets/333787.jpg" />
     </a>
     <div>
       <a href="./send-messages/fatigue-management/typology-rules-for-fatigue-management.md">
-    <strong>Gestire l’affaticamento utilizzando le regole di tipologia</strong>
+    <strong>Gestire l’eccesso utilizzando le regole di tipologia</strong>
     </a>
     </div>
     <p>
-    <em>Scopri come implementare la gestione dell’affaticamento in Adobe Campaign utilizzando le regole di tipologia.  </em>
+    <em>Scopri come implementare la gestione dell’eccesso in Adobe Campaign utilizzando le regole di tipologia. </em>
     <p>
   </td>
 </tr>
@@ -90,4 +90,4 @@ Adobe Campaign fornisce una piattaforma per la progettazione di customer experie
 
 ## Risorse aggiuntive
 
-* [Documentazione](https://experienceleague.adobe.com/docs/campaign-v8.html)
+* [Documentazione](https://experienceleague.adobe.com/docs/campaign-v8.html?lang=it)
