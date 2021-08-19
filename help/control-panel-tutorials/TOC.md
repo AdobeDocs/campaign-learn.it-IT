@@ -7,17 +7,17 @@ index: true
 feature: Pannello di controllo Campaign
 role: Admin
 level: Experienced
-source-git-commit: 4fc34f56e13c3df5f1c42c24c87a6c7c5caff04b
+source-git-commit: de84aa9791e006d5a8c8c70871b055a676883020
 workflow-type: tm+mt
-source-wordcount: '102'
-ht-degree: 48%
+source-wordcount: '94'
+ht-degree: 46%
 
 ---
 
 
 # Pannello di controllo di Adobe Campaign - Tutorial {#control-panel}
 
-+ [Panoramica del Pannello di controllo Campaign](/help/control-panel-tutorials/control-panel-overview.md)
++ [Panoramica](/help/control-panel-tutorials/control-panel-overview.md)
 + [Introduzione al Pannello di controllo Campaign](/help/control-panel-tutorials/get-started.md)
 + Gestione SFTP {#sftp-management}
    + [Monitorare la capacità del server](/help/control-panel-tutorials/sftp-management/monitor-server-capacity.md)
@@ -28,8 +28,8 @@ ht-degree: 48%
    + [Aggiungere indirizzi IP agli elenchi consentiti](/help/control-panel-tutorials/instance-settings/ip-allow-listing.md)
    + [Aggiungi autorizzazioni URL](/help/control-panel-tutorials/instance-settings/add-url-permissions.md)
    + Gestione delle chiavi GPG {#gpg-key-management}
-      + [Gestione delle chiavi GPG: panoramica](/help/control-panel-tutorials/instance-settings/gpg-key-management/gpg-key-management-overview.md)
-      + [Generare e installare le chiavi GPG per la crittografia dei dati](/help/control-panel-tutorials/instance-settings/gpg-key-management/generate-and-install-gpg-keys-for-data-encryption.md)
+      + [Panoramica](/help/control-panel-tutorials/instance-settings/gpg-key-management/gpg-key-management-overview.md)
+      + [Generare e installare le chiavi GPG](/help/control-panel-tutorials/instance-settings/gpg-key-management/generate-and-install-gpg-keys.md)
       + [Utilizzare una chiave GPG per crittografare i dati](/help/control-panel-tutorials/instance-settings/gpg-key-management/use-a-gpg-key-to-encrypt-data.md)
       + [Decrittografare i dati](/help/control-panel-tutorials/instance-settings/gpg-key-management/decrypt-data.md)
 + Monitoraggio delle prestazioni {#performance-monitoring}
