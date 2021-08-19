@@ -8,9 +8,9 @@ activity: use
 team: PM
 role: Admin
 level: Experienced
-source-git-commit: e64bbfc8f0afd2e4a6b3bd98b261e0554ff51a78
+source-git-commit: 04659ac7587f21644110bdb4c2c2bf65bc5a49c6
 workflow-type: tm+mt
-source-wordcount: '212'
+source-wordcount: '211'
 ht-degree: 54%
 
 ---
@@ -24,12 +24,12 @@ Adobe Campaign Pannelli di controllo Campaign consente agli amministratori di Ad
 <table>
 <tr>
 <td>
-    <a href="./getting-started-with-the-control-panel.md">
+    <a href="./get-started.md">
       <img alt="Connettersi a un server SFTP" src="./assets/kt-6385.jpg" />
     </a>
     <div>
-      <a href="./getting-started-with-the-control-panel.md">
-    <strong>Introduzione al Pannello di controllo Campaign</strong>
+      <a href="./get-started.md">
+    <strong>Guida introduttiva a Pannelli di controllo Campaign</strong>
     </a>
     </div>
     <p>
