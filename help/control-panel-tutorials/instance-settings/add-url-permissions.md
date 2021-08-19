@@ -1,6 +1,6 @@
 ---
 title: Aggiungi autorizzazioni URL
-description: Scopri come stabilire una connessione dall’istanza Adobe Campaign Classic a un URL esterno.
+description: Scopri come stabilire una connessione dall’istanza Adobe Campaign a un URL esterno.
 feature: Pannello di controllo Campaign
 kt: 8514
 thumbnail: 28149.jpg
@@ -9,16 +9,16 @@ activity: use
 team: TM
 role: Admin
 level: Experienced
-source-git-commit: f8ed9264e592f4adf070a517049e3d36fc3112d5
+source-git-commit: 88f4a8b0c7cee415c6f34d51daeb980535dfc0e5
 workflow-type: tm+mt
-source-wordcount: '54'
-ht-degree: 16%
+source-wordcount: '52'
+ht-degree: 17%
 
 ---
 
 # Aggiungi autorizzazioni URL
 
-Scopri come stabilire una connessione dall’istanza [!UICONTROL Adobe Campaign Classic] a un URL esterno.
+Scopri come stabilire una connessione dall’istanza [!UICONTROL Adobe Campaign] a un URL esterno.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28149?quality=12)
 
