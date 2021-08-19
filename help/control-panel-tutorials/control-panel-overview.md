@@ -1,32 +1,23 @@
 ---
 title: Pannello di controllo Campaign    - Panoramica
-description: Il Pannello di controllo di Adobe Campaign consente agli amministratori di monitorare le risorse chiave ed eseguire attività amministrative, ad esempio gestire l’archiviazione SFTP per istanza e le chiavi GPG o i sottodomini e i certificati.
+description: Adobe Campaign Pannelli di controllo Campaign consente agli amministratori di Adobe Campaign di monitorare le risorse chiave ed eseguire attività amministrative, ad esempio gestire l’archiviazione SFTP per istanza, le chiavi GPG o i sottodomini e i certificati.
 landing-page-description: Il Pannello di controllo Campaign consente agli amministratori di monitorare le risorse chiave ed eseguire attività di amministrazione, ad esempio gestire l’archiviazione SFTP, le chiavi GPG, i sottodomini e i certificati.
 feature: Pannello di controllo Campaign
-kt: 3262
 doc-type: feature video
 activity: use
 team: PM
 role: Admin
 level: Experienced
-original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/control-panel-overview.html
-exl-id: ae4c0448-ca8a-4599-8aaa-96c8184feff7
-source-git-commit: f8ed9264e592f4adf070a517049e3d36fc3112d5
+source-git-commit: e64bbfc8f0afd2e4a6b3bd98b261e0554ff51a78
 workflow-type: tm+mt
-source-wordcount: '228'
-ht-degree: 84%
+source-wordcount: '212'
+ht-degree: 54%
 
 ---
 
 # Pannello di controllo Campaign - Panoramica
 
-Il Pannello di controllo di Adobe Campaign consente agli amministratori di monitorare le risorse chiave ed eseguire attività amministrative, ad esempio gestire l’archiviazione SFTP per istanza e le chiavi GPG o i sottodomini e i certificati.
-
-## Novità
-
-* **[Monitoraggio dei database](/help/control-panel-tutorials/performance-monitoring/monitoring-databases.md)**
-
-   *Scopri come monitorare l’utilizzo del database delle istanze.*
+Adobe Campaign Pannelli di controllo Campaign consente agli amministratori di Adobe Campaign di monitorare le risorse chiave ed eseguire attività amministrative, ad esempio gestire l’archiviazione SFTP per istanza, le chiavi GPG o i sottodomini e i certificati.
 
 ## Scelti dallo staff
 
@@ -46,11 +37,11 @@ Il Pannello di controllo di Adobe Campaign consente agli amministratori di monit
     <p>
   </td>
   <td>
-    <a href="./generate-and-install-gpg-keys-for-data-encryption.md">
+    <a href="./instance-settings/gpg-key-management/generate-and-install-gpg-keys-for-data-encryption.md">
       <img alt="Connettersi a un server SFTP" src="./assets/36386.jpg" />
     </a>
     <div>
-      <a href="./generate-and-install-gpg-keys-for-data-encryption.md">
+      <a href="./instance-settings/gpg-key-management/generate-and-install-gpg-keys-for-data-encryption.md">
     <strong>Generare e installare le chiavi GPG per la crittografia dei dati</strong>
     </a>
     </div>
