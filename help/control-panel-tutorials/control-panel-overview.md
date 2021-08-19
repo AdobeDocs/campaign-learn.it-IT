@@ -1,23 +1,23 @@
 ---
 title: Pannello di controllo Campaign    - Panoramica
-description: Adobe Campaign Pannelli di controllo Campaign consente agli amministratori di Adobe Campaign di monitorare le risorse chiave ed eseguire attività amministrative, ad esempio gestire l’archiviazione SFTP per istanza, le chiavi GPG o i sottodomini e i certificati.
-landing-page-description: Il Pannello di controllo Campaign consente agli amministratori di monitorare le risorse chiave ed eseguire attività di amministrazione, ad esempio gestire l’archiviazione SFTP, le chiavi GPG, i sottodomini e i certificati.
+description: Il Pannello di controllo Campaign consente agli amministratori di Adobe Campaign di monitorare le risorse chiave ed eseguire attività amministrative, ad esempio gestire l’archiviazione SFTP per istanza, inserire gli indirizzi IP nell’elenco Consentiti o gestire le chiavi GPG.
+landing-page-description: Adobe Campaign Pannelli di controllo Campaign consente agli amministratori di Adobe Campaign di monitorare le risorse chiave ed eseguire attività amministrative, ad esempio gestire l’archiviazione SFTP per istanza, inserire gli indirizzi IP nell’elenco Consentiti o gestire le chiavi GPG.
 feature: Pannello di controllo Campaign
 doc-type: feature video
 activity: use
 team: PM
 role: Admin
 level: Experienced
-source-git-commit: de84aa9791e006d5a8c8c70871b055a676883020
+source-git-commit: 1389cd8ac570c6f7b61133917c1e64b98e31470b
 workflow-type: tm+mt
-source-wordcount: '211'
-ht-degree: 54%
+source-wordcount: '216'
+ht-degree: 41%
 
 ---
 
 # Pannello di controllo Campaign - Panoramica
 
-Adobe Campaign Pannelli di controllo Campaign consente agli amministratori di Adobe Campaign di monitorare le risorse chiave ed eseguire attività amministrative, ad esempio gestire l’archiviazione SFTP per istanza, le chiavi GPG o i sottodomini e i certificati.
+Il Pannello di controllo Campaign consente agli amministratori di Adobe Campaign di monitorare le risorse chiave ed eseguire attività amministrative, ad esempio gestire l’archiviazione SFTP per istanza, inserire gli indirizzi IP nell’elenco Consentiti o gestire le chiavi GPG.
 
 ## Scelti dallo staff
 
