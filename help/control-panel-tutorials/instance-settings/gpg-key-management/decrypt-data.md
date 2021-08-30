@@ -1,5 +1,5 @@
 ---
-title: Decrittografare i dati
+title: Decrittare i dati
 description: Il video seguente spiega come creare una chiave pubblica e importarla e installarla in un’istanza Campaign per decrittografare i dati.
 feature: Pannello di controllo Campaign
 kt: 8516
@@ -11,13 +11,13 @@ role: Admin
 level: Experienced
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/gpg-key-management/decrypting-data.html
 source-git-commit: f8ed9264e592f4adf070a517049e3d36fc3112d5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '88'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
-# Decrittografare i dati
+# Decrittare i dati
 
 Il Pannello di controllo Campaign consente di decrittografare i dati esterni che entrano nelle istanze Adobe Campaign utilizzando una coppia di chiavi pubblica/privata.
 Scopri come creare una chiave pubblica e importarla e installarla in un’istanza [!DNL Campaign] per decrittografare i dati in entrata.
