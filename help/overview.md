@@ -7,9 +7,9 @@ role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 source-git-commit: 90b7567de183292b359d2e606e8c2f296d702fa7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '364'
-ht-degree: 78%
+ht-degree: 100%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 78%
 Adobe Campaign fornisce una piattaforma per la progettazione di customer experience cross-channel e fornisce un ambiente per l’orchestrazione visiva delle campagne, la gestione delle interazioni in tempo reale e l’esecuzione cross-channel. La presente guida utente contiene video e tutorial sulle numerose funzioni e caratteristiche di Adobe Campaign V8.
 
 >[!INFO]
-> Lei ha delle domande? Vuoi condividere la tua esperienza o scambiare pensieri con i tuoi colleghi? Oppure, hai un feedback sui contenuti di apprendimento per il team di Adobe? Partecipa alla conversazione nel [thread della community di apprendimento Adobe Campaign](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic/join-the-discussion-around-adobe-campaign-learning/td-p/419096)!
+> Hai delle domande? Vuoi condividere la tua esperienza o scambiare idee con altri utenti? O forse vuoi inviare al team Adobe un feedback sui contenuti di apprendimento? Partecipa alla conversazione nel [thread della community di apprendimento Adobe Campaign](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic/join-the-discussion-around-adobe-campaign-learning/td-p/419096).
 
 >[!NOTE]
 > Campaign V8 è attualmente disponibile solo come Cloud Service gestito e non può essere distribuito in ambienti on-premise o ibridi. La migrazione da un ambiente Campaign Classic v7 esistente non è ancora disponibile.
@@ -26,9 +26,9 @@ Adobe Campaign fornisce una piattaforma per la progettazione di customer experie
 
 ## Novità
 
-* **[Pannello di controllo Campaign](https://experienceleague.adobe.com/docs/campaign-learn/control-panel/control-panel-overview.html)**
+* **[Pannello di controllo Campaign](https://experienceleague.adobe.com/docs/campaign-learn/control-panel/control-panel-overview.html?lang=it)**
 
-   *Scopri come monitorare le risorse chiave ed eseguire attività amministrative, ad esempio gestire l’archiviazione SFTP per istanza, inserire gli indirizzi IP nell’elenco Consentiti o gestire le chiavi GPG.*
+   *Scopri come monitorare le risorse chiave ed eseguire attività amministrative, ad esempio gestire l’archiviazione SFTP per le singole istanze, inserire gli indirizzi IP nell’elenco Consentiti o gestire le chiavi GPG.*
 
 ## Scelti dallo staff
 
