@@ -1,5 +1,5 @@
 ---
-title: Aggiungi autorizzazioni URL
+title: Aggiungere autorizzazioni URL
 description: Scopri come stabilire una connessione dall’istanza Adobe Campaign a un URL esterno.
 feature: Pannello di controllo Campaign
 kt: 8514
@@ -10,13 +10,13 @@ team: TM
 role: Admin
 level: Experienced
 source-git-commit: 88f4a8b0c7cee415c6f34d51daeb980535dfc0e5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '52'
-ht-degree: 17%
+ht-degree: 100%
 
 ---
 
-# Aggiungi autorizzazioni URL
+# Aggiungere autorizzazioni URL
 
 Scopri come stabilire una connessione dall’istanza [!UICONTROL Adobe Campaign] a un URL esterno.
 
