@@ -1,6 +1,6 @@
 ---
 title: Elenco consentiti di indirizzi IP
-description: Scopri come aggiungere un intervallo IP agli inserire nell'elenco Consentiti delle istanze di Campaign e come rimuoverli dall’inserire nell'elenco Consentiti tramite il pannello di controllo.
+description: Scopri come aggiungere o rimuovere un intervallo IP nell’elenco Consentiti delle istanze di Campaign, tramite il pannello di controllo Campaign.
 seo-description: Il video seguente spiega come impostare nuove connessioni alle istanze inserendo intervalli di indirizzi IP nell’elenco Consentiti.
 feature: Pannello di controllo Campaign
 kt: 8515
@@ -11,15 +11,15 @@ team: TM
 role: Admin
 level: Experienced
 source-git-commit: 88f4a8b0c7cee415c6f34d51daeb980535dfc0e5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '208'
-ht-degree: 56%
+ht-degree: 100%
 
 ---
 
 # Elenco consentiti di indirizzi IP
 
-Il Pannello di controllo Campaign consente di impostare nuove connessioni alle istanze inserendo intervalli di indirizzi IP nell’elenco Consentiti. Per impostazione predefinita non è possibile accedere a un’istanza Adobe Campaign da più indirizzi IP. Pertanto, è necessario aggiungere un indirizzo IP all’inserire nell&#39;elenco Consentiti:
+Il Pannello di controllo Campaign consente di impostare nuove connessioni alle istanze inserendo intervalli di indirizzi IP nell’elenco Consentiti. Per impostazione predefinita non è possibile accedere a un’istanza Adobe Campaign da più indirizzi IP. Pertanto, è necessario aggiungere un indirizzo IP all’elenco Consentiti:
 
 * Per consentire l’accesso all’istanza [!DNL Campaign] da questo indirizzo IP
 * Per collegare un’API al Centro messaggi o a un’istanza di marketing
@@ -28,13 +28,14 @@ Il Pannello di controllo Campaign consente di impostare nuove connessioni alle i
 
 Per accedere alla gestione dei sottodomini nel Pannello di controllo Campaign, vai a:
 
-* [Home](https://experience.adobe.com/#/home)  Experience Cloud > Selezione soluzioni:  **[!DNL Campaign]** >  **[!UICONTROL Scheda]** di controllo >  **Impostazioni** istanze o
+* [Home di Experience Cloud](https://experience.adobe.com/#/home) > Selettore soluzioni: **[!DNL Campaign]** > scheda **[!UICONTROL Pannello di controllo Campaign]** > scheda **Impostazioni istanze**
+Oppure
 * Direttamente dall’URL: [https://experience.adobe.com/#/controlpanel/instances](https://experience.adobe.com/#/controlpanel/instances)
 
-## Aggiungi un intervallo IP all’inserire nell&#39;elenco Consentiti della tua istanza
+## Aggiungere un intervallo IP all’elenco Consentiti dell’istanza
 
-Scopri come aggiungere un intervallo IP agli inserire nell&#39;elenco Consentiti delle istanze di Campaign e come rimuoverli dall’inserire nell&#39;elenco Consentiti tramite il pannello di controllo.
+Scopri come aggiungere o rimuovere un intervallo IP nell’elenco Consentiti delle istanze di Campaign, tramite il pannello di controllo Campaign.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28726?quality=12)
 
-Per ulteriori informazioni sull’inserimento degli indirizzi IP nell’elenco Consentiti, consulta la [documentazione dettagliata del prodotto](https://experienceleague.adobe.com/docs/control-panel/using/sftp-management/ip-range-allow-listing.html).
+Per ulteriori informazioni sull’inserimento degli indirizzi IP nell’elenco Consentiti, consulta la [documentazione dettagliata del prodotto](https://experienceleague.adobe.com/docs/control-panel/using/sftp-management/ip-range-allow-listing.html?lang=it).
