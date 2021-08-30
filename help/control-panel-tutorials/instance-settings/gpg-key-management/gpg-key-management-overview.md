@@ -6,21 +6,21 @@ team: TM
 role: Admin
 level: Experienced
 source-git-commit: de84aa9791e006d5a8c8c70871b055a676883020
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '103'
-ht-degree: 31%
+ht-degree: 100%
 
 ---
 
 # Gestione delle chiavi GPG - Panoramica
 
-GPG (GnuPG) crittografa i messaggi utilizzando coppie di chiavi singole asimmetriche. Per implementare la crittografia GPG con [!DNL Campaign], le chiavi GPG devono essere installate e/o generate in un’istanza di marketing da un amministratore direttamente dal Pannello di controllo Campaign.
+GPG (GnuPG) crittografa i messaggi utilizzando coppie di chiavi singole asimmetriche. Per implementare la crittografia GPG con [!DNL Campaign], le chiavi GPG devono essere installate e/o generate in un’istanza di marketing da un utente amministratore, direttamente dal Pannello di controllo Campaign.
 
 Scopri come generare e installare una coppia di chiavi pubblica/privata in una specifica istanza [!DNL Campaign].
 
-1. [Generare e installare le chiavi GPG per la crittografia dei dati](./generate-and-install-gpg-keys.md)
+1. [Generazione e installazione di chiavi GPG per la crittografia dei dati](./generate-and-install-gpg-keys.md)
 2. [Utilizzare una chiave GPG per crittografare i dati](./use-a-gpg-key-to-encrypt-data.md)
-3. [Decrittografare i dati](./decrypt-data.md)
+3. [Decrittare i dati](./decrypt-data.md)
 
 ## Risorse aggiuntive
 
