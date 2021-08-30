@@ -10,9 +10,9 @@ team: PM
 role: Admin
 level: Experienced
 source-git-commit: f8ed9264e592f4adf070a517049e3d36fc3112d5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '124'
-ht-degree: 31%
+ht-degree: 100%
 
 ---
 
@@ -36,4 +36,4 @@ Scopri come generare una chiave SSH utilizzando un terminale e come memorizzare 
 
 >[!VIDEO](https://video.tv.adobe.com/v/27259?quality=12)
 
-*Come creare una chiave SSH (2:16 min)*
+*Come generare una chiave SSH (2:16 min)*
