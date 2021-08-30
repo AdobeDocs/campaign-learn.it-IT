@@ -10,15 +10,15 @@ team: PM
 role: Admin
 level: Experienced
 source-git-commit: de84aa9791e006d5a8c8c70871b055a676883020
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '64'
-ht-degree: 29%
+ht-degree: 100%
 
 ---
 
 # Generare e installare le chiavi GPG
 
-Scopri come generare e installare una coppia di chiavi pubblica/privata in un’istanza [!DNL Campaign] per la crittografia dei dati.
+Scopri come generare e installare una coppia di chiavi pubblica/privata in una specifica istanza [!DNL Campaign] per la crittografia dei dati.
 
 >[!VIDEO](https://video.tv.adobe.com/v/36386?quality=12)
 
