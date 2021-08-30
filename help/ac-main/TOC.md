@@ -6,9 +6,9 @@ user-guide-description: Adobe Campaign consente agli esperti di marketing di pro
 breadcrumb-title: Tutorial
 breadcrumb-url: /docs/campaign-learn/tutorials/overview.html
 source-git-commit: 90b7567de183292b359d2e606e8c2f296d702fa7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '318'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -52,7 +52,7 @@ ht-degree: 96%
       + [Creare una consegna SMS](/help/send-messages/mobile/create-an-sms-delivery.md)
    + Push {#push}
       + [Installare il canale app mobile](/help/send-messages/mobile/install-the-mobile-app.md)
-      + [Configurare il canale push con l’SDK mobile di Experience Platform](/help/send-messages/mobile/configure-push-using-aep-mobile-sdk.md)
+      + [Configurare il canale push con l’SDK di Experience Platform Mobile](/help/send-messages/mobile/configure-push-using-aep-mobile-sdk.md)
    + Direct mailing {#direct-mail}
       + [Creare consegne di direct mailing](/help/send-messages/direct-mail/create-direct-mail-deliveries.md)
    + Utilizzare i modelli di consegna{#using-delivery-templates}
@@ -85,5 +85,5 @@ ht-degree: 96%
 + Monitoraggio {#monitoring}
    + [Mappa di calore del flusso di lavoro](/help/monitoring/workflow-heatmap.md)
    + [Audit Trail](/help/monitoring/audit-trail.md)
-+ Administration {#administration}
-   + [Pannello di controllo](https://experienceleague.adobe.com/docs/campaign-learn/control-panel/control-panel-overview.html)
++ Amministrazione {#administration}
+   + [Pannello di controllo Campaign](https://experienceleague.adobe.com/docs/campaign-learn/control-panel/control-panel-overview.html?lang=it)
