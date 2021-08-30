@@ -11,15 +11,15 @@ team: TM
 role: Admin
 level: Experienced
 source-git-commit: f8ed9264e592f4adf070a517049e3d36fc3112d5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '89'
-ht-degree: 71%
+ht-degree: 100%
 
 ---
 
 # Monitorare i database
 
-Tutte le risorse, i flussi di lavoro e i dati dell’istanza Campaign sono memorizzati nel database. Il database che raggiunge la sua capacità massima può causare problemi con la tua istanza (impossibilità di accedere, inviare e-mail, ecc.). È quindi essenziale monitorare regolarmente i database delle istanze per garantire prestazioni ottimali.
+Tutte le risorse, i flussi di lavoro e i dati dell’istanza Campaign sono memorizzati nel database. Se il database raggiunge la sua capacità massima, si possono verificare dei problemi nell’istanza (impossibilità di accedere, di inviare e-mail, ecc.). È quindi essenziale monitorare regolarmente i database delle istanze per garantire prestazioni ottimali.
 
 Scopri come monitorare l’utilizzo del database delle istanze.
 
