@@ -5,10 +5,10 @@ user-guide-title: Tutorial su Adobe Campaign
 user-guide-description: Adobe Campaign consente agli esperti di marketing di progettare esperienze cliente per diversi canali e fornisce un ambiente per l’orchestrazione visiva delle campagne, la gestione delle interazioni in tempo reale e l’esecuzione cross-channel.
 breadcrumb-title: Tutorial
 breadcrumb-url: /docs/campaign-learn/tutorials/overview.html
-source-git-commit: a0bd2ba1ad00fc22a11279159546f9b3818a584b
+source-git-commit: a30d1c80a8ee3d41c7bdbdf355a4ad0227251414
 workflow-type: tm+mt
-source-wordcount: '332'
-ht-degree: 95%
+source-wordcount: '328'
+ht-degree: 96%
 
 ---
 
@@ -73,7 +73,6 @@ ht-degree: 95%
    + [Gestire le approvazioni](/help/process-management/manage-approvals.md)
    + [Utilizzare l’attività di aggiornamento elenco](/help/process-management/use-the-update-list-activity.md)
    + [Configurare le attività di arricchimento](/help/process-management/enrichment-activity.md)
-   + [creare un digest di contenuto](help/tutorial-using-soap-apis/create-a-content-digest-overview.md)
 + Gestione dati {#data-management}
    + [Importare i profili](/help/data-management/import-profiles.md)
    + [Replica dei dati](/help/data-management/data-replication.md)
