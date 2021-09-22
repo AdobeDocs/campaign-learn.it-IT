@@ -3,9 +3,9 @@ user-guide-title: Utilizzo delle API SOAP di Campaign
 user-guide-description: Scopri come utilizzare le API Soap di Adobe Campaign e creare un flusso di lavoro di consegna avanzato.
 breadcrumb-title: Utilizzo delle API SOAP di Campaign
 breadcrumb-url: /campaign-learn/using-soap-apis/introduction.html
-source-git-commit: 947b484ba08f8d552566d706e2e72a29a3bb6c2d
+source-git-commit: 059b2b5d5cec90890d640cfe8bc3711930a8a068
 workflow-type: tm+mt
-source-wordcount: '76'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -20,4 +20,4 @@ ht-degree: 0%
 + Passaggio 4: creare una consegna di avvisi per gli articoli{#article-alert-email}
    + [Creare una consegna avvisi articolo](/help/tutorial-use-soap-apis/create-article-alert-delivery-overview.md)
    + [Parte 1 - Query articoli e valori di sottoscrizione destinatari](/help/tutorial-use-soap-apis/query-articles-and-recipient-subscription-values.md)
-   + [Parte 2 - Unire colonne e inviare e-mail delivery](/help/tutorial-use-soap-apis/join-columns-and-send-automated-email-delivery.md)
+   + [Parte 2 - Inviare una consegna ai destinatari abbonati](/help/tutorial-use-soap-apis/send-delivery-to-subscribed-recipients.md)

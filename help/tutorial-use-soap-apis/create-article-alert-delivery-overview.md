@@ -7,9 +7,9 @@ activity: use
 team: DOC
 role: User
 level: Beginner
-source-git-commit: 20dc3aa4b30d8b6ee1d87b10607fb24afc09292a
+source-git-commit: 059b2b5d5cec90890d640cfe8bc3711930a8a068
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -22,6 +22,5 @@ Scopri come creare un flusso di lavoro che avvisa i destinatari di eventuali nuo
 
 *Dati di query che utilizzano diverse dimensioni di targeting e filtro e come unire gli output utilizzando un’intersezione.*
 
-**Passaggio 2:** [unire colonne e inviare e-mail](/help/tutorial-use-soap-apis/join-columns-and-send-automated-email-delivery.md)
-
-*Scopri come unire due segmenti e aggiungere una consegna e-mail personalizzata, con le informazioni sull’articolo ricevute tramite un’API, al flusso di lavoro di abbonamento alla newsletter creato nel passaggio precedente.*
+**Passaggio 2:** [inviare una consegna ai ](/help/tutorial-use-soap-apis/send-delivery-to%20subscribed-recipients.md)
+*destinatari abbonatiScopri come unire i dati di due segmenti, creare un messaggio e-mail di avviso per l’articolo e personalizzarlo in base ai dati ricevuti da un’API esterna.*

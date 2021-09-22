@@ -9,9 +9,9 @@ activity: use
 team: DOC
 role: User
 level: Beginner
-source-git-commit: 947b484ba08f8d552566d706e2e72a29a3bb6c2d
+source-git-commit: 059b2b5d5cec90890d640cfe8bc3711930a8a068
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -23,4 +23,4 @@ Scopri come eseguire query sui dati utilizzando diverse dimensioni di targeting 
 
 >[!VIDEO](https://video.tv.adobe.com/v/336537?quality=12)
 
-Passaggio successivo: [Unisci colonne e invia e-mail di consegna](/help/tutorial-use-soap-apis/join-columns-and-send-automated-email-delivery.md)
+Passaggio successivo: [Invia una consegna ai destinatari abbonati](/help/tutorial-use-soap-apis/send-delivery-to-subscribed-recipients.md)
