@@ -1,6 +1,6 @@
 ---
 title: Inviare una consegna e-mail automatica
-description: null
+description: Scopri come unire due segmenti e aggiungere al flusso di lavoro di iscrizione alla newsletter una consegna e-mail personalizzata, contenente un riepilogo dei contenuti.
 feature: Workflows, Targeting Activity, Query Editor
 kt: 8167
 thumbnail: 336940.jpg
@@ -9,9 +9,9 @@ activity: use
 team: DOC
 role: User
 level: Beginner
-source-git-commit: e13b99b6b1fbb370304fa6880d108799d1285dba
+source-git-commit: 87b8b5a2616ecb83e70a14adc8e5da804a42da49
 workflow-type: tm+mt
-source-wordcount: '43'
+source-wordcount: '64'
 ht-degree: 0%
 
 ---
