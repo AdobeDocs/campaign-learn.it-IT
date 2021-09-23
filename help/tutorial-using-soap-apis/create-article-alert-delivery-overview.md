@@ -1,5 +1,5 @@
 ---
-title: Creare un "nuovo avviso articolo" e-mail di consegna per gli abbonati - Panoramica
+title: Creare un avviso di consegna articolo - Panoramica
 description: Scopri come creare un flusso di lavoro che avvisa i destinatari di eventuali nuovi articoli a cui si sono abbonati tramite una consegna e-mail.
 feature: Workflows, Targeting Activity, Query Editor
 doc-type: feature video
@@ -7,14 +7,14 @@ activity: use
 team: DOC
 role: User
 level: Beginner
-source-git-commit: 87bf30887ee6dfd08094ce4a94a7cd1cdcaa2641
+source-git-commit: cd82b3ba087ed7d724798b1604588834475a3f5c
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: '113'
 ht-degree: 0%
 
 ---
 
-# Creare un &quot;nuovo avviso articolo&quot; e-mail di consegna per gli abbonati - Panoramica
+# Creare un avviso di consegna articolo - Panoramica
 
 Scopri come creare un flusso di lavoro che avvisa i destinatari di eventuali nuovi articoli a cui si sono abbonati tramite una consegna e-mail.
 
