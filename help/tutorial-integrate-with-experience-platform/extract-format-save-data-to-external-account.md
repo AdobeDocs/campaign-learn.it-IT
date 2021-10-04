@@ -1,6 +1,6 @@
 ---
 title: Creare un flusso di lavoro di esportazione (parte 2) - Estrarre, formattare e salvare dati in un account esterno
-description: In questa seconda parte dell’esercitazione Crea un flusso di lavoro di esportazione , imparerai a formattare i dati per l’esportazione e a salvare i dati in un account esterno. 
+description: In questa seconda parte dell’esercitazione Crea un flusso di lavoro di esportazione , imparerai a formattare i dati per l’esportazione e a salvare i dati in un account esterno.
 feature: Data Import/Export, Workflows
 kt: 8160
 thumbnail: 336391.jpg
@@ -9,13 +9,13 @@ activity: setup
 team: TM
 role: Admin
 level: Beginner, Experienced
-source-git-commit: 75131bcf23154c05621bb6b63224ad906ec96ecd
+exl-id: ac29b75c-a838-4183-8ec5-034281290725
+source-git-commit: 85a32e0415c02ccfff9a22021ed77872ad726bf7
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 0%
 
 ---
-
 
 # Creare un flusso di lavoro di esportazione (parte 2): Estrarre, formattare e salvare dati in un account esterno
 
