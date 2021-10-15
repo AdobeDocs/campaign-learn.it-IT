@@ -7,9 +7,9 @@ role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 source-git-commit: ca00618239e9efa68a15b7e19891e9900920fb20
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '424'
-ht-degree: 85%
+ht-degree: 100%
 
 ---
 
@@ -26,11 +26,11 @@ Adobe Campaign fornisce una piattaforma per la progettazione di customer experie
 
 ## Novità
 
-* **[Integrare con Experience Platform](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/overview.html)**
+* **[Integrare con Experience Platform](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/overview.html?lang=it)**
 
-   *Scopri come importare ed esportare dati di Campaign ed Experienci Cloud, consentendo la comunicazione tra le due soluzioni.*
+   *Scopri come importare ed esportare dati di Campaign ed Experience Cloud, consentendo la comunicazione tra le due soluzioni.*
 
-* **[Esercitazione: Utilizzare le API SOAP nei flussi di lavoro](https://experienceleague.adobe.com/docs/campaign-learn/using-soap-apis/introduction.html)**
+* **[Tutorial: Utilizzare le API SOAP nei flussi di lavoro](https://experienceleague.adobe.com/docs/campaign-learn/using-soap-apis/introduction.html?lang=it)**
 
    *Scopri come utilizzare le API Soap di Adobe Campaign e creare un flusso di lavoro di consegna avanzato basato sui dati ricevuti tramite l’API.*
 
