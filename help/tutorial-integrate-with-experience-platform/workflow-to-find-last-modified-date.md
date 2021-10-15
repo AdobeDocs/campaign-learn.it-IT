@@ -1,6 +1,6 @@
 ---
-title: Creare un flusso di lavoro di esportazione (parte 1) - Trova l’ultima data di modifica per un elenco di destinatari
-description: In questa prima parte dell’esercitazione Crea un flusso di lavoro di esportazione , scopri come creare un flusso di lavoro che trova l’ultima data di modifica per un elenco di destinatari creati da un segmento di Experience Platform.
+title: 'Creare un flusso di lavoro di esportazione - Parte 1: Trovare la data dell’ultima modifica per un elenco di destinatari'
+description: In questa prima parte dell’esercitazione Creare un flusso di lavoro di esportazione, scopri come creare un flusso di lavoro con cui trovare la data dell’ultima modifica per un elenco di destinatari creati da un segmento di Experience Platform.
 feature: Data Import/Export, Workflows
 kt: 8162
 thumbnail: 336387.jpg
@@ -11,19 +11,19 @@ role: Admin
 level: Beginner, Experienced
 exl-id: 6fd70eea-3be7-4589-a608-05b0a8de93a6
 source-git-commit: 85a32e0415c02ccfff9a22021ed77872ad726bf7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '120'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Creare un flusso di lavoro di esportazione (parte 1) - Trova l’ultima data di modifica per un elenco di destinatari
+# Creare un flusso di lavoro di esportazione - Parte 1: Trovare la data dell’ultima modifica per un elenco di destinatari
 
-In questa prima parte dell’esercitazione Crea un flusso di lavoro di esportazione , scopri come creare un flusso di lavoro che trova l’ultima data di modifica per un elenco di destinatari creati da un segmento di Experience Platform.
+In questa prima parte dell’esercitazione Creare un flusso di lavoro di esportazione, scopri come creare un flusso di lavoro con cui trovare la data dell’ultima modifica per un elenco di destinatari creati da un segmento di Experience Platform.
 
 >[!VIDEO](https://video.tv.adobe.com/v/336387?quality=12)
 
-## Risorse
+## Assets
 
 JavaScript per stabilire intervalli di date:
 
@@ -64,4 +64,4 @@ JavaScript per stabilire intervalli di date:
 
 ## Video successivo
 
-[Creare un flusso di lavoro di esportazione (parte 2) - Estrarre, formattare e salvare dati in un account esterno](extract-format-save-data-to-external-account.md)
+[Creare un flusso di lavoro di esportazione - Parte 2: Estrarre, formattare e salvare dati in un account esterno](extract-format-save-data-to-external-account.md)
