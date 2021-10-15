@@ -5,9 +5,9 @@ user-guide-title: Tutorial su Adobe Campaign
 user-guide-description: Adobe Campaign consente agli esperti di marketing di progettare esperienze cliente per diversi canali e fornisce un ambiente per l’orchestrazione visiva delle campagne, la gestione delle interazioni in tempo reale e l’esecuzione cross-channel.
 breadcrumb-title: Tutorial
 source-git-commit: bb2bf76ea1dc1750a6b3f47d2dd582064605996d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '338'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -75,11 +75,11 @@ ht-degree: 93%
 + Gestione dati {#data-management}
    + [Importare i profili](/help/data-management/import-profiles.md)
    + [Replica dei dati](/help/data-management/data-replication.md)
-   + [Esercitazione: Utilizzare le API SOAP](https://experienceleague.adobe.com/docs/campaign-learn/use-soap-apis/introduction.html?lang=en)
+   + [Tutorial: Utilizzare le API SOAP](https://experienceleague.adobe.com/docs/campaign-learn/use-soap-apis/introduction.html?lang=it)
 + Connettere altre soluzioni {#connect}
    + [Gestione dei big data su Snowflake](/help/connect/big-data-segmentation-on-snowflake.md)
    + [Integrare con Dynamics 365](/help/connect/dynamics365-integration.md)
-   + [Integrare con Experience Platform](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/overview.html)
+   + [Integrare con Experience Platform](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/overview.html?lang=it)
 + Generazione rapporti {#reporting}
    + [Accedere ai rapporti incorporati](/help/reporting/access-built-in-reports.md)
    + [Generare un rapporto di analisi descrittivo](/help/reporting/generate-a-descriptive-analysis-report.md)
