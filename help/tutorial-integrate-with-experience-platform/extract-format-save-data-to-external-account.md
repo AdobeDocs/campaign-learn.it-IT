@@ -1,6 +1,6 @@
 ---
-title: Creare un flusso di lavoro di esportazione (parte 2) - Estrarre, formattare e salvare dati in un account esterno
-description: In questa seconda parte dell’esercitazione Crea un flusso di lavoro di esportazione , imparerai a formattare i dati per l’esportazione e a salvare i dati in un account esterno.
+title: 'Creare un flusso di lavoro di esportazione - Parte 2: Estrarre, formattare e salvare dati in un account esterno'
+description: In questa seconda parte del tutorial Creare un flusso di lavoro di esportazione, imparerai a formattare i dati per l’esportazione e a salvarli in un account esterno.
 feature: Data Import/Export, Workflows
 kt: 8160
 thumbnail: 336391.jpg
@@ -11,19 +11,19 @@ role: Admin
 level: Beginner, Experienced
 exl-id: ac29b75c-a838-4183-8ec5-034281290725
 source-git-commit: 85a32e0415c02ccfff9a22021ed77872ad726bf7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '92'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # Creare un flusso di lavoro di esportazione (parte 2): Estrarre, formattare e salvare dati in un account esterno
 
-In questa seconda parte dell’esercitazione Crea un flusso di lavoro di esportazione , imparerai a formattare i dati per l’esportazione e a salvare i dati in un account esterno.
+In questa seconda parte del tutorial Creare un flusso di lavoro di esportazione, imparerai a formattare i dati per l’esportazione e a salvarli in un account esterno.
 
 >[!VIDEO](https://video.tv.adobe.com/v/336391?quality=12)
 
-## Risorse
+## Assets
 
 JavaScript: Data di salvataggio
 
