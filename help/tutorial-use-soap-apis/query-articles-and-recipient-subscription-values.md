@@ -1,6 +1,6 @@
 ---
-title: Query di articoli e valori di abbonamento al destinatario
-description: Scopri come eseguire query sui dati utilizzando diverse dimensioni di targeting e filtro e come unire gli output utilizzando un’intersezione per il caso d’uso relativo alla creazione di una consegna automatica dei digest di contenuto.
+title: Query di articoli e valori di abbonamento dei destinatari
+description: Scopri come eseguire query sui dati utilizzando diverse dimensioni di targeting e filtro, e come unire gli output utilizzando un’intersezione per creare la consegna automatica di un riepilogo sui contenuti.
 feature: Workflows, Targeting Activity, Query Editor
 kt: 8166
 thumbnail: 336537.jpg
@@ -9,18 +9,18 @@ activity: use
 team: DOC
 role: User
 level: Beginner
-source-git-commit: 059b2b5d5cec90890d640cfe8bc3711930a8a068
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+exl-id: 053a657f-e399-44a8-8c4b-17d08e82e4a9
+source-git-commit: f9944b896adbb7e4b023e667a6b7895a8399724a
+workflow-type: ht
+source-wordcount: '82'
+ht-degree: 100%
 
 ---
 
+# Query di articoli e valori di abbonamento dei destinatari
 
-# Query di articoli e valori di abbonamento al destinatario
-
-Scopri come eseguire query sui dati utilizzando diverse dimensioni di targeting e filtro e come unire gli output utilizzando un’intersezione per il caso d’uso relativo alla creazione di una consegna automatica dei digest di contenuto.
+Scopri come eseguire query sui dati utilizzando diverse dimensioni di targeting e filtro, e come unire gli output utilizzando un’intersezione per creare la consegna automatica di un riepilogo sui contenuti.
 
 >[!VIDEO](https://video.tv.adobe.com/v/336537?quality=12)
 
-Passaggio successivo: [Invia una consegna ai destinatari abbonati](/help/tutorial-use-soap-apis/send-delivery-to-subscribed-recipients.md)
+Passaggio successivo: [Inviare una consegna ai destinatari abbonati](/help/tutorial-use-soap-apis/send-delivery-to-subscribed-recipients.md)
