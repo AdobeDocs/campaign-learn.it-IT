@@ -1,19 +1,19 @@
 ---
 title: Creare campagne cross-channel
 description: Scopri come creare una campagna cross-channel utilizzando le consegne e-mail e direct mailing in base all’interazione del cliente con la prima consegna.
-feature: Flussi di lavoro
+feature: Workflows
 kt: 7798
 thumbnail: 335607.jpg
 doc-type: feature video
 activity: use
 team: TM
-source-git-commit: bc6955acd0ef78fd7b8edabe15fb122ed51f77f6
-workflow-type: ht
-source-wordcount: '93'
+exl-id: 297db41d-38d6-4fd4-b72b-0615ce23b981
+source-git-commit: f7cb6c57d9cd6b00def9f0a4ccbcc94267f0d593
+workflow-type: tm+mt
+source-wordcount: '92'
 ht-degree: 100%
 
 ---
-
 
 # Creare campagne cross-channel
 

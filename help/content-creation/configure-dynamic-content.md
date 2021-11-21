@@ -1,7 +1,7 @@
 ---
 title: Configurare il contenuto dinamico
 description: Scopri i diversi tipi di contenuti dinamici e come creare e applicare blocchi di personalizzazione e istruzioni condizionali a una consegna.
-feature: Contenuto dinamico, Personalizzazione, E-Mail
+feature: Dynamic Content, Personalization, Email
 kt: 7789
 thumbnail: 335734.jpg
 doc-type: feature video
@@ -9,9 +9,10 @@ activity: use
 team: TM
 role: User
 level: Beginner
-source-git-commit: 3f73019c23dad58d7246cf7fc5d200949a756d23
-workflow-type: ht
-source-wordcount: '65'
+exl-id: efe43a2a-4e47-4054-9e41-23d06a72fe4b
+source-git-commit: f7cb6c57d9cd6b00def9f0a4ccbcc94267f0d593
+workflow-type: tm+mt
+source-wordcount: '61'
 ht-degree: 100%
 
 ---

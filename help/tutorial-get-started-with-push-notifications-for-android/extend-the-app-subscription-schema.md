@@ -1,7 +1,7 @@
 ---
 title: Estendere lo schema di abbonamento all’app per personalizzare le notifiche push
 description: Scopri come estendere lo schema di abbonamento all’app per memorizzare i valori di personalizzazione che Campaign riceve da un’app mobile.
-feature: Push, estensione schema
+feature: Push, Schema Extension
 kt: 7967
 thumbnail: 327306.jpg
 doc-type: feature video
@@ -11,8 +11,8 @@ role: Admin, Developer
 level: Experienced
 exl-id: c7dbb3c0-41eb-47dd-93bd-3c4caccc07ad
 source-git-commit: 02a6238163a7c8f887236e03b78673c57c836a45
-workflow-type: ht
-source-wordcount: '77'
+workflow-type: tm+mt
+source-wordcount: '74'
 ht-degree: 100%
 
 ---

@@ -3,7 +3,7 @@ user-guide-title: Integrare con Experience Platform
 user-guide-description: Scopri come importare ed esportare dati di Campaign ed Experience Cloud, consentendo la comunicazione tra le due soluzioni.
 breadcrumb-title: Integrare con Experience Platform
 source-git-commit: 20c0036a74e3693af9f9fd1ac92365fb9bd6b8d3
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 100%
 

@@ -1,8 +1,8 @@
 ---
 title: Elenco consentiti di indirizzi IP
 description: Scopri come aggiungere o rimuovere un intervallo IP nell’elenco Consentiti delle istanze di Campaign, tramite il pannello di controllo Campaign.
-seo-description: Il video seguente spiega come impostare nuove connessioni alle istanze inserendo intervalli di indirizzi IP nell’elenco Consentiti.
-feature: Pannello di controllo Campaign
+seo-description: The video below explains how to set up new connections to your instances by allow listing IP addresses ranges.
+feature: Control Panel
 kt: 8515
 thumbnail: 28726.jpg
 doc-type: feature video
@@ -10,9 +10,10 @@ activity: use
 team: TM
 role: Admin
 level: Experienced
-source-git-commit: 88f4a8b0c7cee415c6f34d51daeb980535dfc0e5
-workflow-type: ht
-source-wordcount: '208'
+exl-id: 0d5b1733-e6c4-461f-bd15-743fb664ae74
+source-git-commit: f7cb6c57d9cd6b00def9f0a4ccbcc94267f0d593
+workflow-type: tm+mt
+source-wordcount: '187'
 ht-degree: 100%
 
 ---
