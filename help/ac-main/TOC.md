@@ -4,7 +4,7 @@ sub-product: Campaign V8
 user-guide-title: Tutorial su Adobe Campaign
 user-guide-description: Adobe Campaign consente agli esperti di marketing di progettare esperienze cliente per diversi canali e fornisce un ambiente per l’orchestrazione visiva delle campagne, la gestione delle interazioni in tempo reale e l’esecuzione cross-channel.
 breadcrumb-title: Tutorial
-source-git-commit: 806ecfd0c9377b82eef68e1f9499becfe67704eb
+source-git-commit: 147ca0788f1df5b8f3e90e8dcfb6cbabf9efb793
 workflow-type: tm+mt
 source-wordcount: '374'
 ht-degree: 91%
@@ -65,7 +65,7 @@ ht-degree: 91%
 + Gestione dei processi e automazione{#process-management}
    + [Creare un flusso di lavoro](/help/process-management/create-a-workflow.md)
    + [Creare consegne ricorrenti e continue](/help/process-management/recurring-deliveries.md)
-   + Workflow di targeting {#targeting workflows}
+   + Workflow di targeting {#targeting-workflows}
       + [Creare flussi di lavoro di targeting](/help/process-management/create-a-targeting-workflow.md)
       + [Ottimizzare le destinazioni attraverso la combinazione dei risultati delle query](/help/process-management/refine-targets-by-combining-query-results.md)
       + [Ottimizzare le destinazioni attraverso l’esclusione dei risultati delle query](/help/process-management/refine-targets-by-excluding-query-results.md)
@@ -74,9 +74,9 @@ ht-degree: 91%
    + [Configurare le attività di arricchimento](/help/process-management/enrichment-activity.md)
       + [Introduzione](/help/process-management/create-approvals-and-validation-workflows/create-approvals-and-validation-workflows-introduction.md)
       + [Gestire le approvazioni](/help/process-management/create-approvals-and-validation-workflows/manage-approvals.md)
-      + [Configurare le approvazioni per le campagne](/help/process-management/create-validation-workflows/configure-approvals-for-campaigns.md)
-      + [Configurare le approvazioni per le consegne](/help/process-management/create-validation-workflows/configure-approvals-for-deliveries.md)
-      + [Creare un processo di approvazione in un flusso di lavoro](/help/process-management/create-validation-workflows/create-approval-process-in-a-workflow.md)
+      + [Configurare le approvazioni per le campagne](/help/process-management/create-approvals-and-validation-workflows/configure-approvals-for-campaigns.md)
+      + [Configurare le approvazioni per le consegne](/help/process-management/create-approvals-and-validation-workflows/configure-approvals-for-deliveries.md)
+      + [Creare un’attività di approvazione in un flusso di lavoro](/help/process-management/create-approvals-and-validation-workflows/create-approval-process-in-a-workflow.md)
 + Gestione dati {#data-management}
    + [Gestire le approvazioni](/help/process-management/manage-approvals.md)
    + [Utilizzare l’attività di aggiornamento elenco](/help/process-management/use-the-update-list-activity.md)
