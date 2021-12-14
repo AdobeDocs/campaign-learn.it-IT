@@ -6,10 +6,10 @@ feature: Overview
 role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-source-git-commit: de86fe86e39a10ff719163081634bf13a6f83efe
+source-git-commit: f5d454b9fd8c502f7f3653fe6fff28741c2e1581
 workflow-type: tm+mt
-source-wordcount: '407'
-ht-degree: 95%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -26,6 +26,10 @@ Adobe Campaign fornisce una piattaforma per la progettazione di customer experie
 
 ## Novità
 
+* **[Meccanismo di staging API con FFDA](/help/data-management/api-staging-mechanism.md)**
+
+   *Scopri come funziona il meccanismo di staging API con FDA completo.*
+
 * **[Creare ed estendere uno schema](/help/data-management/create-and-extend-a-schema.md)**
 
    *Scopri come creare un nuovo schema ed estendere uno schema esistente.*
@@ -33,10 +37,6 @@ Adobe Campaign fornisce una piattaforma per la progettazione di customer experie
 * **[Integrare con Experience Platform](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/overview.html?lang=it)**
 
    *Scopri come importare ed esportare dati di Campaign ed Experience Cloud, consentendo la comunicazione tra le due soluzioni.*
-
-* **[Tutorial: Utilizzare le API SOAP nei flussi di lavoro](https://experienceleague.adobe.com/docs/campaign-learn/using-soap-apis/introduction.html?lang=it)**
-
-   *Scopri come utilizzare le API Soap di Adobe Campaign e creare un flusso di lavoro di consegna avanzato basato sui dati ricevuti tramite l’API.*
 
 
 ## Scelti dallo staff
