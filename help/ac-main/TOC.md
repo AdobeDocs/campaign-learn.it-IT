@@ -6,8 +6,8 @@ user-guide-description: Adobe Campaign consente agli esperti di marketing di pro
 breadcrumb-title: Tutorial
 source-git-commit: f5d454b9fd8c502f7f3653fe6fff28741c2e1581
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '365'
+ht-degree: 100%
 
 ---
 
@@ -65,7 +65,7 @@ ht-degree: 0%
 + Gestione dei processi e automazione{#process-management}
    + [Creare un flusso di lavoro](/help/process-management/create-a-workflow.md)
    + [Creare consegne ricorrenti e continue](/help/process-management/recurring-deliveries.md)
-   + Workflow di targeting {#targeting-workflows}
+   + Flussi di lavoro di targeting {#targeting-workflows}
       + [Creare flussi di lavoro di targeting](/help/process-management/create-a-targeting-workflow.md)
       + [Ottimizzare le destinazioni attraverso la combinazione dei risultati delle query](/help/process-management/refine-targets-by-combining-query-results.md)
       + [Ottimizzare le destinazioni attraverso l’esclusione dei risultati delle query](/help/process-management/refine-targets-by-excluding-query-results.md)
@@ -75,7 +75,7 @@ ht-degree: 0%
       + [Configurare le approvazioni per le campagne](/help/process-management/create-approvals-and-validation-workflows/configure-approvals-for-campaigns.md)
       + [Configurare le approvazioni per le consegne](/help/process-management/create-approvals-and-validation-workflows/configure-approvals-for-deliveries.md)
       + [Creare un’attività di approvazione in un flusso di lavoro](/help/process-management/create-approvals-and-validation-workflows/create-approval-process-in-a-workflow.md)
-+ Gestione dati {#data-management}
++ Gestione dei dati {#data-management}
    + [Utilizzare l’attività di aggiornamento elenco](/help/process-management/use-the-update-list-activity.md)
    + [Configurare le attività di arricchimento](/help/process-management/enrichment-activity.md)
    + [Creare ed estendere uno schema](/help/data-management/create-and-extend-a-schema.md)
