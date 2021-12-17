@@ -8,18 +8,18 @@ doc-type: feature video
 activity: use
 role: User
 level: Beginner
-source-git-commit: 806ecfd0c9377b82eef68e1f9499becfe67704eb
-workflow-type: tm+mt
+exl-id: 3ec4074e-8829-4969-aa87-2f5a8fdefa3c
+source-git-commit: 5a51d60b9483962690234931fe500864dd82a66f
+workflow-type: ht
 source-wordcount: '46'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
-
 
 # Configurare le approvazioni per le consegne
 
 Scopri come configurare approvazioni e revisori a livello di consegna.  
 
-Imposta le approvazioni a livello di consegna se le fasi di approvazione e i revisori differiscono tra le consegne.
+Se consegne diverse richiedono differenti fasi di approvazione e revisori, puoi mpostare le approvazioni a livello di consegna.
 
 >[!VIDEO](https://video.tv.adobe.com/v/338828?quality=12)
