@@ -1,6 +1,6 @@
 ---
 title: Creare ed estendere uno schema
-description: Scopri come creare uno schema e come estendere uno schema esistente.
+description: Scopri come creare uno schema ed estenderne uno esistente.
 feature: Data Management
 kt: 7975
 thumbnail: 337939.jpg
@@ -10,18 +10,18 @@ role: Admin, Developer
 level: Beginner
 exl-id: 40e5f5a3-e267-4a65-8590-32958bc67764
 source-git-commit: 3a798fb7fb50c9ffb1c16ee811f223730e973977
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '41'
-ht-degree: 4%
+ht-degree: 100%
 
 ---
 
 # Creare ed estendere uno schema
 
-Scopri come creare uno schema e come estendere uno schema esistente.
+Scopri come creare uno schema ed estenderne uno esistente.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337939?quality=12)
 
 ## Risorse aggiuntive
 
-* [Replica dati (video)](/help/data-management/data-replication.md)
+* [Replica dei dati (video)](/help/data-management/data-replication.md)
