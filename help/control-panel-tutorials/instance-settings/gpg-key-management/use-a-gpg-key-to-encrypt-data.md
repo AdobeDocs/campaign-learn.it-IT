@@ -10,9 +10,9 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: d423f8e2-6ee0-4ed1-a39b-1a654d6bc023
-source-git-commit: f7cb6c57d9cd6b00def9f0a4ccbcc94267f0d593
+source-git-commit: ca13bdbd7d95e6646aff88af595e866bd3666bb2
 workflow-type: tm+mt
-source-wordcount: '57'
+source-wordcount: '40'
 ht-degree: 100%
 
 ---
@@ -23,7 +23,3 @@ Scopri come esportare i dati utilizzando una chiave GPG installata sul Pannello 
 
 >[!VIDEO](https://video.tv.adobe.com/v/36399?quality=12)
 
-## Risorse aggiuntive
-
-* [Gestione delle chiavi GPG (video)](./gpg-key-management-overview.md)
-* [Gestione delle chiavi GPG (documentazione)](https://experienceleague.adobe.com/docs/control-panel/using/instances-settings/gpg-keys-management.html?lang=it)

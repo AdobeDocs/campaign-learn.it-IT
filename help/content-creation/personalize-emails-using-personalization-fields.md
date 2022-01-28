@@ -10,10 +10,10 @@ team: TM
 role: User
 level: Beginner
 exl-id: 0ff643b8-013e-4192-831f-aa88dcc1eec1
-source-git-commit: 02a6238163a7c8f887236e03b78673c57c836a45
+source-git-commit: ca13bdbd7d95e6646aff88af595e866bd3666bb2
 workflow-type: tm+mt
-source-wordcount: '95'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -24,8 +24,3 @@ I campi di personalizzazione sono utilizzati per la personalizzazione di primo l
 Scopri come aggiungere un campo di personalizzazione alla riga dell’oggetto e il contenuto di una consegna e-mail.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24925?quality=12)
-
-## Risorse aggiuntive
-
-* [Personalizzare le e-mail mediante blocchi di contenuto dinamici](/help/content-creation/personalize-using-dynamic-content-blocks.md)
-* [Creare una newsletter multilingue utilizzando contenuti condizionali](/help/content-creation/create-a-multilingual-newsletter-using-conditional-content.md)

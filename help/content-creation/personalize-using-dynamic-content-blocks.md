@@ -10,10 +10,10 @@ team: TM
 role: Admin, Developer
 level: Beginner
 exl-id: dfbd4e9d-694e-4d43-bfc5-11b59e653ddc
-source-git-commit: 02a6238163a7c8f887236e03b78673c57c836a45
+source-git-commit: ca13bdbd7d95e6646aff88af595e866bd3666bb2
 workflow-type: tm+mt
-source-wordcount: '119'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -26,8 +26,3 @@ Un blocco di personalizzazione è dinamico, personalizzato e contiene un codice 
 Scopri come creare blocchi di contenuto dinamici e come utilizzarli per personalizzare il contenuto della consegna e-mail.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24924?quality=12)
-
-## Risorse aggiuntive
-
-* [Personalizzazione delle e-mail tramite campi di personalizzazione](/help/content-creation/personalize-emails-using-personalization-fields.md)
-* [Creare una newsletter multilingue utilizzando contenuti condizionali](/help/content-creation/create-a-multilingual-newsletter-using-conditional-content.md)

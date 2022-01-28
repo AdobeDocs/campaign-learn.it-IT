@@ -8,10 +8,10 @@ doc-type: feature video
 activity: use
 team: TM
 exl-id: 297db41d-38d6-4fd4-b72b-0615ce23b981
-source-git-commit: f7cb6c57d9cd6b00def9f0a4ccbcc94267f0d593
+source-git-commit: ca13bdbd7d95e6646aff88af595e866bd3666bb2
 workflow-type: tm+mt
-source-wordcount: '92'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -22,7 +22,3 @@ In una campagna cross-channel, una singola comunicazione di marketing utilizza c
 Scopri come creare una campagna cross-channel utilizzando le consegne e-mail e direct mailing in base all’interazione del cliente con la prima consegna.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335607?quality=12)
-
-## Risorse aggiuntive
-
-* [Introduzione a campagne multicanale e cross-channel](/help/orchestrate-campaigns/introduction-to-cross-and-multi-channel-campaigns.md)

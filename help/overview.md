@@ -7,10 +7,10 @@ role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 recommendations: noDisplay, noCatalog
-source-git-commit: 69e794119c4f3e8d455c7300b23ca75350e28154
+source-git-commit: ca13bdbd7d95e6646aff88af595e866bd3666bb2
 workflow-type: tm+mt
-source-wordcount: '388'
-ht-degree: 96%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -103,6 +103,4 @@ Adobe Campaign fornisce una piattaforma per la progettazione di customer experie
 
 </table>
 
-## Risorse aggiuntive
-
-* [Documentazione](https://experienceleague.adobe.com/docs/campaign-v8.html?lang=it)
+Vedi la [documentazione del prodotto](https://experienceleague.adobe.com/docs/campaign-v8.html?lang=it) per ulteriori dettagli su questa funzione.

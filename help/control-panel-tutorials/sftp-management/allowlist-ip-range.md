@@ -11,10 +11,10 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: 5a6b04d9-7c19-442f-b6cc-cab92720853d
-source-git-commit: f7cb6c57d9cd6b00def9f0a4ccbcc94267f0d593
+source-git-commit: ca13bdbd7d95e6646aff88af595e866bd3666bb2
 workflow-type: tm+mt
-source-wordcount: '81'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -26,6 +26,3 @@ Scopri come aggiungere un intervallo di indirizzi IP all’elenco Consentiti.
 
 >[!VIDEO](https://video.tv.adobe.com/v/41775?quality=12)
 
-## Risorse aggiuntive
-
-* [Inserimento di intervalli IP nell’elenco Consentiti (documentazione)](https://experienceleague.adobe.com/docs/control-panel/using/sftp-management/ip-range-allow-listing.html?lang=it)
