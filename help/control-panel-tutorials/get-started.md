@@ -11,9 +11,9 @@ role: Admin
 level: Experienced
 exl-id: a094cd44-c891-468a-82f6-3f8f50a32640
 source-git-commit: ca13bdbd7d95e6646aff88af595e866bd3666bb2
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '226'
+ht-degree: 100%
 
 ---
 
@@ -55,4 +55,4 @@ Nel video seguente viene illustrato come aggiungere un amministratore a un’ist
 
 >[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
 
-Visita il [Centro assistenza Pannello di controllo Campaign](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=it) per ulteriori dettagli su questa funzione.
+Per ulteriori dettagli su questa funzione, visita il [Centro assistenza per il Pannello di controllo Campaign](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=it).
