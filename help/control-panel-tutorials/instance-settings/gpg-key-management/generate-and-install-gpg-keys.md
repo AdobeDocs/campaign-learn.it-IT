@@ -11,9 +11,9 @@ role: Admin
 level: Experienced
 exl-id: 22338566-1ee9-4459-976e-0d67a779d2ef
 source-git-commit: ca13bdbd7d95e6646aff88af595e866bd3666bb2
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '59'
+ht-degree: 100%
 
 ---
 
@@ -23,4 +23,4 @@ Scopri come generare e installare una coppia di chiavi pubblica/privata in una s
 
 >[!VIDEO](https://video.tv.adobe.com/v/36386?quality=12)
 
-Consulta la sezione [documentazione del prodotto)](https://experienceleague.adobe.com/docs/control-panel/using/instances-settings/gpg-keys-management.html?lang=it) per ulteriori informazioni.
+Per ulteriori informazioni, consulta la [documentazione del prodotto](https://experienceleague.adobe.com/docs/control-panel/using/instances-settings/gpg-keys-management.html?lang=it).
