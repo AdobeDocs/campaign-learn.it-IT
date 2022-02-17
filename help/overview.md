@@ -8,9 +8,9 @@ level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 recommendations: noDisplay, noCatalog
 source-git-commit: dcf19cb34050855ca622e724f8d1468005a11152
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '411'
-ht-degree: 78%
+ht-degree: 100%
 
 ---
 
@@ -29,15 +29,15 @@ Adobe Campaign fornisce una piattaforma per la progettazione di customer experie
 
 * **[Modificare l’origine dati](/help/data-management/change-data-source.md)**
 
-   *Scopri come modificare l’origine dati di una tabella di lavoro del flusso di lavoro utilizzando l’attività Cambia origine dati per gestire in modo flessibile i dati tra diverse origini dati, come FDA, FFDA e database locale.*
+   *Scopri come modificare l’origine dati di una tabella di lavoro del flusso di lavoro utilizzando l’attività Modifica origine dati per gestire in modo flessibile i dati tra diverse origini, come FDA, FFDA e database locale.*
 
 * **[Nozioni di base sulla gestione dei dati con i flussi di lavoro](/help/data-management/data-management-fundamentals.md)**
 
    *Scopri le dimensioni di targeting e le tabelle di lavoro e come Adobe Campaign gestisce i dati tra diverse origini dati.*
 
-* **[Meccanismo di staging API con FFDA](/help/data-management/api-staging-mechanism.md)**
+* **[Meccanismo di staging per le API con FFDA](/help/data-management/api-staging-mechanism.md)**
 
-   *Scopri come funziona il meccanismo di staging API con FDA completo.*
+   *Scopri come funziona il meccanismo di staging per le API con Full FDA.*
 
 ## Scelti dallo staff
 
@@ -102,4 +102,4 @@ Adobe Campaign fornisce una piattaforma per la progettazione di customer experie
 
 </table>
 
-Vedi la [documentazione del prodotto](https://experienceleague.adobe.com/docs/campaign-v8.html?lang=it) per ulteriori dettagli su questa funzione.
+Per ulteriori dettagli su questa funzione, consulta la [documentazione del prodotto](https://experienceleague.adobe.com/docs/campaign-v8.html?lang=it).
