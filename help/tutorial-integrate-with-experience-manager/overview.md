@@ -7,17 +7,17 @@ thumbnail: 340319.jpg
 role: Admin, Developer
 level: Experienced
 recommendations: noDisplay
-source-git-commit: 9ba0862edca7be243e9b26d5b0b99d2b5b5900b0
+source-git-commit: 5b0a6644e9f5407726c5f389db62ab7a0921abac
 workflow-type: tm+mt
-source-wordcount: '81'
+source-wordcount: '75'
 ht-degree: 0%
 
 ---
 
 # Integrazione con Experience Manager - Panoramica
 
-Questa esercitazione spiega come collegare Adobe Campaign ad Adobe Experience Manager per gestire in Experience Manager modelli di consegna e-mail, risorse e moduli.
+Scopri come collegare Adobe Campaign ad Adobe Experience Manager per gestire modelli di consegna e-mail, risorse e moduli in Experience Manager.
 
-Il seguente video offre una panoramica del corso e di ciò che ci si aspetta di apprendere.
+Il video seguente offre una panoramica del corso e di ciò che ci si aspetta di apprendere.
 
 >[!VIDEO](https://video.tv.adobe.com/v/340319?quality=12)
