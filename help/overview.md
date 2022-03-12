@@ -7,10 +7,10 @@ role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 recommendations: noDisplay, noCatalog
-source-git-commit: f5e7f795924fc5dad20b9fb56eede82cf42920c3
-workflow-type: ht
-source-wordcount: '432'
-ht-degree: 100%
+source-git-commit: 210782e41d7bfff28cb8729387da54965e97fcfe
+workflow-type: tm+mt
+source-wordcount: '475'
+ht-degree: 95%
 
 ---
 
@@ -27,17 +27,17 @@ Adobe Campaign fornisce una piattaforma per la progettazione di customer experie
 
 ## Novità
 
-* **[Integrare con Experience Manager](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-manager/overview.html?lang=it)**
+* **[Integrare con Adobe Target](/help/connect/target-integration.md)
+
+   *Scopri come personalizzare una consegna con contenuti dinamici forniti da Adobe Target.*
+
+* **[Integrare con Adobe Experience Manager](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-manager/overview.html?lang=it)**
 
    *Scopri come connettere Adobe Campaign ad Adobe Experience Manager per gestire i modelli di consegna e-mail, le risorse e i moduli in Experience Manager.*
 
 * **[Modificare l’origine dati](/help/data-management/change-data-source.md)**
 
    *Scopri come modificare l’origine dati di una tabella di lavoro del flusso di lavoro utilizzando l’attività Modifica origine dati per gestire in modo flessibile i dati tra diverse origini, come FDA, FFDA e database locale.*
-
-* **[Nozioni di base sulla gestione dei dati con i flussi di lavoro](/help/data-management/data-management-fundamentals.md)**
-
-   *Scopri le dimensioni di targeting e le tabelle di lavoro e come Adobe Campaign gestisce i dati tra diverse origini dati.*
 
 
 ## Scelti dallo staff
@@ -100,7 +100,33 @@ Adobe Campaign fornisce una piattaforma per la progettazione di customer experie
     <em>Scopri come generare un rapporto di analisi descrittivo da un flusso di lavoro.</em>
     <p>
   </td>
-
+  <td>
+   <a href="./data-management/data-management-fundamentals.md">
+      <img alt="Nozioni di base sulla gestione dei dati con i flussi di lavoro" src="./assets/339992.jpg" />
+    </a>
+     <div>
+      <a href="./data-management/data-management-fundamentals.md">
+    <strong>Nozioni di base sulla gestione dei dati con i flussi di lavoro</strong>
+    </a>
+    </div>
+    <p>
+    <em>Scopri le dimensioni di targeting e le tabelle di lavoro e come Adobe Campaign gestisce i dati tra diverse origini dati.</em>
+    <p>
+  </td>
+  <td>
+   <a href="./data-management/api-staging-mechanism.md">
+      <img alt="Meccanismo di staging per le API con FFDA" src="./assets/339276.jpg" />
+    </a>
+     <div>
+      <a href="./data-management/api-staging-mechanism.md">
+    <strong>Meccanismo di staging per le API con FFDA</strong>
+    </a>
+    </div>
+    <p>
+    <em>Scopri come funziona il meccanismo di staging per le API con Full FDA.</em>
+    <p>
+  </td>
+</tr>
 </table>
 
 Per ulteriori dettagli su questa funzione, consulta la [documentazione del prodotto](https://experienceleague.adobe.com/docs/campaign-v8.html?lang=it).
