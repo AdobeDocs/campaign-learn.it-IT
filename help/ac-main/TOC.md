@@ -4,10 +4,10 @@ sub-product: Campaign V8
 user-guide-title: Tutorial su Adobe Campaign
 user-guide-description: Adobe Campaign consente agli esperti di marketing di progettare esperienze cliente per diversi canali e fornisce un ambiente per l’orchestrazione visiva delle campagne, la gestione delle interazioni in tempo reale e l’esecuzione cross-channel.
 breadcrumb-title: Tutorial
-source-git-commit: 210782e41d7bfff28cb8729387da54965e97fcfe
+source-git-commit: 461770e8f308780b0d4d4e0d5fe7ac422020f196
 workflow-type: tm+mt
-source-wordcount: '389'
-ht-degree: 95%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 95%
    + [Creare campagne attivate da un evento](/help/get-started/create-event-triggered-campaigns.md)
 + Gestione dei profili {#profile-management}
    + [Creare e gestire i profili](/help/profile-management/create-and-manage-profiles.md)
+   + [Importare i profili](/help/profile-management/import-profiles.md)
    + [Targeting dei profili in un flusso di lavoro](/help/profile-management/target-profiles-in-a-workflow.md)
 + Orchestrazione campagna {#campaign-orchestration}
    + [Eseguire una campagna](/help/orchestrate-campaigns/execute-a-campaign.md)
@@ -66,7 +67,7 @@ ht-degree: 95%
    + [Creare un flusso di lavoro](/help/process-management/create-a-workflow.md)
    + [Creare consegne ricorrenti e continue](/help/process-management/recurring-deliveries.md)
    + Flussi di lavoro di targeting {#targeting-workflows}
-      + [Creare flussi di lavoro di targeting](/help/process-management/create-a-targeting-workflow.md)
+      + [Creare un flusso di lavoro di targeting](/help/process-management/create-a-targeting-workflow.md)
       + [Ottimizzare le destinazioni attraverso la combinazione dei risultati delle query](/help/process-management/refine-targets-by-combining-query-results.md)
       + [Ottimizzare le destinazioni attraverso l’esclusione dei risultati delle query](/help/process-management/refine-targets-by-excluding-query-results.md)
    + Approvazioni e flussi di lavoro di convalida {#create-approvals-and-validation-workflows}
