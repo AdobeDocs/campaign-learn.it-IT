@@ -9,10 +9,10 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: 0dca4676-2d5e-411b-9fdf-fbfd1081cb0e
-source-git-commit: f7cb6c57d9cd6b00def9f0a4ccbcc94267f0d593
+source-git-commit: 28e209b6c9dad98a649b0b49eee7bb886c3d8431
 workflow-type: tm+mt
-source-wordcount: '338'
-ht-degree: 100%
+source-wordcount: '337'
+ht-degree: 95%
 
 ---
 
@@ -24,8 +24,8 @@ Scopri come risolvere i problemi del Pannello di controllo Campaign.
 
 ### Sintomo: impossibile accedere a Experience Cloud
 
-**Come procedere:**
-L’utente deve individuare il proprio ID organizzazione IMS (xxx). L’amministratore deve aggiungere l’utente al profilo di prodotto “Campaign-xxx-Admins” per ogni istanza che desidera gestire. Se l’utente è amministratore di tutte le istanze, deve comunque aggiungere se stesso come utente.
+**Procedura:**
+L&#39;utente deve individuare l&#39;ID organizzazione (xxx). L’amministratore deve aggiungere l’utente al profilo di prodotto “Campaign-xxx-Admins” per ogni istanza che desidera gestire. Se l’utente è amministratore di tutte le istanze, deve comunque aggiungere se stesso come utente.
 
 ### Sintomo: i collegamenti nella home di Experience Cloud per accedere al [!UICONTROL Pannello di controllo Campaign] non vengono visualizzati per un utente
 
@@ -47,7 +47,7 @@ L’amministratore deve aggiungere l’utente al profilo di prodotto _Campaign-x
 
 >[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
 
-*Verificare Org ID IMS (00:26 min)*
+*Controlla l&#39;ID della tua organizzazione (00:26 min)*
 
 >[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
 

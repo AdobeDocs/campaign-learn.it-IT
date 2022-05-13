@@ -10,10 +10,10 @@ team: TM
 role: Admin
 level: Experienced
 exl-id: a094cd44-c891-468a-82f6-3f8f50a32640
-source-git-commit: ca13bdbd7d95e6646aff88af595e866bd3666bb2
-workflow-type: ht
-source-wordcount: '226'
-ht-degree: 100%
+source-git-commit: 28e209b6c9dad98a649b0b49eee7bb886c3d8431
+workflow-type: tm+mt
+source-wordcount: '230'
+ht-degree: 93%
 
 ---
 
@@ -42,9 +42,9 @@ Per accedere al Pannello di controllo Campaign, vai alla Home di Experience Clou
 
 Prima di iniziare, completa i seguenti prerequisiti:
 
-### Conferma l’[!DNL IMS Org ID]
+### Conferma l’ID organizzazione
 
-Il video seguente spiega dove puoi trovare l’[!DNL IMS org ID] dell’istanza.
+Il video seguente spiega dove cercare l’ID della tua organizzazione.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
 
