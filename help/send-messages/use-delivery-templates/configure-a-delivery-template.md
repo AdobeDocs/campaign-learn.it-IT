@@ -10,12 +10,10 @@ team: TM
 role: Admin
 level: Beginner
 exl-id: fb82b30d-7781-4aaf-a19a-c9810be5f87d
-hide: true
-hidefromtoc: true
-source-git-commit: 461770e8f308780b0d4d4e0d5fe7ac422020f196
-workflow-type: ht
-source-wordcount: '89'
-ht-degree: 100%
+source-git-commit: 36fc9fa4f2e8e20b633d2f5df18b3a4d634535c8
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -28,7 +26,7 @@ Un modello può includere sistematicamente:
 * Tipologie
 * Indirizzi di invio e risposta
 * Blocchi di personalizzazione di base
-* Collegamenti a pagine mirror e annullamento dell’abbonamento
+* Collegamenti a pagine mirror e annullamento dell’abbonamento collegamenti
 * Contenuto, logo aziendale o firma
 * Altre proprietà di consegna, ad esempio validità delle risorse, quantità batch...
 
