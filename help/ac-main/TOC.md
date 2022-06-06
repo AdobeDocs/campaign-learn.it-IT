@@ -4,10 +4,10 @@ sub-product: Campaign V8
 user-guide-title: Tutorial su Adobe Campaign
 user-guide-description: Adobe Campaign consente agli esperti di marketing di progettare esperienze cliente per diversi canali e fornisce un ambiente per l’orchestrazione visiva delle campagne, la gestione delle interazioni in tempo reale e l’esecuzione cross-channel.
 breadcrumb-title: Tutorial
-source-git-commit: dbdb6d0a4d09dd95ac1776e783bfd77cdc313f29
+source-git-commit: af1d6c836b2609c5abe2f82fd32eb7352d512543
 workflow-type: tm+mt
-source-wordcount: '403'
-ht-degree: 97%
+source-wordcount: '393'
+ht-degree: 100%
 
 ---
 
@@ -49,7 +49,6 @@ ht-degree: 97%
       + [Progettare le e-mail per la consegna](/help/send-messages/email/design-emails-for-deliverability.md)
       + [Guida alle best practice per la consegna](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=it)
    + SMS {#sms}
-      + [Configurare SMS per Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-learn/configure-sms-account/overview.html)
       + [Creare una consegna SMS](/help/send-messages/mobile/create-an-sms-delivery.md)
    + Push {#push}
       + [Installare il canale app mobile](/help/send-messages/mobile/install-the-mobile-app.md)
@@ -83,12 +82,13 @@ ht-degree: 97%
    + [Utilizzare l’attività di aggiornamento elenco](/help/process-management/use-the-update-list-activity.md)
    + [Configurare le attività di arricchimento](/help/process-management/enrichment-activity.md)
    + [Creare ed estendere uno schema](/help/data-management/create-and-extend-a-schema.md)
+   + [Importare i profili](/help/data-management/import-profiles.md)
    + [Replica dei dati](/help/data-management/data-replication.md)
    + [Meccanismo di staging per le API](/help/data-management/api-staging-mechanism.md)
    + [Tutorial: Utilizzare le API SOAP](https://experienceleague.adobe.com/docs/campaign-learn/use-soap-apis/introduction.html?lang=it)
 + Connettere con altre soluzioni {#connect}
    + [Integrare con Adobe Experience Manager](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-manager/overview.html?lang=it)
-   + [Integrare con Adobe Experience Platform](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/overview.html)
+   + [Integrare con Adobe Experience Platform](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/overview.html?lang=it)
    + [Integrare con Adobe Target](/help/connect/target-integration.md)
    + [Integrare con Microsoft Dynamics 365](/help/connect/dynamics365-integration.md)
 + Generazione rapporti {#reporting}
