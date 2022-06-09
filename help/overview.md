@@ -7,10 +7,10 @@ role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 recommendations: noDisplay, noCatalog
-source-git-commit: beab5d11367a6f2f8c92a2d9f8667d664744e08e
-workflow-type: ht
-source-wordcount: '475'
-ht-degree: 100%
+source-git-commit: 42cb3f32f931a3612481f5170d70ec964a8769c4
+workflow-type: tm+mt
+source-wordcount: '510'
+ht-degree: 75%
 
 ---
 
@@ -27,18 +27,20 @@ Adobe Campaign fornisce una piattaforma per la progettazione di customer experie
 
 ## Novità
 
-* **[Integrare con Adobe Target](/help/connect/target-integration.md)**
+* **[Introduzione all’SMS](/help/tutorial-sms/introduction-to-sms.md)**:
+   *Scopri come funziona SMS e come Adobe Campaign invia SMS*
 
-   *Scopri come personalizzare una consegna con contenuti dinamici forniti da Adobe Target.*
+* **[Configurare un account SMS per un provider SMPP standard](/help/tutorial-sms/set-up-account-for-standard-smpp-provider.md)**
 
-* **[Integrare con Adobe Experience Manager](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-manager/overview.html?lang=it)**
+   *Scopri come adattare il connettore SMS al provider SMPP. Ottimizza le impostazioni SMS per gestire i limiti di connessione, imposta la velocità effettiva massima, la finestra di invio e la crittografia con TLS.*
 
-   *Scopri come connettere Adobe Campaign ad Adobe Experience Manager per gestire i modelli di consegna e-mail, le risorse e i moduli in Experience Manager.*
+* **[Adatta il connettore SMS al provider SMPP](/help/tutorial-sms/adapt-sms-connector-to-smpp-provider.md)**
 
-* **[Modificare l’origine dati](/help/data-management/change-data-source.md)**
+   *Scopri come ottimizzare le impostazioni SMS per gestire i limiti di connessione, impostare la velocità effettiva massima, la finestra di invio e la crittografia con TLS.*
 
-   *Scopri come modificare l’origine dati di una tabella di lavoro del flusso di lavoro utilizzando l’attività Modifica origine dati per gestire in modo flessibile i dati tra diverse origini, come FDA, FFDA e database locale.*
+* **[Ottimizza il ROI delle e-mail e scopri le best practice per il nuovo coinvolgimento degli utenti](/help/strategy/campaign-maximize-email-best-practices.md)**
 
+   *Scopri come ottimizzare il ROI delle e-mail e apprendere le best practice per il nuovo coinvolgimento degli utenti. Scopri le strategie per migliorare il coinvolgimento degli abbonati e il successo complessivo delle campagne e-mail.*
 
 ## Scelti dallo staff
 
