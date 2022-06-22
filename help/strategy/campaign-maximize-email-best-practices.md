@@ -1,11 +1,12 @@
 ---
-title: Ottimizza il ROI delle e-mail e scopri le best practice per il nuovo coinvolgimento degli utenti
-description: 'Scopri come ottimizzare il ROI delle e-mail e apprendere le best practice per il nuovo coinvolgimento degli utenti. Scopri le strategie per migliorare il coinvolgimento degli abbonati e il successo complessivo delle campagne e-mail. '
+title: Massimizzare il ROI delle e-mail e best practice per coinvolgere di nuovo le persone iscritte
+description: Scopri come massimizzare il ROI delle e-mail e le best practice per coinvolgere di nuovo le persone iscritte. Scopri le strategie per migliorare il coinvolgimento degli utenti iscritti e comprendi il livello di successo complessivo delle campagne e-mail.
 solution: Campaign
-source-git-commit: 405305ad210f64a358caa240dd0c5a3f2e5b68b6
+exl-id: 324590c9-0381-42ea-ac51-8cb47ba6813d
+source-git-commit: 2fa177e03dfbff9d1af1f210556bb7193285dd07
 workflow-type: tm+mt
-source-wordcount: '1453'
-ht-degree: 0%
+source-wordcount: '1471'
+ht-degree: 3%
 
 ---
 
@@ -135,3 +136,5 @@ Suddividi questo processo in due aree principali: a) inviare i modelli e-mail e 
 * **Test e apprendimento** - un buon piano di test è importante per assicurarsi che i vostri sforzi abbiano l&#39;effetto desiderato. Scopri cosa funziona e cosa non funziona e continua di conseguenza.
 
 Per un riepilogo di questo articolo e una demo in tempo reale dell&#39;implementazione di strategie di riimpegno, guarda il nostro [webinar](https://adobecustomersuccess.adobeconnect.com/pm8goho13xuy/).
+
+Per saperne di più sulla strategia e la leadership del pensiero, consulta [Successo del cliente](https://experienceleague.corp.adobe.com/docs/customer-success/customer-success/overview.html) hub
