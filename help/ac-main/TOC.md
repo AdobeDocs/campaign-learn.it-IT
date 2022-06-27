@@ -5,9 +5,9 @@ user-guide-title: Tutorial su Adobe Campaign
 user-guide-description: Adobe Campaign consente agli esperti di marketing di progettare esperienze cliente per diversi canali e fornisce un ambiente per l’orchestrazione visiva delle campagne, la gestione delle interazioni in tempo reale e l’esecuzione cross-channel.
 breadcrumb-title: Tutorial
 source-git-commit: 42cb3f32f931a3612481f5170d70ec964a8769c4
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '417'
+ht-degree: 100%
 
 ---
 
@@ -48,7 +48,7 @@ ht-degree: 0%
       + [Risoluzione dei problemi di consegna e-mail](/help/send-messages/email/troubleshoot-email-delivery-issues.md)
       + [Progettare le e-mail per la consegna](/help/send-messages/email/design-emails-for-deliverability.md)
    + SMS {#sms}
-      + [Configurare SMS per Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html)
+      + [Configurare gli SMS per Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html?lang=it)
       + [Creare una consegna SMS](/help/send-messages/mobile/create-an-sms-delivery.md)
    + Push {#push}
       + [Installare il canale app mobile](/help/send-messages/mobile/install-the-mobile-app.md)
@@ -88,7 +88,7 @@ ht-degree: 0%
    + [Tutorial: Utilizzare le API SOAP](https://experienceleague.adobe.com/docs/campaign-learn/use-soap-apis/introduction.html?lang=it)
 + Connettere con altre soluzioni {#connect}
    + [Integrare con Adobe Experience Manager](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-manager/overview.html?lang=it)
-   + [Integrare con Adobe Experience Platform](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/overview.html)
+   + [Integrare con Adobe Experience Platform](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/overview.html?lang=it)
    + [Integrare con Adobe Target](/help/connect/target-integration.md)
    + [Integrare con Microsoft Dynamics 365](/help/connect/dynamics365-integration.md)
 + Generazione rapporti {#reporting}
@@ -99,6 +99,6 @@ ht-degree: 0%
    + [Audit Trail](/help/monitoring/audit-trail.md)
 + Amministrazione {#administration}
    + [Pannello di controllo Campaign](https://experienceleague.adobe.com/docs/campaign-learn/control-panel/control-panel-overview.html?lang=it)
-+ Strategia e leadership del pensiero{#strategy}
-   + [Ottimizzazione del ROI delle e-mail e delle best practice per il nuovo coinvolgimento degli utenti](/help/strategy/campaign-maximize-email-best-practices.md)
++ Strategia e leadership di pensiero{#strategy}
+   + [Massimizzare il ROI delle e-mail e best practice per coinvolgere di nuovo le persone iscritte](/help/strategy/campaign-maximize-email-best-practices.md)
    + [Guida alle best practice per la consegna](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=it)
