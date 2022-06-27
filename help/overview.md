@@ -8,9 +8,9 @@ level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 recommendations: noDisplay, noCatalog
 source-git-commit: 99904d75300064381bdac3245b290de82990d300
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '510'
+ht-degree: 100%
 
 ---
 
@@ -27,21 +27,21 @@ Adobe Campaign fornisce una piattaforma per la progettazione di customer experie
 
 ## Novità
 
-* **[Introduzione all’SMS](/help/tutorial-sms/introduction-to-sms.md)**
+* **[Introduzione alla funzione SMS](/help/tutorial-sms/introduction-to-sms.md)**
 
-   *Scopri come funziona SMS e come Adobe Campaign invia SMS*
+   *Scopri la funzione SMS e come Adobe Campaign invia SMS*
 
 * **[Configurare un account SMS per un provider SMPP standard](/help/tutorial-sms/set-up-account-for-standard-smpp-provider.md)**
 
-   *Scopri come adattare il connettore SMS al provider SMPP. Ottimizza le impostazioni SMS per gestire i limiti di connessione, imposta la velocità effettiva massima, la finestra di invio e la crittografia con TLS.*
+   *Scopri come adattare il connettore SMS al provider SMPP. Ottimizza le impostazioni SMS per gestire i limiti di connessione e impostare la velocità effettiva massima, la finestra di invio e la crittografia con TLS.*
 
-* **[Adatta il connettore SMS al provider SMPP](/help/tutorial-sms/adapt-sms-connector-to-smpp-provider.md)**
+* **[Adattare il connettore SMS al provider SMPP](/help/tutorial-sms/adapt-sms-connector-to-smpp-provider.md)**
 
-   *Scopri come ottimizzare le impostazioni SMS per gestire i limiti di connessione, impostare la velocità effettiva massima, la finestra di invio e la crittografia con TLS.*
+   *Scopri come ottimizzare le impostazioni SMS per gestire i limiti di connessione e impostare la velocità effettiva massima, la finestra di invio e la crittografia con TLS.*
 
-* **[Ottimizza il ROI delle e-mail e scopri le best practice per il nuovo coinvolgimento degli utenti](/help/strategy/campaign-maximize-email-best-practices.md)**
+* **[Massimizzare il ROI delle e-mail e best practice per coinvolgere di nuovo le persone iscritte](/help/strategy/campaign-maximize-email-best-practices.md)**
 
-   *Scopri come ottimizzare il ROI delle e-mail e apprendere le best practice per il nuovo coinvolgimento degli utenti. Scopri le strategie per migliorare il coinvolgimento degli abbonati e il successo complessivo delle campagne e-mail.*
+   *Scopri come massimizzare il ROI delle e-mail e le best practice per coinvolgere di nuovo le persone iscritte. Scopri le strategie per migliorare il coinvolgimento degli utenti iscritti e comprendi il livello di successo complessivo delle campagne e-mail.*
 
 ## Scelti dallo staff
 
