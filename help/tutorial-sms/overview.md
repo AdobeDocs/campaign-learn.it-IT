@@ -1,37 +1,37 @@
 ---
-title: 'Tutorial tecnico: configurare SMS per Adobe Campaign'
-description: Scopri come configurare un account SMS per i provider SMTP e come analizzare e risolvere i problemi della configurazione.
+title: 'Tutorial tecnico: configurare la funzione SMS per Adobe Campaign'
+description: Scopri come configurare un account SMS per i provider SMTP e come analizzare e risolvere i problemi di configurazione.
 feature: SMS
-source-git-commit: c47abbf25549960547b579e5a51e8704e5df0ea4
-workflow-type: tm+mt
+exl-id: c1eaabbf-c349-431d-9bbb-6ae987926d99
+source-git-commit: f16e485d536a6dd68e405a4f1826a0c9c6bf9673
+workflow-type: ht
 source-wordcount: '192'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
+# Tutorial tecnico: configurare la funzione SMS per Adobe Campaign
 
-# Tutorial tecnico: configurare SMS per Adobe Campaign
+![Applicabile alle versioni v7 e v8](../assets/V7-V8-stamp.png)
 
-![Si applica alle versioni V7 e V8](../assets/V7-V8-stamp.png)
-
-Le esercitazioni presenti in questa sezione sono state progettate per gli amministratori con il compito di configurare il canale SMS per Adobe Campaign.
+I tutorial presenti in questa sezione sono pensati per gli amministratori che devono configurare il canale SMS per Adobe Campaign.
 
 Sono trattati i seguenti argomenti:
 
-* **[Introduzione all’SMS](/help/tutorial-sms/introduction-to-sms.md)**:
-   *Scopri come funziona SMS e come Adobe Campaign invia SMS*
+* **[Introduzione alla funzione SMS](/help/tutorial-sms/introduction-to-sms.md)**:
+   *Scopri la funzione SMS e come Adobe Campaign invia SMS*
 
 * **[Configurare un account SMS per un provider SMPP standard](/help/tutorial-sms/set-up-account-for-standard-smpp-provider.md)**
 
-   *Scopri come adattare il connettore SMS al provider SMPP. Ottimizza le impostazioni SMS per gestire i limiti di connessione, imposta la velocità effettiva massima, la finestra di invio e la crittografia con TLS.*
+   *Scopri come adattare il connettore SMS al provider SMPP. Ottimizza le impostazioni SMS per gestire i limiti di connessione e impostare la velocità effettiva massima, la finestra di invio e la crittografia con TLS.*
 
-* **[Adatta il connettore SMS al provider SMPP](/help/tutorial-sms/adapt-sms-connector-to-smpp-provider.md)**
+* **[Adattare il connettore SMS al provider SMPP](/help/tutorial-sms/adapt-sms-connector-to-smpp-provider.md)**
 
-   *Scopri come ottimizzare le impostazioni SMS per gestire i limiti di connessione, impostare la velocità effettiva massima, la finestra di invio e la crittografia con TLS.*
+   *Scopri come ottimizzare le impostazioni SMS per gestire i limiti di connessione e impostare la velocità effettiva massima, la finestra di invio e la crittografia con TLS.*
 
 * **Analisi e risoluzione dei problemi**
 Disponibile a breve
 
 >[!NOTE]
 >
->Questa esercitazione si applica ad Adobe Campaign V7 e Campaign V8. Ulteriori risorse sono disponibili nella documentazione del prodotto: [Protocollo e impostazioni del connettore SMS](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-messages-on-mobiles/sms-protocol.html?lang=en#sending-messages).
+>Questo tutorial è applicabile ad Adobe Campaign v7 e Campaign v8. Ulteriori risorse sono disponibili nella documentazione del prodotto: [Protocollo e impostazioni del connettore SMS](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-messages-on-mobiles/sms-protocol.html?lang=it#sending-messages).
