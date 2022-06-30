@@ -7,10 +7,10 @@ role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 recommendations: noDisplay, noCatalog
-source-git-commit: 99904d75300064381bdac3245b290de82990d300
-workflow-type: ht
-source-wordcount: '510'
-ht-degree: 100%
+source-git-commit: 9e57d61a520a3f07f41c8367817d9467de3e7570
+workflow-type: tm+mt
+source-wordcount: '483'
+ht-degree: 94%
 
 ---
 
@@ -27,6 +27,14 @@ Adobe Campaign fornisce una piattaforma per la progettazione di customer experie
 
 ## Novità
 
+* **[Monitoraggio delle uscite e della latenza](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-throughputs-and-latency.html)**
+
+   *Scopri come monitorare i flussi di consegna e le latenze dei messaggi transazionali dell’istanza della campagna.*
+
+* **[Introduzione alla funzione SMS](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/introduction-to-sms.html?lang=it-IT)**
+
+   *Scopri la funzione SMS e come Adobe Campaign invia SMS*
+
 * **[Introduzione alla funzione SMS](/help/tutorial-sms/introduction-to-sms.md)**
 
    *Scopri la funzione SMS e come Adobe Campaign invia SMS*
@@ -34,14 +42,6 @@ Adobe Campaign fornisce una piattaforma per la progettazione di customer experie
 * **[Configurare un account SMS per un provider SMPP standard](/help/tutorial-sms/set-up-account-for-standard-smpp-provider.md)**
 
    *Scopri come adattare il connettore SMS al provider SMPP. Ottimizza le impostazioni SMS per gestire i limiti di connessione e impostare la velocità effettiva massima, la finestra di invio e la crittografia con TLS.*
-
-* **[Adattare il connettore SMS al provider SMPP](/help/tutorial-sms/adapt-sms-connector-to-smpp-provider.md)**
-
-   *Scopri come ottimizzare le impostazioni SMS per gestire i limiti di connessione e impostare la velocità effettiva massima, la finestra di invio e la crittografia con TLS.*
-
-* **[Massimizzare il ROI delle e-mail e best practice per coinvolgere di nuovo le persone iscritte](/help/strategy/campaign-maximize-email-best-practices.md)**
-
-   *Scopri come massimizzare il ROI delle e-mail e le best practice per coinvolgere di nuovo le persone iscritte. Scopri le strategie per migliorare il coinvolgimento degli utenti iscritti e comprendi il livello di successo complessivo delle campagne e-mail.*
 
 ## Scelti dallo staff
 
