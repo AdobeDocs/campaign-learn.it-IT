@@ -7,10 +7,10 @@ role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 recommendations: noDisplay, noCatalog
-source-git-commit: 9e57d61a520a3f07f41c8367817d9467de3e7570
+source-git-commit: 066c6e95eb5dee4330b80495bececcba076dd5c1
 workflow-type: tm+mt
-source-wordcount: '483'
-ht-degree: 94%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -27,13 +27,14 @@ Adobe Campaign fornisce una piattaforma per la progettazione di customer experie
 
 ## Novità
 
-* **[Monitoraggio delle uscite e della latenza](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-throughputs-and-latency.html)**
+
+* **[Pannello di controllo Campaign - Monitorare i flussi di lavoro](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-workflows.html){target=&quot;_blank&quot;}**
+
+   *Scopri come monitorare l’utilizzo dello storage temporaneo dei flussi di lavoro e dove configurare le impostazioni del flusso di lavoro per evitare problemi di database o flusso di lavoro nell’istanza.*
+
+* **[Pannello di controllo Campaign - Monitoraggio delle entrate e della latenza](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-throughputs-and-latency.html){target=&quot;_blank&quot;}**
 
    *Scopri come monitorare i flussi di consegna e le latenze dei messaggi transazionali dell’istanza della campagna.*
-
-* **[Introduzione alla funzione SMS](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/introduction-to-sms.html?lang=it-IT)**
-
-   *Scopri la funzione SMS e come Adobe Campaign invia SMS*
 
 * **[Introduzione alla funzione SMS](/help/tutorial-sms/introduction-to-sms.md)**
 
