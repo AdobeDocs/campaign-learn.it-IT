@@ -8,9 +8,9 @@ level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 recommendations: noDisplay, noCatalog
 source-git-commit: 066c6e95eb5dee4330b80495bececcba076dd5c1
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '505'
+ht-degree: 100%
 
 ---
 
@@ -28,11 +28,11 @@ Adobe Campaign fornisce una piattaforma per la progettazione di customer experie
 ## Novità
 
 
-* **[Pannello di controllo Campaign - Monitorare i flussi di lavoro](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-workflows.html){target=&quot;_blank&quot;}**
+* **[Pannello di controllo Campaign - Monitoraggio dei flussi di lavoro](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-workflows.html?lang=it){target=&quot;_blank&quot;}**
 
-   *Scopri come monitorare l’utilizzo dello storage temporaneo dei flussi di lavoro e dove configurare le impostazioni del flusso di lavoro per evitare problemi di database o flusso di lavoro nell’istanza.*
+   *Scopri come monitorare l’utilizzo temporaneo dell’archiviazione da parte dei flussi di lavoro e dove configurare le impostazioni del flusso di lavoro per evitare problemi di database o flusso di lavoro nell’istanza.*
 
-* **[Pannello di controllo Campaign - Monitoraggio delle entrate e della latenza](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-throughputs-and-latency.html){target=&quot;_blank&quot;}**
+* **[Pannello di controllo Campaign - Monitoraggio delle velocità effettive e della latenza](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-throughputs-and-latency.html?lang=it){target=&quot;_blank&quot;}**
 
    *Scopri come monitorare i flussi di consegna e le latenze dei messaggi transazionali dell’istanza della campagna.*
 
