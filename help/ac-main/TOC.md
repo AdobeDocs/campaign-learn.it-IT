@@ -4,10 +4,10 @@ sub-product: Campaign V8
 user-guide-title: Tutorial su Adobe Campaign
 user-guide-description: Adobe Campaign consente agli esperti di marketing di progettare esperienze cliente per diversi canali e fornisce un ambiente per l’orchestrazione visiva delle campagne, la gestione delle interazioni in tempo reale e l’esecuzione cross-channel.
 breadcrumb-title: Tutorial
-source-git-commit: d1ba1a3c22b4a95dca19418f3d490872257b93cd
+source-git-commit: 36e9a53ab0276840eea09c2dffe55562591e54b0
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '417'
+ht-degree: 100%
 
 ---
 
@@ -48,7 +48,6 @@ ht-degree: 0%
       + [Risoluzione dei problemi di consegna e-mail](/help/send-messages/email/troubleshoot-email-delivery-issues.md)
       + [Progettare le e-mail per la consegna](/help/send-messages/email/design-emails-for-deliverability.md)
    + SMS {#sms}
-      + [Configurare gli SMS per Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html?lang=it)
       + [Creare una consegna SMS](/help/send-messages/mobile/create-an-sms-delivery.md)
    + Push {#push}
       + [Installare il canale app mobile](/help/send-messages/mobile/install-the-mobile-app.md)
@@ -98,6 +97,7 @@ ht-degree: 0%
    + [Audit Trail](/help/monitoring/audit-trail.md)
 + Amministrazione {#administration}
    + [Pannello di controllo Campaign](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html?lang=it){target=&quot;_blank&quot;}
+   + [Configurare gli SMS per Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html?lang=it)
 + Strategia e leadership di pensiero{#strategy}
    + [Massimizzare il ROI delle e-mail e best practice per coinvolgere di nuovo le persone iscritte](/help/strategy/campaign-maximize-email-best-practices.md)
    + [Guida alle best practice per la consegna](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=it)

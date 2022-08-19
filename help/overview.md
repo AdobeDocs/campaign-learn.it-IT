@@ -7,10 +7,10 @@ role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 recommendations: noDisplay, noCatalog
-source-git-commit: 066c6e95eb5dee4330b80495bececcba076dd5c1
-workflow-type: ht
-source-wordcount: '505'
-ht-degree: 100%
+source-git-commit: 73a9f32d11a9843afcfd126c9565b137b815ceef
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -27,6 +27,9 @@ Adobe Campaign fornisce una piattaforma per la progettazione di customer experie
 
 ## Novità
 
+* **[Informazioni approfondite sul protocollo SMPP e risoluzione dei problemi](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/smpp-deep-dive-and-troubleshooting.html)**
+
+   *Scopri come vengono stabilite le connessioni SMPP e come SMPP scambia i dati tramite le PDU. Scopri come risolvere i problemi delle connessioni.*
 
 * **[Pannello di controllo Campaign - Monitoraggio dei flussi di lavoro](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-workflows.html?lang=it){target=&quot;_blank&quot;}**
 
@@ -35,14 +38,6 @@ Adobe Campaign fornisce una piattaforma per la progettazione di customer experie
 * **[Pannello di controllo Campaign - Monitoraggio delle velocità effettive e della latenza](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-throughputs-and-latency.html?lang=it){target=&quot;_blank&quot;}**
 
    *Scopri come monitorare i flussi di consegna e le latenze dei messaggi transazionali dell’istanza della campagna.*
-
-* **[Introduzione alla funzione SMS](/help/tutorial-sms/introduction-to-sms.md)**
-
-   *Scopri la funzione SMS e come Adobe Campaign invia SMS*
-
-* **[Configurare un account SMS per un provider SMPP standard](/help/tutorial-sms/set-up-account-for-standard-smpp-provider.md)**
-
-   *Scopri come adattare il connettore SMS al provider SMPP. Ottimizza le impostazioni SMS per gestire i limiti di connessione e impostare la velocità effettiva massima, la finestra di invio e la crittografia con TLS.*
 
 ## Scelti dallo staff
 
