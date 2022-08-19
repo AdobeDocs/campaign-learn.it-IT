@@ -2,10 +2,10 @@
 user-guide-title: Configurare la funzione SMS per Adobe Campaign
 user-guide-description: Scopri come configurare un account SMS per i provider SMTP, come Adobe Campaign gestisce gli SMS e come analizzare e risolvere i problemi di configurazione. 
 breadcrumb-title: Configurare la funzione SMS
-source-git-commit: f20c47d0b3f260d19c1c938f3b8f1d521a0f069e
+source-git-commit: 2c285a9e5f2b5e48adbb5272f0c95bcd7d2ad052
 workflow-type: tm+mt
-source-wordcount: '101'
-ht-degree: 83%
+source-wordcount: '89'
+ht-degree: 80%
 
 ---
 
@@ -20,4 +20,3 @@ ht-degree: 83%
 + Torna ai Tutorials {#campaign-tutorials}
    + [Tutorial su Adobe Campaign V8](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html?lang=en)
    + [Tutorial su Adobe Campaign V7](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=en)
-   + [Tutorial di Adobe Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=en)
