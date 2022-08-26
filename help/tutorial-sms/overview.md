@@ -4,9 +4,9 @@ description: Scopri come configurare un account SMS per i provider SMTP e come a
 feature: SMS
 exl-id: c1eaabbf-c349-431d-9bbb-6ae987926d99
 source-git-commit: 3d1734fab0deebd611717e13c813c89ead880e5a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '211'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
@@ -29,9 +29,9 @@ Sono trattati i seguenti argomenti:
 
    *Scopri come ottimizzare le impostazioni SMS per gestire i limiti di connessione e impostare la velocità effettiva massima, la finestra di invio e la crittografia con TLS.*
 
-* **[Informazioni approfondite sul protocollo SMPP e risoluzione dei problemi](/help/tutorial-sms/smpp-deep-dive-and-troubleshooting.md)**
+* **[Approfondimento sul protocollo SMPP e risoluzione dei problemi](/help/tutorial-sms/smpp-deep-dive-and-troubleshooting.md)**
 
-   *Scopri come vengono stabilite le connessioni SMPP e come SMPP scambia i dati tramite le PDU. Scopri come risolvere i problemi delle connessioni.*
+   *Scopri come vengono stabilite le connessioni SMPP e come il protocollo SMPP scambia i dati tramite le PDU. Come risolvere i problemi relativi alle connessioni.*
 
 >[!NOTE]
 >
