@@ -6,15 +6,14 @@ feature: Overview
 role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-recommendations: noDisplay, noCatalog
-source-git-commit: 84d754f4ab022ed982b151942e72b891c7eeeb22
-workflow-type: ht
-source-wordcount: '464'
-ht-degree: 100%
+source-git-commit: 843475fb33a5d95cbcb2c2e767a8a347cebf0738
+workflow-type: tm+mt
+source-wordcount: '463'
+ht-degree: 99%
 
 ---
 
-# Tutorial di Adobe Campaign v8: panoramica
+# Esercitazioni di Adobe Campaign V8
 
 Adobe Campaign fornisce una piattaforma per la progettazione di customer experience cross-channel e fornisce un ambiente per l’orchestrazione visiva delle campagne, la gestione delle interazioni in tempo reale e l’esecuzione cross-channel. La presente guida utente contiene video e tutorial sulle numerose funzioni e caratteristiche di Adobe Campaign v8.
 
@@ -25,6 +24,8 @@ Adobe Campaign fornisce una piattaforma per la progettazione di customer experie
 > Campaign v8 è attualmente disponibile solo come Managed Cloud Service e non può essere distribuito in ambienti on-premise o ibridi. La migrazione automatizzata da un ambiente esistente di Campaign Classic v7 non è ancora disponibile.
 >
 >Per ulteriori informazioni sulla transizione da Classic v7 a v8, consulta la [documentazione del prodotto](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/v7-to-v8.html?lang=it).
+
+<div id="whats-new-section">
 
 ## Novità
 
@@ -40,7 +41,18 @@ Adobe Campaign fornisce una piattaforma per la progettazione di customer experie
 
    *Scopri come monitorare i flussi di consegna e le latenze dei messaggi transazionali dell’istanza della campagna.*
 
-## Scelti dallo staff
+</div>
+
+<div id="recs-overview-body-1"></div>
+<div id="recs-overview-body-2"></div>
+<div id="recs-overview-body-3"></div>
+<div id="recs-overview-body-4"></div>
+<div id="recs-overview-body-5"></div>
+<div id="recs-overview-body-6"></div>
+
+<div id="staff-picks-section">
+
+## Scelte del personale
 
 <table>
 <tr>
@@ -128,5 +140,7 @@ Adobe Campaign fornisce una piattaforma per la progettazione di customer experie
   </td>
 </tr>
 </table>
+
+</div>
 
 Per ulteriori dettagli su questa funzione, consulta la [documentazione del prodotto](https://experienceleague.adobe.com/docs/campaign-v8.html?lang=it).
