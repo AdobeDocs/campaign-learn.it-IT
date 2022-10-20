@@ -4,9 +4,10 @@ description: Scopri come impostare un account SMPP con Adobe Campaign, come anal
 feature: SMS
 thumbnail: 343607.jpg
 kt: 9742
+last-substantial-update: 2022-08-24T00:00:00Z
 exl-id: c057d743-ca6a-44c7-a93a-d6652dba8e7b
-source-git-commit: f16e485d536a6dd68e405a4f1826a0c9c6bf9673
-workflow-type: ht
+source-git-commit: 285afc4062984320423816e8364f863973834f71
+workflow-type: tm+mt
 source-wordcount: '115'
 ht-degree: 100%
 
