@@ -7,13 +7,13 @@ role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 source-git-commit: 843475fb33a5d95cbcb2c2e767a8a347cebf0738
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '463'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
-# Esercitazioni di Adobe Campaign V8
+# Tutorial su Adobe Campaign v8
 
 Adobe Campaign fornisce una piattaforma per la progettazione di customer experience cross-channel e fornisce un ambiente per l’orchestrazione visiva delle campagne, la gestione delle interazioni in tempo reale e l’esecuzione cross-channel. La presente guida utente contiene video e tutorial sulle numerose funzioni e caratteristiche di Adobe Campaign v8.
 
@@ -52,7 +52,7 @@ Adobe Campaign fornisce una piattaforma per la progettazione di customer experie
 
 <div id="staff-picks-section">
 
-## Scelte del personale
+## Scelti dallo staff
 
 <table>
 <tr>
