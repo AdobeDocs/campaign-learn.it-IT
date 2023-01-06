@@ -1,8 +1,8 @@
 ---
-source-git-commit: c2b4ec492f591c5b0f06f74d42b94ff527d5cdeb
+source-git-commit: 94b2ca4943cd9b1785b84493007102d51d1d9898
 workflow-type: tm+mt
-source-wordcount: '296'
-ht-degree: 24%
+source-wordcount: '294'
+ht-degree: 22%
 
 ---
 # Contributo
@@ -18,20 +18,15 @@ Il progetto aderisce al [Codice di condotta](code-of-conduct.md) di Adobe. Con l
 
 ## Documentazione della Guida collaboratore
 
-Consulta la [Guida per i collaboratori](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html).
+Consulta la sezione [Guida collaboratore](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html).
 
 ## Avete Una Domanda?
 
-Inizia segnalando un problema. Gli attuali committer di questo progetto si adoperano per raggiungere
-consenso sulla direzione del progetto e sulle soluzioni dei problemi all&#39;interno dei thread di discussione
-(se del caso).
+Inizia segnalando un problema. Gli attuali committer di questo progetto si adoperano per raggiungere un consenso sulla direzione del progetto e per elaborare soluzioni all’interno dei thread di discussione (se opportuno).
 
 ## Contratto di licenza da collaboratore
 
-Tutti i contributi di terze parti a questo progetto devono essere accompagnati da un collaboratore firmato
-contratto di licenza. In tal modo è concesso ad Adobe il permesso di ridistribuire i contributi come parte del progetto. [Firma il Contratto di licenza da collaboratore](http://opensource.adobe.com/cla.html). You
-è necessario inviare un CLA di Adobe una sola volta, quindi se ne hai già inviato uno in precedenza,
-sei bravo ad andare!
+Tutti i contributi di terze parti a questo progetto devono essere accompagnati da un contratto di licenza per i contributori firmato. In tal modo è concesso ad Adobe il permesso di ridistribuire i contributi come parte del progetto. [Firma il Contratto di licenza da collaboratore](http://opensource.adobe.com/cla.html). È sufficiente inviare un CLA di Adobe una sola volta, quindi se ne hai già inviato uno in precedenza, puoi iniziare!
 
 ## Revisioni del codice
 
@@ -44,12 +39,7 @@ submitting a pull request!
 
 ## Da Collaboratore A Comitato
 
-Amiamo i contributi della nostra comunità! Se desideri andare oltre il tuo collaboratore
-e diventare un committer con pieno accesso in scrittura e un ruolo di rilievo nel progetto, devi
-essere invitati al progetto. Gli attuali committer si avvalgono di una nomina interna
-processo che deve raggiungere un consenso pigro (il silenzio è approvazione) prima degli inviti
-sono emessi. Se ti senti qualificato e vuoi essere coinvolto più profondamente,
-puoi rivolgerti agli attuali committer per discutere di questo aspetto.
+Amiamo i contributi della nostra comunità! Se desideri andare oltre il contributore e diventare un committer con accesso in scrittura completo e una voce in capitolo nel progetto, devi essere invitato al progetto. Gli attuali committer si avvalgono di un processo di nomina interna che deve raggiungere un consenso pigro (il silenzio è l&#39;approvazione) prima che gli inviti siano rilasciati. Se pensi di essere qualificato e vuoi essere coinvolto più a fondo, puoi rivolgerti agli attuali committer per discutere di questo aspetto.
 
 ## Problemi di sicurezza
 
