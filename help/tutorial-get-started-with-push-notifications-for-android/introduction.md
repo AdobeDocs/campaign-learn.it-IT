@@ -10,9 +10,9 @@ role: Admin, Developer
 level: Experienced
 recommendations: noCatalog
 exl-id: 91ff4bae-8598-4227-b4c9-4e436ce7400d
-source-git-commit: ca13bdbd7d95e6646aff88af595e866bd3666bb2
+source-git-commit: b1b8d8a99a551239c445fb588cbd126b66a53c9b
 workflow-type: ht
-source-wordcount: '317'
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
@@ -37,7 +37,7 @@ Prima di iniziare, è necessario disporre dei seguenti elementi:
 
    Il pacchetto [!DNL Mobile App channel] deve essere installato nell’istanza di [!DNL Campaign]. Il seguente video spiega come verificare se [!DNL Mobile App channel] è installato nell’istanza indicata e, in caso contrario, come installarlo.
 
->[!VIDEO](https://video.tv.adobe.com/v/326544?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/326544?quality=12&learn=on)
 
 ## Panoramica del tutorial
 
