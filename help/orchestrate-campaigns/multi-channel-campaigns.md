@@ -10,7 +10,7 @@ team: TM
 role: User
 level: Beginner
 exl-id: f8f8fd28-9adc-4993-a7ea-bfd01ac0fdf1
-source-git-commit: ca13bdbd7d95e6646aff88af595e866bd3666bb2
+source-git-commit: b1b8d8a99a551239c445fb588cbd126b66a53c9b
 workflow-type: ht
 source-wordcount: '83'
 ht-degree: 100%
@@ -23,4 +23,4 @@ In una campagna multicanale, una singola comunicazione di marketing utilizza piÃ
 
 Scopri come creare una campagna multicanale utilizzando e-mail, SMS e una consegna direct mailing, in base al canale preferito del destinatario.
 
->[!VIDEO](https://video.tv.adobe.com/v/335440?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335440?quality=12&learn=on)
