@@ -11,9 +11,9 @@ role: User
 level: Beginner
 last-substantial-update: 2022-11-03T00:00:00Z
 exl-id: 9b52c0a8-48da-4b88-8b95-fd0fc47b06b5
-source-git-commit: 3763c7ca5a59bff871630fcd53d4a4391248b2ea
+source-git-commit: b1b8d8a99a551239c445fb588cbd126b66a53c9b
 workflow-type: ht
-source-wordcount: '69'
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
@@ -22,4 +22,4 @@ ht-degree: 100%
 
 I flussi di lavoro rappresentano una potente funzione di Adobe Campaign che facilita la gestione delle campagne per raggiungere più facilmente i clienti. Scopri cinque best practice essenziali che gli addetti al marketing dovrebbero applicare ai flussi di lavoro, consigliate da Adam Wilson, Associate Director of Marketing presso LoyaltyOne.
 
->[!VIDEO](https://video.tv.adobe.com/v/3410837?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/3410837?quality=12&learn=on)
