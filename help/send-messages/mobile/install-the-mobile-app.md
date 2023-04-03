@@ -12,7 +12,7 @@ level: Beginner
 hide: true
 hidefromtoc: true
 exl-id: 417ef7bc-bbac-42a0-8a4f-fd04381f8b35
-source-git-commit: ca13bdbd7d95e6646aff88af595e866bd3666bb2
+source-git-commit: b1b8d8a99a551239c445fb588cbd126b66a53c9b
 workflow-type: ht
 source-wordcount: '48'
 ht-degree: 100%
@@ -23,4 +23,4 @@ ht-degree: 100%
 
 Scopri come verificare se il canale dell’app mobile è installato nella tua istanza e come installarlo.
 
->[!VIDEO](https://video.tv.adobe.com/v/326544?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/326544?quality=12&learn=on)
