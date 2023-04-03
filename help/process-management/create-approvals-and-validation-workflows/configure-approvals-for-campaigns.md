@@ -9,7 +9,7 @@ activity: use
 role: User
 level: Beginner
 exl-id: d72a01e2-fcf2-4ca4-83eb-5aeed79dd2bc
-source-git-commit: 5a51d60b9483962690234931fe500864dd82a66f
+source-git-commit: b1b8d8a99a551239c445fb588cbd126b66a53c9b
 workflow-type: ht
 source-wordcount: '54'
 ht-degree: 100%
@@ -22,4 +22,4 @@ Scopri come configurare approvazioni e revisori a livello di campagna.  
 
 Se usi gli stessi revisori per tutte le consegne nel flusso di lavoro di una campagna, le approvazioni devono essere configurate a livello di campagna.
 
->[!VIDEO](https://video.tv.adobe.com/v/338826?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/338826?quality=12&learn=on)
