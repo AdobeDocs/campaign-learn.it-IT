@@ -10,9 +10,9 @@ team: TM
 role: Admin
 level: Beginner, Experienced
 exl-id: ac29b75c-a838-4183-8ec5-034281290725
-source-git-commit: 85a32e0415c02ccfff9a22021ed77872ad726bf7
-workflow-type: tm+mt
-source-wordcount: '92'
+source-git-commit: b1b8d8a99a551239c445fb588cbd126b66a53c9b
+workflow-type: ht
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 In questa seconda parte del tutorial Creare un flusso di lavoro di esportazione, imparerai a formattare i dati per l’esportazione e a salvarli in un account esterno.
 
->[!VIDEO](https://video.tv.adobe.com/v/336391?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/336391?quality=12&learn=on)
 
 ## Assets
 
