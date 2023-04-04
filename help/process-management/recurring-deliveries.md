@@ -10,7 +10,7 @@ team: TM
 role: User
 level: Beginner
 exl-id: 469aecd7-4774-42c6-b07f-82792dfdc9c2
-source-git-commit: 28e209b6c9dad98a649b0b49eee7bb886c3d8431
+source-git-commit: b1b8d8a99a551239c445fb588cbd126b66a53c9b
 workflow-type: tm+mt
 source-wordcount: '232'
 ht-degree: 94%
@@ -39,10 +39,10 @@ Le consegne ricorrenti e continue differiscono nel modo in cui vengono gestiti i
 
 Il video spiega come configurare una consegna ricorrente e un’attività di pianificazione.
 
->[!VIDEO](https://video.tv.adobe.com/v/342638?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/342638?quality=12&learn=on)
 
 ## Come impostare una consegna continua {#how-to-set-up-a-continuous-delivery}
 
 Questo video mostra come configurare una consegna continua con una query incrementale.
 
->[!VIDEO](https://video.tv.adobe.com/v/342637?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/342637?quality=12&learn=on)
