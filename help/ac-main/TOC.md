@@ -4,9 +4,9 @@ sub-product: Campaign V8
 user-guide-title: Tutorial su Adobe Campaign
 user-guide-description: Adobe Campaign consente agli esperti di marketing di progettare esperienze cliente per diversi canali e fornisce un ambiente per l’orchestrazione visiva delle campagne, la gestione delle interazioni in tempo reale e l’esecuzione cross-channel.
 breadcrumb-title: Tutorial
-source-git-commit: d00b35a185844d8f2c1d046609c4d4839a24dda2
+source-git-commit: e0df9e93cf0421e687e77b99f5ef2bc93712c99f
 workflow-type: tm+mt
-source-wordcount: '431'
+source-wordcount: '434'
 ht-degree: 97%
 
 ---
@@ -41,6 +41,7 @@ ht-degree: 97%
       + [Creare una newsletter multilingue utilizzando contenuti condizionali](/help/content-creation/create-a-multilingual-newsletter-using-conditional-content.md)
       + [Definire il contenuto delle e-mail interattive con AMP](/help/content-creation/design-interactive-email-content-with-amp.md)
    + [Configurare le pagine di destinazione](/help/content-creation/configure-landingpages.md)
+   + [Creazione di un sondaggio](/help/content-creation/create-a-survey.md)
 + Inviare messaggi{#sending-messages}
    + E-mail {#email}
       + [Inviare e convalidare le bozze per una consegna e-mail](/help/send-messages/email/send-and-validate-proofs.md)
@@ -97,7 +98,7 @@ ht-degree: 97%
    + [Mappa di calore del flusso di lavoro](/help/monitoring/workflow-heatmap.md)
    + [Audit Trail](/help/monitoring/audit-trail.md)
 + Amministrazione {#administration}
-   + [Pannello di controllo Campaign](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html?lang=it){target="_blank"}
+   + [Pannello di controllo](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html?lang=it){target="_blank"}
    + [Configurare gli SMS per Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html?lang=it)
 + Strategia e leadership di pensiero{#strategy}
    + [Dieci best practice per il successo Adobe Campaign per gli addetti al marketing](/help/strategy/10-best-practices-for-marketers.md)
