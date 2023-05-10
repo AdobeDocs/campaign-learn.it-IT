@@ -7,8 +7,8 @@ role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 source-git-commit: 843475fb33a5d95cbcb2c2e767a8a347cebf0738
-workflow-type: ht
-source-wordcount: '463'
+workflow-type: tm+mt
+source-wordcount: '459'
 ht-degree: 100%
 
 ---
@@ -33,13 +33,13 @@ Adobe Campaign fornisce una piattaforma per la progettazione di customer experie
 
    *Scopri come vengono stabilite le connessioni SMPP e come il protocollo SMPP scambia i dati tramite le PDU. Come risolvere i problemi relativi alle connessioni.*
 
-* **[Pannello di controllo - Monitoraggio dei flussi di lavoro](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-workflows.html?lang=it){target=&quot;_blank&quot;}**
+* **[Pannello di controllo - Monitoraggio dei flussi di lavoro](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-workflows.html?lang=it){target="_blank"}**
 
    *Scopri come monitorare l’utilizzo temporaneo dell’archiviazione da parte dei flussi di lavoro e dove configurare le impostazioni del flusso di lavoro per evitare problemi di database o flusso di lavoro nell’istanza.*
 
-* **[Pannello di controllo - Monitoraggio delle velocità effettive e della latenza](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-throughputs-and-latency.html?lang=it){target=&quot;_blank&quot;}**
+* **[Pannello di controllo - Monitoraggio delle velocità effettive e della latenza](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-throughputs-and-latency.html?lang=it){target="_blank"}**
 
-   *Scopri come monitorare i flussi di consegna e le latenze dei messaggi transazionali dell’istanza della campagna.*
+   *Scopri come monitorare le velocità effettive di consegna e le latenze dei messaggi transazionali dell’istanza Campaign.*
 
 </div>
 

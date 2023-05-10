@@ -3,7 +3,7 @@ user-guide-title: Integrare con Experience Manager
 user-guide-description: Scopri come connettere Adobe Campaign con Adobe Experience Manager per gestire i modelli di consegna e-mail, le risorse e i moduli in Experience Manager.
 breadcrumb-title: Integrare con Experience Manager
 source-git-commit: 5b0a6644e9f5407726c5f389db62ab7a0921abac
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '66'
 ht-degree: 100%
 
