@@ -5,9 +5,9 @@ user-guide-title: Tutorial su Adobe Campaign
 user-guide-description: Adobe Campaign consente agli esperti di marketing di progettare esperienze cliente per diversi canali e fornisce un ambiente per l’orchestrazione visiva delle campagne, la gestione delle interazioni in tempo reale e l’esecuzione cross-channel.
 breadcrumb-title: Tutorial
 source-git-commit: e0df9e93cf0421e687e77b99f5ef2bc93712c99f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '434'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -101,6 +101,6 @@ ht-degree: 97%
    + [Pannello di controllo](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html?lang=it){target="_blank"}
    + [Configurare gli SMS per Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html?lang=it)
 + Strategia e leadership di pensiero{#strategy}
-   + [Dieci best practice per il successo Adobe Campaign per gli addetti al marketing](/help/strategy/10-best-practices-for-marketers.md)
+   + [Dieci best practice per il successo di Adobe Campaign per esperti marketing](/help/strategy/10-best-practices-for-marketers.md)
    + [Massimizzare il ROI delle e-mail e best practice per coinvolgere di nuovo le persone iscritte](/help/strategy/campaign-maximize-email-best-practices.md)
    + [Guida alle best practice per la consegna](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=it)
