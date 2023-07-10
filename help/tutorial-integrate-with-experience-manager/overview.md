@@ -2,14 +2,14 @@
 title: Integrare con Experience Manager - Panoramica
 description: Scopri come connettere Adobe Campaign con Adobe Experience Manager per gestire i modelli di consegna e-mail, le risorse e i moduli in Experience Manager.
 feature: Experience Manager Integration
-kt: 9592
+jira: KT-9592
 thumbnail: 340319.jpg
 role: Admin, Developer
 level: Experienced
 recommendations: noDisplay
 exl-id: 7c877275-a160-41a8-950a-756e9e932302
-source-git-commit: b1b8d8a99a551239c445fb588cbd126b66a53c9b
-workflow-type: tm+mt
+source-git-commit: 05b49ca012d0d505b117a2fb6b12ff41b51be63e
+workflow-type: ht
 source-wordcount: '63'
 ht-degree: 100%
 
