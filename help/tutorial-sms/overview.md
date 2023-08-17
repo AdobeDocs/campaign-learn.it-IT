@@ -20,19 +20,16 @@ I tutorial presenti in questa sezione sono pensati per gli amministratori che de
 Sono trattati i seguenti argomenti:
 
 * **[Introduzione alla funzione SMS](/help/tutorial-sms/introduction-to-sms.md)**:
-   *Scopri la funzione SMS e come Adobe Campaign invia SMS*
+  *Scopri la funzione SMS e come Adobe Campaign invia SMS*
 
 * **[Configurare un account SMS per un provider SMPP standard](/help/tutorial-sms/set-up-account-for-standard-smpp-provider.md)**
-
-   *Scopri come adattare il connettore SMS al provider SMPP. Ottimizza le impostazioni SMS per gestire i limiti di connessione e impostare la velocità effettiva massima, la finestra di invio e la crittografia con TLS.*
+  *Scopri come adattare il connettore SMS al provider SMPP. Ottimizza le impostazioni SMS per gestire i limiti di connessione e impostare la velocità effettiva massima, la finestra di invio e la crittografia con TLS.*
 
 * **[Adattare il connettore SMS al provider SMPP](/help/tutorial-sms/adapt-sms-connector-to-smpp-provider.md)**
-
-   *Scopri come ottimizzare le impostazioni SMS per gestire i limiti di connessione e impostare la velocità effettiva massima, la finestra di invio e la crittografia con TLS.*
+  *Scopri come ottimizzare le impostazioni SMS per gestire i limiti di connessione e impostare la velocità effettiva massima, la finestra di invio e la crittografia con TLS.*
 
 * **[Approfondimento sul protocollo SMPP e risoluzione dei problemi](/help/tutorial-sms/smpp-deep-dive-and-troubleshooting.md)**
-
-   *Scopri come vengono stabilite le connessioni SMPP e come il protocollo SMPP scambia i dati tramite le PDU. Come risolvere i problemi relativi alle connessioni.*
+  *Scopri come vengono stabilite le connessioni SMPP e come il protocollo SMPP scambia i dati tramite le PDU. Come risolvere i problemi relativi alle connessioni.*
 
 >[!NOTE]
 >
