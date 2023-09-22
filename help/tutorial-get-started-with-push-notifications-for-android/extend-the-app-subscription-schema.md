@@ -10,10 +10,10 @@ team: TM
 role: Admin, Developer
 level: Experienced
 exl-id: c7dbb3c0-41eb-47dd-93bd-3c4caccc07ad
-source-git-commit: 05b49ca012d0d505b117a2fb6b12ff41b51be63e
-workflow-type: ht
-source-wordcount: '74'
-ht-degree: 100%
+source-git-commit: 116a24a8aa123f615e08fa4ebd187b3c4c460ba2
+workflow-type: tm+mt
+source-wordcount: '76'
+ht-degree: 97%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 Scopri come estendere lo schema di [!UICONTROL abbonamento all’app] per memorizzare i valori di personalizzazione che [!DNL Campaign] riceve da un’app mobile.
 
->[!VIDEO](https://video.tv.adobe.com/v/327306?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/327306?quality=12&learn=on){transcript=true}
 
 **Passaggio successivo**
 

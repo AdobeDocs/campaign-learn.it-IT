@@ -10,10 +10,10 @@ team: WWFRE
 role: User
 level: Beginner
 exl-id: 4d50e834-5fca-4974-a0e2-081bd0aada8a
-source-git-commit: 05b49ca012d0d505b117a2fb6b12ff41b51be63e
-workflow-type: ht
-source-wordcount: '87'
-ht-degree: 100%
+source-git-commit: 116a24a8aa123f615e08fa4ebd187b3c4c460ba2
+workflow-type: tm+mt
+source-wordcount: '89'
+ht-degree: 97%
 
 ---
 
@@ -23,4 +23,4 @@ Scopri il concetto dei profili. Scopri come accedere ai dati, ordinare e filtrar
 
 Questo video illustra inoltre la conformità di Adobe Campaign con il Regolamento generale sulla protezione dei dati (RGPD) e con il California Consumer Privacy Act (CCPA).
 
->[!VIDEO](https://video.tv.adobe.com/v/334111?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/334111?quality=12&learn=on){transcript=true}

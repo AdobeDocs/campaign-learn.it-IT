@@ -10,10 +10,10 @@ team: WWFRE
 role: User
 level: Beginner
 exl-id: 4338d42f-14e0-48b1-93ff-2155e6ed9f10
-source-git-commit: 05b49ca012d0d505b117a2fb6b12ff41b51be63e
-workflow-type: ht
-source-wordcount: '69'
-ht-degree: 100%
+source-git-commit: 116a24a8aa123f615e08fa4ebd187b3c4c460ba2
+workflow-type: tm+mt
+source-wordcount: '71'
+ht-degree: 97%
 
 ---
 
@@ -22,4 +22,4 @@ ht-degree: 100%
 Scopri come creare un piano di marketing, un programma e una campagna, impostare le proprietà per una campagna e utilizzare la pianificazione.
 Il video ti guida attraverso un esercizio che puoi seguire nella tua istanza.
 
->[!VIDEO](https://video.tv.adobe.com/v/333810?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/333810?quality=12&learn=on){transcript=true}

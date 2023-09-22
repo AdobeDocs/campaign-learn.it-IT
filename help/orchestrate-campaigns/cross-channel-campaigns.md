@@ -10,10 +10,10 @@ role: User
 level: Beginner
 team: TM
 exl-id: 297db41d-38d6-4fd4-b72b-0615ce23b981
-source-git-commit: 770d5b6fa80b9d105b80a015e6ddb80a79f25430
-workflow-type: ht
-source-wordcount: '84'
-ht-degree: 100%
+source-git-commit: 116a24a8aa123f615e08fa4ebd187b3c4c460ba2
+workflow-type: tm+mt
+source-wordcount: '86'
+ht-degree: 97%
 
 ---
 
@@ -23,4 +23,4 @@ In una campagna cross-channel, una singola comunicazione di marketing utilizza c
 
 Scopri come creare una campagna cross-channel utilizzando le consegne e-mail e direct mailing in base all’interazione del cliente con la prima consegna.
 
->[!VIDEO](https://video.tv.adobe.com/v/335607?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335607?quality=12&learn=on){transcript=true}
