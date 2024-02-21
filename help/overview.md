@@ -6,9 +6,9 @@ feature: Overview
 role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-source-git-commit: 52c41223e6f3c155bcace3ea3427d3030ebfeb01
-workflow-type: ht
-source-wordcount: '443'
+source-git-commit: 1ba89be839ba4ee1440377697db7da12451758ea
+workflow-type: tm+mt
+source-wordcount: '332'
 ht-degree: 100%
 
 ---
@@ -24,21 +24,6 @@ Adobe Campaign fornisce una piattaforma per la progettazione di customer experie
 > Campaign v8 è attualmente disponibile solo come Managed Cloud Service e non può essere distribuito in ambienti on-premise o ibridi. La migrazione automatizzata da un ambiente esistente di Campaign Classic v7 non è ancora disponibile.
 >
 >Per ulteriori informazioni sulla transizione da Classic v7 a v8, consulta la [documentazione del prodotto](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/v7-to-v8.html?lang=it).
-
-<div id="whats-new-section">
-
-## Novità
-
-* **[Approfondimento sul protocollo SMPP e risoluzione dei problemi](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/smpp-deep-dive-and-troubleshooting.html?lang=it)**
-  *Scopri come vengono stabilite le connessioni SMPP e come il protocollo SMPP scambia i dati tramite le PDU. Come risolvere i problemi relativi alle connessioni.*
-
-* **[Pannello di controllo - Monitoraggio dei flussi di lavoro](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-workflows.html?lang=it){target="_blank"}**
-  *Scopri come monitorare l’utilizzo temporaneo dell’archiviazione da parte dei flussi di lavoro e dove configurare le impostazioni del flusso di lavoro per evitare problemi di database o flusso di lavoro nell’istanza.*
-
-* **[Pannello di controllo - Monitoraggio delle velocità effettive e della latenza](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-throughputs-and-latency.html?lang=it){target="_blank"}**
-  *Scopri come monitorare le velocità effettive di consegna e le latenze dei messaggi transazionali dell’istanza Campaign.*
-
-</div>
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
