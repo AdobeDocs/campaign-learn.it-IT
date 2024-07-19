@@ -4,7 +4,7 @@ user-guide-description: Questo tutorial illustra i passaggi necessari per inviar
 breadcrumb-title: Introduzione alle notifiche push per Android
 source-git-commit: bb2bf76ea1dc1750a6b3f47d2dd582064605996d
 workflow-type: tm+mt
-source-wordcount: '78'
+source-wordcount: '81'
 ht-degree: 100%
 
 ---

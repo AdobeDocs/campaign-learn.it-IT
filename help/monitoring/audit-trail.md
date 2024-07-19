@@ -11,15 +11,15 @@ role: Admin
 level: Beginner
 exl-id: ee4c6b70-3998-4b7b-bf12-13d33c984344
 source-git-commit: 116a24a8aa123f615e08fa4ebd187b3c4c460ba2
-workflow-type: ht
-source-wordcount: '103'
-ht-degree: 100%
+workflow-type: tm+mt
+source-wordcount: '92'
+ht-degree: 66%
 
 ---
 
 # Audit Trail
 
-[!UICONTROL Audit Trail] acquisisce in tempo reale un elenco completo delle azioni e degli eventi che si verificano all’interno di Adobe Campaign.[!UICONTROL Audit Trail] include una modalità autonoma di accesso alla cronologia dei dati per poter rispondere a domande quali:
+[!UICONTROL Audit Trail] acquisisce in tempo reale un elenco completo delle azioni e degli eventi che si verificano all&#39;interno di Adobe Campaign.[!UICONTROL Audit Trail] include una modalità autonoma di accedere alla cronologia dei dati per poter rispondere a domande quali:
 
 * Cos’è successo a un oggetto?
 * Chi l’ha modificato l’ultima volta e quando?
