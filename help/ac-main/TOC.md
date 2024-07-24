@@ -5,7 +5,7 @@ user-guide-title: Tutorial su Adobe Campaign
 user-guide-description: Scopri come utilizzare le funzioni e le caratteristiche principali della console client di Adobe Campaign V8.
 breadcrumb-title: 'Console client: tutorial'
 auto-video-transcripts: true
-source-git-commit: e40954c92b4d217411349a48b3299f3beeabd53b
+source-git-commit: 1a4c03a96bb1002cf4e936e8d413af3ac1957252
 workflow-type: tm+mt
 source-wordcount: '399'
 ht-degree: 100%
@@ -49,6 +49,8 @@ ht-degree: 100%
       + [Utilizzare i gruppi di controllo](/help/send-messages/email/use-control-groups.md)
       + [Risoluzione dei problemi di consegna e-mail](/help/send-messages/email/troubleshoot-email-delivery-issues.md)
       + [Progettare le e-mail per la consegna](/help/send-messages/email/design-emails-for-deliverability.md)
+      + [Massimizzare il ROI delle e-mail e best practice per coinvolgere di nuovo le persone iscritte](/help/strategy/campaign-maximize-email-best-practices.md)
+      + [Guida alle best practice per la consegna](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=it)
    + SMS {#sms}
       + [Creare una consegna SMS](/help/send-messages/mobile/create-an-sms-delivery.md)
    + Push {#push}
@@ -103,6 +105,4 @@ ht-degree: 100%
    + [Configurare gli SMS per Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html?lang=it)
 + Strategia e leadership di pensiero{#strategy}
    + [Dieci best practice per il successo di Adobe Campaign per esperti marketing](/help/strategy/10-best-practices-for-marketers.md)
-   + [Massimizzare il ROI delle e-mail e best practice per coinvolgere di nuovo le persone iscritte](/help/strategy/campaign-maximize-email-best-practices.md)
-   + [Guida alle best practice per la consegna](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=it)
 + [Tutorial sull’interfaccia utente di Adobe Campaign Web](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/overview.html?lang=it)
