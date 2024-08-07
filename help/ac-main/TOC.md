@@ -6,9 +6,9 @@ user-guide-description: Scopri come utilizzare le funzioni e le caratteristiche 
 breadcrumb-title: 'Console client: tutorial'
 auto-video-transcripts: true
 source-git-commit: ebca0bb940fbcd5b8e3505d30f1e4caa339853bf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '411'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 97%
 + [Funzionalità chiave di Campaign v8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/whats-new.html?lang=it)
 + Introduzione {#getting-started}
    + [Introduzione ad Adobe Campaign](/help/get-started/introduction-to-adobe-campaign.md)
-   + [Introduzione ad Adobe Campaign v8 dopo la migrazione da Campaign Standard](https://experienceleague.adobe.com/docs/campaign-learn/get-started-with-campaign-v8/overview.html)
+   + [Introduzione ad Adobe Campaign v8 dopo la migrazione da Campaign Standard](https://experienceleague.adobe.com/docs/campaign-learn/get-started-with-campaign-v8/overview.html?lang=it)
    + [Installare e configurare la console client di Adobe Campaign](/help/get-started/install-and-set-up-the-adobe-campaign-client-console.md)
    + [Esplorare l’interfaccia utente di Adobe Campaign](/help/get-started/explore-the-adobe-campaign-user-interface.md)
    + [Gestire le campagne di marketing](/help/get-started/manage-marketing-campaigns.md)
@@ -106,4 +106,4 @@ ht-degree: 97%
    + [Configurare gli SMS per Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html?lang=it)
 + Strategia e leadership di pensiero{#strategy}
    + [Dieci best practice per il successo di Adobe Campaign per esperti marketing](/help/strategy/10-best-practices-for-marketers.md)
-+ [Tutorial sull’interfaccia utente di Adobe Campaign Web](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/overview.html?lang=it)
++ [Tutorial sull’interfaccia utente di Adobe Campaign Web](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/overview.html?lang=it)
