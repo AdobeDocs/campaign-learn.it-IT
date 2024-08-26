@@ -4,10 +4,10 @@ description: Questa esercitazione offre una panoramica delle funzionalità chiav
 role: User
 level: Beginner, Experienced
 jira: KT-15788
-source-git-commit: 0dfe6ceee85def2f1e6daed9c7f6b87b6c453739
+source-git-commit: 93a68053823fe4aefbd6a755b957b4eea8d6a163
 workflow-type: tm+mt
-source-wordcount: '879'
-ht-degree: 23%
+source-wordcount: '849'
+ht-degree: 22%
 
 ---
 
@@ -29,8 +29,6 @@ Puoi accedere ad Adobe Campaign v8 tramite la console client o l’interfaccia u
 2. [Sfoglia e filtra elenco](https://experienceleague.adobe.com/en/docs/campaign-web/v8/start/list-filters)
 
 ## Trova guida e indicazioni
-
-Utilizza la [Guida contestuale basata sull&#39;intelligenza artificiale](https://experienceleague.adobe.com/en/docs/campaign-web/v8/start/using-ai){target="_blank"} per accedere alla documentazione del prodotto nell&#39;interfaccia utente.
 
 [Documentazione dell&#39;interfaccia utente di Adobe Campaign Web](https://experienceleague.adobe.com/it/docs/campaign-web/v8/campaign-web-home)
 
