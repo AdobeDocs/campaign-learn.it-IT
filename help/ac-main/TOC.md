@@ -5,10 +5,10 @@ user-guide-title: Tutorial su Adobe Campaign
 user-guide-description: Scopri come utilizzare le funzioni e le caratteristiche principali della console client di Adobe Campaign V8.
 breadcrumb-title: 'Console client: tutorial'
 auto-video-transcripts: true
-source-git-commit: e10b192da04774d44652e6771c17b6d823a74636
+source-git-commit: f7ee403f7889bb2627024725d92d544b30e93b80
 workflow-type: tm+mt
-source-wordcount: '405'
-ht-degree: 98%
+source-wordcount: '408'
+ht-degree: 100%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 98%
 + [Funzionalità chiave di Campaign v8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/whats-new.html?lang=it)
 + Introduzione {#getting-started}
    + [Introduzione ad Adobe Campaign](/help/get-started/introduction-to-adobe-campaign.md)
-   + [Guida all&#39;adozione di Adobe Campaign v8](https://experienceleague.adobe.com/en/docs/campaign-web/acs-to-ac/home)
+   + [Guida all’adozione di Adobe Campaign v8](https://experienceleague.adobe.com/it/docs/campaign-web/acs-to-ac/home)
    + [Installare e configurare la console client di Adobe Campaign](/help/get-started/install-and-set-up-the-adobe-campaign-client-console.md)
    + [Esplorare l’interfaccia utente di Adobe Campaign](/help/get-started/explore-the-adobe-campaign-user-interface.md)
    + [Gestire le campagne di marketing](/help/get-started/manage-marketing-campaigns.md)
@@ -102,6 +102,7 @@ ht-degree: 98%
    + [Mappa di calore del flusso di lavoro](/help/monitoring/workflow-heatmap.md)
    + [Audit Trail](/help/monitoring/audit-trail.md)
 + Amministrazione {#administration}
+   + [Gestire le autorizzazioni utente](/help/administration/manage-user-permissions.md)
    + [Pannello di controllo](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html?lang=it){target="_blank"}
    + [Configurare gli SMS per Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html?lang=it)
 + Strategia e leadership di pensiero{#strategy}
