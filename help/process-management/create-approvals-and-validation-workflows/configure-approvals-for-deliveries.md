@@ -22,4 +22,4 @@ Scopri come configurare approvazioni e revisori a livello di consegna.  
 
 Se consegne diverse richiedono differenti fasi di approvazione e revisori, puoi mpostare le approvazioni a livello di consegna.
 
->[!VIDEO](https://video.tv.adobe.com/v/338828?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3437654?quality=12&learn=on&captions=ita){transcript=true}

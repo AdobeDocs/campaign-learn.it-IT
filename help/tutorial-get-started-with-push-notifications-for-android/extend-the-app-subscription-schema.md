@@ -21,7 +21,7 @@ ht-degree: 65%
 
 Scopri come estendere lo schema [!UICONTROL app subscription] per memorizzare i valori di personalizzazione [!DNL Campaign] ricevuti da un&#39;app mobile.
 
->[!VIDEO](https://video.tv.adobe.com/v/327306?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3445560?quality=12&learn=on&captions=ita){transcript=true}
 
 **Passaggio successivo**
 

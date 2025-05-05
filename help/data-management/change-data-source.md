@@ -20,6 +20,6 @@ ht-degree: 100%
 
 Scopri come modificare l’origine dati di una tabella di lavoro del flusso di lavoro utilizzando l’attività Modifica origine dati per gestire in modo flessibile i dati tra diverse origini, come FDA, FFDA e database locale.
 
->[!VIDEO](https://video.tv.adobe.com/v/340064?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3449538?quality=12&learn=on&captions=ita){transcript=true}
 
 Per ulteriori informazioni su questa funzione, consulta la [documentazione del prodotto](https://experienceleague.adobe.com/docs/campaign/campaign-v8/config/workflows.html?lang=it#change-data-source-activity).

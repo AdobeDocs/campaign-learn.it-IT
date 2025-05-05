@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Scopri come monitorare il carico sull’istanza e pianificare di conseguenza i flussi di lavoro.
 
->[!VIDEO](https://video.tv.adobe.com/v/342084?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3445405?quality=12&learn=on&captions=ita){transcript=true}

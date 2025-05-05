@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Scopri come creare una campagna attivata da un evento e quando utilizzarla.
 
->[!VIDEO](https://video.tv.adobe.com/v/334478?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3426637?quality=12&learn=on&captions=ita){transcript=true}

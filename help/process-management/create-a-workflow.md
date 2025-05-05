@@ -24,4 +24,4 @@ I flussi di lavoro si verificano in vari contesti e fasi del processo di gestion
 
 Questo video spiega come creare un flusso di lavoro in Adobe Campaign.
 
->[!VIDEO](https://video.tv.adobe.com/v/25559?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/329886?quality=12&learn=on&captions=ita){transcript=true}

@@ -37,7 +37,7 @@ Prima di iniziare, è necessario disporre dei seguenti elementi:
 
    Il pacchetto [!DNL Mobile App channel] deve essere installato nell’istanza di [!DNL Campaign]. Il seguente video spiega come verificare se [!DNL Mobile App channel] è installato nell’istanza indicata e, in caso contrario, come installarlo.
 
->[!VIDEO](https://video.tv.adobe.com/v/326544?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/340423?quality=12&learn=on&captions=ita){transcript=true}
 
 ## Panoramica del tutorial
 

@@ -23,4 +23,4 @@ Adobe Campaign consente di progettare e ospitare varie pagine di destinazione su
 
 Questo video illustra come navigare nell’editor delle applicazioni web di Adobe Campaign creando un centro preferenze.
 
->[!VIDEO](https://video.tv.adobe.com/v/333629?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3450222?quality=12&learn=on&captions=ita){transcript=true}

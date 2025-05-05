@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Scopri come impostare e gestire gli abbonamenti e avere come target gli abbonati.
 
->[!VIDEO](https://video.tv.adobe.com/v/334305?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3426554?quality=12&learn=on&captions=ita){transcript=true}

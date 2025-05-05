@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Scopri la differenza tra le campagne multicanale e cross-channel e i casi di utilizzo.
 
->[!VIDEO](https://video.tv.adobe.com/v/335610?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3447206?quality=12&learn=on&captions=ita){transcript=true}

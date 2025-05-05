@@ -22,4 +22,4 @@ ht-degree: 100%
 La gestione dell’eccesso controlla la frequenza e la quantità di messaggi per evitare un’eccessiva sollecitazione dei destinatari.
 Scopri come implementare la gestione dell’eccesso in Adobe Campaign utilizzando i filtri.
 
->[!VIDEO](https://video.tv.adobe.com/v/333778?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3444608?quality=12&learn=on&captions=ita){transcript=true}

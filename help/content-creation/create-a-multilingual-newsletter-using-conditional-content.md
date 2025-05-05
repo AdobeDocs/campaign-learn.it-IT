@@ -23,4 +23,4 @@ Configurando i campi di contenuto condizionale puoi creare una personalizzazione
 
 Scopri come aggiungere contenuti condizionali a una consegna sull’esempio di una newsletter multilingue.
 
->[!VIDEO](https://video.tv.adobe.com/v/335682?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3446719?quality=12&learn=on&captions=ita){transcript=true}

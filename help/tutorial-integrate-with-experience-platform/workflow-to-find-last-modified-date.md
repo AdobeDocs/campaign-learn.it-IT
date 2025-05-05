@@ -21,7 +21,7 @@ ht-degree: 100%
 
 In questa prima parte dell’esercitazione Creare un flusso di lavoro di esportazione, scopri come creare un flusso di lavoro con cui trovare la data dell’ultima modifica per un elenco di destinatari creati da un segmento di Experience Platform.
 
->[!VIDEO](https://video.tv.adobe.com/v/336387?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3450055?quality=12&learn=on&captions=ita){transcript=true}
 
 ## Assets
 

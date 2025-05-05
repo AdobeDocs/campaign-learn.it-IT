@@ -23,4 +23,4 @@ ht-degree: 100%
 
 Scopri come verificare se il canale dell’app mobile è installato nella tua istanza e come installarlo.
 
->[!VIDEO](https://video.tv.adobe.com/v/326544?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/340423?quality=12&learn=on&captions=ita){transcript=true}

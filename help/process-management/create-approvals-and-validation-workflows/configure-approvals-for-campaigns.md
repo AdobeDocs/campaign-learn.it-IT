@@ -22,4 +22,4 @@ Scopri come configurare approvazioni e revisori a livello di campagna.  
 
 Se usi gli stessi revisori per tutte le consegne nel flusso di lavoro di una campagna, le approvazioni devono essere configurate a livello di campagna.
 
->[!VIDEO](https://video.tv.adobe.com/v/338826?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3446513?quality=12&learn=on&captions=ita){transcript=true}

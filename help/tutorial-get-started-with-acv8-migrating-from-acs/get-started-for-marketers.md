@@ -23,7 +23,7 @@ Puoi accedere ad Adobe Campaign v8 tramite la console client o l’interfaccia u
 
 ## Accedere ed esplorare l’interfaccia utente di Campaign Web
 
->[!VIDEO](https://video.tv.adobe.com/v/3427278?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453430?quality=12&learn=on&captions=ita){transcript=true}
 
 1. [Scopri l&#39;interfaccia](https://experienceleague.adobe.com/it/docs/campaign-web/v8/start/user-interface)
 2. [Sfoglia e filtra elenco](https://experienceleague.adobe.com/it/docs/campaign-web/v8/start/list-filters)
@@ -40,13 +40,13 @@ Il concetto generale di creazione e gestione dei tipi di pubblico in Campaign v8
 
 1. Scopri come accedere, gestire ed esplorare i profili tramite l’interfaccia utente di Campaign Web.
 
-   >[!VIDEO](https://video.tv.adobe.com/v/3427293?quality=12&learn=on){transcript=true}
+   >[!VIDEO](https://video.tv.adobe.com/v/3448372?quality=12&learn=on&captions=ita){transcript=true}
 
    Per ulteriori informazioni, vedere [Introduzione ai profili](https://experienceleague.adobe.com/it/docs/campaign-web/v8/audiences/work-with-profiles/about-recipients){target="_blank"}.
 
 2. Scopri come creare e gestire i tipi di pubblico, come selezionare i tipi di pubblico per una consegna e definire gruppi di controllo.
 
-   >[!VIDEO](https://video.tv.adobe.com/v/3425861?quality=12&learn=on){transcript=true}
+   >[!VIDEO](https://video.tv.adobe.com/v/3453210?quality=12&learn=on&captions=ita){transcript=true}
 
    Per ulteriori informazioni, vedere [Introduzione ai tipi di pubblico](https://experienceleague.adobe.com/it/docs/campaign-web/v8/audiences/audiences/manage-audience){target="_blank"}.
 
@@ -99,7 +99,7 @@ Utilizza Adobe Campaign Web per gestire e creare i tuoi servizi, ad esempio le n
 
 1. Scopri come funzionano i flussi di lavoro e come creare un flusso di lavoro di targeting.
 
-   >[!VIDEO](https://video.tv.adobe.com/v/3425873?quality=12&learn=on){transcript=true}
+   >[!VIDEO](https://video.tv.adobe.com/v/3453980?quality=12&learn=on&captions=ita){transcript=true}
 
 1. [Operazioni con le attività del flusso di lavoro](https://experienceleague.adobe.com/it/docs/campaign-web/v8/wf/design-workflows/about-activities){target="_blank"}
 1. [Guardrail e limitazioni per flussi di lavoro](https://experienceleague.adobe.com/it/docs/campaign-web/v8/wf/guardrails){target="_blank"}
@@ -110,23 +110,23 @@ Utilizza Adobe Campaign Web per gestire e creare i tuoi servizi, ad esempio le n
 
 Scopri come creare una consegna e-mail da zero, definire il pubblico, progettare il contenuto, simulare l’anteprima e inviare una bozza.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425866?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3454013?quality=12&learn=on&captions=ita){transcript=true}
 
 1. **Progetta e definisci il contenuto**
 
    Scopri come navigare in E-mail Designer. Scopri come strutturare e progettare un’e-mail da zero, come personalizzarla e testarla.
 
-   >[!VIDEO](https://video.tv.adobe.com/v/3425867?quality=12&learn=on){transcript=true}
+   >[!VIDEO](https://video.tv.adobe.com/v/3453573?quality=12&learn=on&captions=ita){transcript=true}
 
    Scopri come creare un’e-mail caricando HTML, come renderla compatibile con E-mail Designer e come convertirla in un modello.
 
-   >[!VIDEO](https://video.tv.adobe.com/v/3427633?quality=12&learn=on){transcript=true}
+   >[!VIDEO](https://video.tv.adobe.com/v/3447040?quality=12&learn=on&captions=ita){transcript=true}
 
 2. **Anteprima e test**
 
    Scopri come visualizzare in anteprima il contenuto e la personalizzazione dei messaggi e-mail, inviare le consegne di test (bozze) e controllare il rendering delle e-mail nei client desktop, mobili e basati su web più diffusi.
 
-   >[!VIDEO](https://video.tv.adobe.com/v/3425862?quality=12&learn=on){transcript=true}
+   >[!VIDEO](https://video.tv.adobe.com/v/3450345?quality=12&learn=on&captions=ita){transcript=true}
 
 3. **Invia e-mail e controlla i registri**
 

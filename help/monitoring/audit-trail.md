@@ -27,6 +27,6 @@ ht-degree: 65%
 
 Scopri come accedere ai registri di Audit Trail e quali impostazioni possono essere configurate.
 
->[!VIDEO](https://video.tv.adobe.com/v/342081?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3444242?quality=12&learn=on&captions=ita){transcript=true}
 
 Per ulteriori informazioni, consulta la [documentazione di Audit Trail](https://experienceleague.adobe.com/docs/campaign-classic/using/monitoring-campaign-classic/production-procedures/audit-trail.html?lang=it).

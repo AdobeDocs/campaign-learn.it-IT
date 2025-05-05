@@ -22,7 +22,7 @@ ht-degree: 100%
 
 Scopri l’utilizzo dei flussi di lavoro per campagne e come creare un flusso di lavoro e utilizzare le condizioni di filtro per eseguire il targeting dei profili in un flusso di lavoro.
 
->[!VIDEO](https://video.tv.adobe.com/v/334300?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453584?quality=12&learn=on&captions=ita){transcript=true}
 
 ## Prossimi tutorial da guardare
 

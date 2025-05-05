@@ -23,4 +23,4 @@ Le approvazioni consentono agli operatori di prendere decisioni relative a un fl
 
 Scopri come impostare le approvazioni e una campagna, e come distinguere tra le approvazioni per consegne e flussi di lavoro.
 
->[!VIDEO](https://video.tv.adobe.com/v/334479?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3426629?quality=12&learn=on&captions=ita){transcript=true}

@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Scopri come acquisire i dati utilizzando un connettore di origine in Experience Platform per aggiornare i dati di profilo con i registri esportati da Campaign.
 
->[!VIDEO](https://video.tv.adobe.com/v/336642?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452033?quality=12&learn=on&captions=ita){transcript=true}

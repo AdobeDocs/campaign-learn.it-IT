@@ -23,4 +23,4 @@ La gestione dell’eccesso controlla la frequenza e la quantità di messaggi per
 
 Scopri come implementare la gestione dell’eccesso in Adobe Campaign utilizzando le regole di tipologia.
 
->[!VIDEO](https://video.tv.adobe.com/v/333787?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3448339?quality=12&learn=on&captions=ita){transcript=true}

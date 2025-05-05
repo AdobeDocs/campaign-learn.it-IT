@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Scopri come ottenere un target più mirato applicando un’esclusione standard a un flusso di lavoro. Scopri come creare filtri preimpostati e risolvere i problemi relativi al flusso di lavoro.
 
->[!VIDEO](https://video.tv.adobe.com/v/335609?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452943?quality=12&learn=on&captions=ita){transcript=true}

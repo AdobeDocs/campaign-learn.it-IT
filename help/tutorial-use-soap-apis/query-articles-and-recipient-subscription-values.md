@@ -21,6 +21,6 @@ ht-degree: 100%
 
 Scopri come eseguire query sui dati utilizzando diverse dimensioni di targeting e filtro, e come unire gli output utilizzando un’intersezione per creare la consegna automatica di un riepilogo sui contenuti.
 
->[!VIDEO](https://video.tv.adobe.com/v/336537?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452898?quality=12&learn=on&captions=ita){transcript=true}
 
 Passaggio successivo: [Inviare una consegna a destinatari iscritti](/help/tutorial-use-soap-apis/send-delivery-to-subscribed-recipients.md)

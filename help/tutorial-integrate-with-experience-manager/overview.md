@@ -21,5 +21,5 @@ Connettere Adobe Campaign con Adobe Experience Manager per la gestione di modell
 
 Nel video seguente viene spiegato che cosa apprenderai.
 
->[!VIDEO](https://video.tv.adobe.com/v/340319?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/344274?quality=12&learn=on&captions=ita){transcript=true}
 

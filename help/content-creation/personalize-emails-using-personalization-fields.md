@@ -23,4 +23,4 @@ I campi di personalizzazione sono utilizzati per la personalizzazione di primo l
 
 Scopri come aggiungere un campo di personalizzazione alla riga dell’oggetto e il contenuto di una consegna e-mail.
 
->[!VIDEO](https://video.tv.adobe.com/v/24925?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/329894?quality=12&learn=on&captions=ita){transcript=true}

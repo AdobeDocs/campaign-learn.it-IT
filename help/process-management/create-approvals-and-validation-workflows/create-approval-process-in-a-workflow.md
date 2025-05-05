@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Scopri come creare un processo di approvazione all’interno di un flusso di lavoro per consentire la revisione e l’approvazione della logica di selezione del targeting prima dell’avvio della consegna.
 
->[!VIDEO](https://video.tv.adobe.com/v/338830?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3442042?quality=12&learn=on&captions=ita){transcript=true}

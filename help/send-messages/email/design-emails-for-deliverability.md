@@ -20,7 +20,7 @@ ht-degree: 100%
 
 Scopri come applicare le best practice per la consegna delle e-mail.
 
->[!VIDEO](https://video.tv.adobe.com/v/333471?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452011?quality=12&learn=on&captions=ita){transcript=true}
 
 ## Risorse aggiuntive
 

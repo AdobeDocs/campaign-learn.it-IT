@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Scopri i database utilizzati da Adobe Campaign V8, il motivo per cui i dati vengono replicati, quali dati vengono replicati e come funziona il processo di replica.
 
->[!VIDEO](https://video.tv.adobe.com/v/334460?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3416866?quality=12&learn=on&captions=ita){transcript=true}

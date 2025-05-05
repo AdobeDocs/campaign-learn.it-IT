@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Scopri il processo di creazione di una consegna e-mail e come progettare e personalizzare i contenuti.
 
->[!VIDEO](https://video.tv.adobe.com/v/333476?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3444317?quality=12&learn=on&captions=ita){transcript=true}

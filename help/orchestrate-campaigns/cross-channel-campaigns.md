@@ -23,4 +23,4 @@ In una campagna cross-channel, una singola comunicazione di marketing utilizza c
 
 Scopri come creare una campagna cross-channel utilizzando le consegne e-mail e direct mailing in base all’interazione del cliente con la prima consegna.
 
->[!VIDEO](https://video.tv.adobe.com/v/335607?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3426513?quality=12&learn=on&captions=ita){transcript=true}
