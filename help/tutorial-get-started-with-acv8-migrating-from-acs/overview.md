@@ -19,7 +19,7 @@ Benvenuti in Adobe Campaign v8!
 
 Questa guida di riferimento è stata progettata per gli utenti che sono passati da Campaign Standard a Campaign v8. Consente di acquisire familiarità con la nuova istanza di Campaign e di eseguire i passaggi necessari per iniziare a svolgere il ruolo.
 
-1. Per iniziare, scopri le funzionalità e la terminologia chiave di Campaign v8. Rivedi la [guida alla transizione di Campaign Standard a Campaign v8](https://experienceleague.adobe.com/en/docs/campaign-web/v8/start/acs-migration)
+1. Per iniziare, scopri le funzionalità e la terminologia chiave di Campaign v8. Rivedi la [guida alla transizione di Campaign Standard a Campaign v8](https://experienceleague.adobe.com/it/docs/campaign-web/v8/start/acs-migration)
 
 2. Quindi, seleziona il tuo ruolo qui sotto per accedere alla relativa guida di riferimento per il tuo ruolo:
 
