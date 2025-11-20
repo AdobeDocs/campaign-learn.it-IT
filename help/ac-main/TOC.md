@@ -8,7 +8,7 @@ auto-video-transcripts: true
 source-git-commit: f7ee403f7889bb2627024725d92d544b30e93b80
 workflow-type: tm+mt
 source-wordcount: '408'
-ht-degree: 100%
+ht-degree: 96%
 
 ---
 
@@ -29,7 +29,7 @@ ht-degree: 100%
    + [Creare e gestire i profili](/help/profile-management/create-and-manage-profiles.md)
    + [Importare i profili](/help/profile-management/import-profiles.md)
    + [Targeting dei profili in un flusso di lavoro](/help/profile-management/target-profiles-in-a-workflow.md)
-+ Orchestrazione campagna {#campaign-orchestration}
++ Orchestrazione della campagna {#campaign-orchestration}
    + [Eseguire una campagna](/help/orchestrate-campaigns/execute-a-campaign.md)
    + [Introduzione a campagne multiple e trasversali](/help/orchestrate-campaigns/introduction-to-cross-and-multi-channel-campaigns.md)
    + [Creare campagne multicanale](/help/orchestrate-campaigns/multi-channel-campaigns.md)
@@ -57,7 +57,7 @@ ht-degree: 100%
    + Push {#push}
       + [Installare il canale app mobile](/help/send-messages/mobile/install-the-mobile-app.md)
       + [Configurare il canale push con l’SDK di Experience Platform Mobile](/help/send-messages/mobile/configure-push-using-aep-mobile-sdk.md)
-   + Direct mailing {#direct-mail}
+   + Direct mail {#direct-mail}
       + [Creare consegne di direct mailing](/help/send-messages/direct-mail/create-direct-mail-deliveries.md)
    + Utilizzare i modelli di consegna{#using-delivery-templates}
       + [Configurare un modello di consegna](/help/send-messages/use-delivery-templates/configure-a-delivery-template.md)
@@ -72,8 +72,8 @@ ht-degree: 100%
    + [Creare consegne ricorrenti e continue](/help/process-management/recurring-deliveries.md)
    + Flussi di lavoro di targeting {#targeting-workflows}
       + [Creare un flusso di lavoro di targeting](/help/process-management/create-a-targeting-workflow.md)
-      + [Ottimizzare le destinazioni attraverso la combinazione dei risultati delle query](/help/process-management/refine-targets-by-combining-query-results.md)
-      + [Ottimizzare le destinazioni attraverso l’esclusione dei risultati delle query](/help/process-management/refine-targets-by-excluding-query-results.md)
+      + [Ottimizzare i target attraverso la combinazione dei risultati delle query](/help/process-management/refine-targets-by-combining-query-results.md)
+      + [Ottimizzare i target attraverso l’esclusione dei risultati delle query](/help/process-management/refine-targets-by-excluding-query-results.md)
    + Approvazioni e flussi di lavoro di convalida {#create-approvals-and-validation-workflows}
       + [Introduzione](/help/process-management/create-approvals-and-validation-workflows/create-approvals-and-validation-workflows-introduction.md)
       + [Gestire le approvazioni](/help/process-management/create-approvals-and-validation-workflows/manage-approvals.md)
@@ -81,7 +81,7 @@ ht-degree: 100%
       + [Configurare le approvazioni per le consegne](/help/process-management/create-approvals-and-validation-workflows/configure-approvals-for-deliveries.md)
       + [Creare un’attività di approvazione in un flusso di lavoro](/help/process-management/create-approvals-and-validation-workflows/create-approval-process-in-a-workflow.md)
    + [Consigli da altri professionisti: best practice per i flussi di lavoro](/help/process-management/workflow-best-practices-for-marketers.md)
-+ Gestione dei dati {#data-management}
++ Gestione dati {#data-management}
    + [Nozioni di base sulla gestione dei dati con i flussi di lavoro](/help/data-management/data-management-fundamentals.md)
    + [Modificare l’origine dati](/help/data-management/change-data-source.md)
    + [Utilizzare l’attività di aggiornamento elenco](/help/process-management/use-the-update-list-activity.md)
@@ -90,7 +90,7 @@ ht-degree: 100%
    + [Replica dei dati](/help/data-management/data-replication.md)
    + [Meccanismo di staging per le API](/help/data-management/api-staging-mechanism.md)
    + [Tutorial: Utilizzare le API SOAP](https://experienceleague.adobe.com/docs/campaign-learn/use-soap-apis/introduction.html?lang=it)
-+ Connettere con altre soluzioni {#connect}
++ Connessione con altre soluzioni {#connect}
    + [Integrare con Adobe Experience Manager](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-manager/overview.html?lang=it)
    + [Integrare con Adobe Experience Platform](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/overview.html?lang=it)
    + [Integrare con Adobe Target](/help/connect/target-integration.md)
