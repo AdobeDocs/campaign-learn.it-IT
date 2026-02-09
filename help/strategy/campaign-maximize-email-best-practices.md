@@ -6,16 +6,16 @@ role: User
 level: Beginner
 feature: Deliverability, Email
 exl-id: 324590c9-0381-42ea-ac51-8cb47ba6813d
-source-git-commit: 01b114a7da816d25abcad8b0a12c7c02c6ebba02
+source-git-commit: 2ffcd562088eeb47b72fe4f79b4b4ce0210edf16
 workflow-type: tm+mt
-source-wordcount: '1475'
+source-wordcount: '1480'
 ht-degree: 0%
 
 ---
 
 # ROI delle e-mail e best practice per coinvolgere di nuovo le persone iscritte
 
-Il marketing via e-mail è uno strumento utile per sviluppare la brand loyalty e aumentare le vendite. Tuttavia, dato il numero elevato di e-mail che le persone ricevono ogni giorno, per non parlare degli altri contenuti digitali che stanno consumando, è importante che il contenuto si distingua dalla massa. Ed è importante che soddisfi le esigenze specifiche del tuo pubblico.
+Il marketing via e-mail è uno strumento utile per sviluppare la brand loyalty e aumentare le vendite. Tuttavia, dato il numero elevato di e-mail che le persone ricevono ogni giorno, per non parlare degli altri contenuti digitali che stanno consumando, è importante che i contenuti si distinguano dalla massa. Ed è importante che soddisfi le esigenze specifiche del tuo pubblico.
 
 In questo articolo, esaminiamo quattro strategie per migliorare il coinvolgimento degli abbonati e il successo complessivo delle campagne e-mail. Discutiamo anche dell’eccesso di comunicazioni e-mail, di come identificarlo all’interno dei tipi di pubblico e di semplici passaggi che puoi adottare per migliorare l’esperienza degli abbonati.
 
@@ -27,7 +27,7 @@ Quanto bene tiene traccia della consegna delle campagne e-mail da parte della tu
 
 ## Filtro spam
 
-Prima di addentrarti nella strategia, è importante essere a conoscenza dei problemi più comuni relativi al filtro anti-spam che potrebbero influenzare i risultati della campagna. Se continui a inviare e-mail agli abbonati inattivi che non aprono le e-mail per oltre un anno, ecco alcuni aspetti in cui potresti imbatterti:
+Prima di addentrarti nella strategia, è importante essere a conoscenza dei problemi più comuni relativi al filtro anti-spam che potrebbero influenzare i risultati della campagna. Se continui a inviare e-mail agli abbonati inattivi che non aprono le e-mail per oltre un anno, ecco alcuni elementi in cui potresti imbatterti:
 
 * INSERIRE NELL&#39;ELENCO BLOCCATI INSERISCE NELL&#39;ELENCO CONSENTITI E
 * Filtri del contenuto
@@ -38,13 +38,13 @@ Prima di addentrarti nella strategia, è importante essere a conoscenza dei prob
 
 ## Massimizzare il ROI delle e-mail
 
-Sapevate che in un solo minuto su Internet ci sono più di un milione di visualizzazioni video, due milioni di query di ricerca Google, sei milioni di visualizzazioni Facebook, e 200 milioni di e-mail inviate? Con così tante cose in corso, è importante assicurarsi che i contenuti non vadano persi nel rumore. In particolare, se stai creando una campagna durante le feste, è ancora più difficile ricevere le e-mail di fronte ai potenziali clienti e ai clienti di ritorno.
+Lo sapevate che in un solo minuto su Internet ci sono più di un milione di visualizzazioni video, due milioni di query di ricerca su Google, sei milioni di visualizzazioni su Facebook, e 200 milioni di e-mail inviate? Con così tante cose in corso, è importante assicurarsi che i contenuti non vadano persi nel rumore. In particolare, se stai creando una campagna durante le feste, è ancora più difficile ricevere le e-mail di fronte ai potenziali clienti e ai clienti di ritorno.
 
 Da novembre all’inizio di gennaio, il volume di e-mail di marketing inviate aumenta in modo significativo. I provider di cassette postali (ISP) riceveranno molto più traffico dai loro server rispetto al resto dell’anno e, di conseguenza, saranno ancora più vigili sulla protezione dei loro clienti (i tuoi abbonati).
 
 Ecco quattro strategie chiave per massimizzare il ROI:
 
-### 1. Preparare il calendario dei contenuti
+### &#x200B;1. Preparare il calendario dei contenuti
 
 * Gli ISP tengono traccia dell’invio medio da un indirizzo IP, quindi distribuiscono il volume il più possibile per evitare di creare un segnale di allarme e di essere inviati allo spam
 * Imposta il calendario dei contenuti in anticipo e prepara gli autori dei contenuti per un aumento del volume di invio
@@ -53,14 +53,14 @@ Ecco quattro strategie chiave per massimizzare il ROI:
    * Pianifica strategicamente gli orari del giorno in cui le persone ricevono il sovraccarico di e-mail, ad esempio dalle 8 alle 10
    * Se non riesci a distribuirla nei giorni, prova per ore
 
-### 2. Infrastruttura
+### &#x200B;2. Infrastruttura
 
 * Assicurati che l’autenticazione e-mail sia configurata correttamente eseguendo un test con la tua e-mail
 * Acquisisci familiarità con la gestione delle e-mail non consegnate e verifica le prestazioni nei tuoi ISP
    * Esistono problemi o blocchi potenziali con un ISP specifico?
    * Conosci i tuoi problemi prima di iniziare a inviare un volume elevato per evitare spiacevoli sorprese e scarse prestazioni della campagna
 
-### 3. Dati
+### &#x200B;3. Dati
 
 * Identifica tutte le tecniche di acquisizione, in particolare i processi di abbonamento e il RGPD.
 * Assicurati di essere il più trasparente possibile con i tuoi abbonati quando chiedi il loro indirizzo e-mail:
@@ -68,10 +68,10 @@ Ecco quattro strategie chiave per massimizzare il ROI:
    * Quante e-mail invierai (giornaliere, settimanali, mensili)
 
 * Invia un’e-mail di benvenuto ai nuovi abbonati:
-   * Le e-mail di benvenuto garantiscono che gli abbonati non rimangano ignorati dai nuovi contenuti e non annullino l’abbonamento o non vengano contrassegnati come spam.
+   * Le e-mail di benvenuto garantiscono che gli abbonati non siano ignorati dai nuovi contenuti e non annullino l’abbonamento o contrassegnino come spam.
    * Le e-mail di benvenuto sono anche un buon indicatore di prestazioni. Se non vengono consegnati correttamente o non interagiscono con loro, si sa che ciò indica prestazioni insoddisfacenti o una raccolta di dati insoddisfacente.
 
-### 4. Gestione della posta elettronica
+### &#x200B;4. Gestione della posta elettronica
 
 * Segmentazione degli abbonati e monitoraggio della loro posizione nel ciclo di vita del brand
 * Utilizza le strategie di personalizzazione dei contenuti per migliorare la rilevanza delle e-mail
@@ -90,7 +90,7 @@ Sfortunatamente, la maggior parte degli abbonati che sperimentano la fatica e-ma
 
 Tenendo presente questo aspetto, ecco alcune best practice per mantenere gli abbonati coinvolti e anticipare il tipo di contenuto che desiderano ricevere, al fine di evitare annullamenti di abbonamenti e tipi di pubblico inattivi.
 
-### 1. Creare una strategia per la frequenza delle e-mail
+### &#x200B;1. Creare una strategia per la frequenza delle e-mail
 
 Purtroppo, non esiste una risposta corretta al numero di e-mail da inviare a settimana. Per trovare il numero corretto, considera quanto segue:
 
@@ -102,7 +102,7 @@ Purtroppo, non esiste una risposta corretta al numero di e-mail da inviare a set
 * Qual è la capacità del cliente di ricevere contenuti dal proprio marchio?
 * Quali sono le preferenze stagionali del cliente?
 
-### 2. Identificare lo stato degli abbonati
+### &#x200B;2. Identificare lo stato degli abbonati
 
 Lo stato dei tuoi abbonati (attivi, non attivi o inattivi) dipende dalla frequenza con cui invii loro contenuti. Da lì puoi determinare il loro livello di coinvolgimento.
 
@@ -114,7 +114,7 @@ Ad esempio, se invii quotidianamente un’e-mail ai clienti, questi avrebbero do
 
 Per gli utenti inattivi e inattivi, considera la data di abbonamento per determinare il loro livello di coinvolgimento. Ad esempio, si sono iscritti alla data di un concorso o di un’altra campagna di marketing? Si sono registrati da un pop-up di siti web con un&#39;offerta di sconto? Dopo aver identificato gli utenti inattivi e inattivi, è importante modificare la strategia per cercare di migliorare la loro soddisfazione e trasformarli di nuovo in un abbonato attivo.
 
-### 3. Implementare strategie di ricoinvolgimento
+### &#x200B;3. Implementare strategie di ricoinvolgimento
 
 Suddividi questo processo in due aree di interesse: a) schemi di invio delle e-mail e b) il contenuto creativo delle e-mail stesse. Di seguito viene fornita una panoramica dettagliata di ciascuna di queste aree:
 
@@ -128,7 +128,7 @@ Suddividi questo processo in due aree di interesse: a) schemi di invio delle e-m
 
 * **Regole di pressione** - Escludi gli abbonati nel programma di ricoinvolgimento dalla ricezione di altre e-mail.
 
-**Creativo e contenuto**
+**Creative e contenuto**
 
 * **Offri un consenso esplicito / rinuncia** - Facilita agli utenti la decisione rapida se desiderano ricevere le tue risposte. Potresti ricevere un consenso esplicito per aver soddisfatto le loro esigenze per prime, anziché concentrarsi sulle esigenze aziendali di coinvolgimento.
 
@@ -140,5 +140,5 @@ Suddividi questo processo in due aree di interesse: a) schemi di invio delle e-m
 
 Per un riepilogo di questo articolo e una demo live dell&#39;implementazione delle strategie di ricoinvolgimento, guarda il nostro [webinar](https://adobecustomersuccess.adobeconnect.com/pm8goho13xuy/).
 
-Ulteriori informazioni su strategia e leadership di pensiero nell&#39;hub [Customer Success](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html?lang=it).
+Ulteriori informazioni su strategia e leadership di pensiero nell&#39;hub [Customer Success](https://experienceleague.adobe.com/en/docs/customer-success/customer-success/overview).
 
