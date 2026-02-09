@@ -21,4 +21,4 @@ Scopri come adattare il connettore SMS al provider SMPP. Ottimizza le impostazio
 
 >[!VIDEO](https://video.tv.adobe.com/v/343622?quality=12&learn=on){transcript=true}
 
-Per informazioni sul protocollo SMPP, sulle impostazioni dell’account esterno o sulla risoluzione dei problemi più comuni, vedi [Protocollo e impostazioni del connettore SMS](https://experienceleague.adobe.com/en/docs/campaign-classic/using/sending-messages/sending-messages-on-mobiles/sms-set-up/sms-protocol).
+Per informazioni sul protocollo SMPP, sulle impostazioni dell’account esterno o sulla risoluzione dei problemi più comuni, vedi [Protocollo e impostazioni del connettore SMS](https://experienceleague.adobe.com/it/docs/campaign-classic/using/sending-messages/sending-messages-on-mobiles/sms-set-up/sms-protocol).

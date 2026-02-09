@@ -33,4 +33,4 @@ Sono trattati i seguenti argomenti:
 
 >[!NOTE]
 >
->Questo tutorial è applicabile ad Adobe Campaign v7 e Campaign v8. Ulteriori risorse sono disponibili nella documentazione del prodotto: [Protocollo e impostazioni del connettore SMS](https://experienceleague.adobe.com/en/docs/campaign-classic/using/sending-messages/sending-messages-on-mobiles/sms-set-up/sms-protocol).
+>Questo tutorial è applicabile ad Adobe Campaign v7 e Campaign v8. Ulteriori risorse sono disponibili nella documentazione del prodotto: [Protocollo e impostazioni del connettore SMS](https://experienceleague.adobe.com/it/docs/campaign-classic/using/sending-messages/sending-messages-on-mobiles/sms-set-up/sms-protocol).
