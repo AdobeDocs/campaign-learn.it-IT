@@ -138,4 +138,4 @@ Suddividi questo processo in due aree di interesse: a) schemi di invio delle e-m
 
 * **Verifica e scopri**: è importante un buon piano di test per assicurarsi che gli sforzi abbiano l&#39;effetto desiderato. Scopri cosa funziona e cosa non funziona e iterazione di conseguenza.
 
-Ulteriori informazioni su strategia e leadership di pensiero nell&#39;hub [Prospettive](https://experienceleague.adobe.com/en/perspectives).
+Ulteriori informazioni su strategia e leadership di pensiero nell&#39;hub [Prospettive](https://experienceleague.adobe.com/it/perspectives).
