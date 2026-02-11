@@ -6,9 +6,9 @@ role: User
 level: Beginner
 feature: Deliverability, Email
 exl-id: 324590c9-0381-42ea-ac51-8cb47ba6813d
-source-git-commit: 2ffcd562088eeb47b72fe4f79b4b4ce0210edf16
+source-git-commit: 2008e34f40bf87bff00a6cdbe5ce759e1ddea454
 workflow-type: tm+mt
-source-wordcount: '1480'
+source-wordcount: '1461'
 ht-degree: 0%
 
 ---
@@ -138,7 +138,4 @@ Suddividi questo processo in due aree di interesse: a) schemi di invio delle e-m
 
 * **Verifica e scopri**: è importante un buon piano di test per assicurarsi che gli sforzi abbiano l&#39;effetto desiderato. Scopri cosa funziona e cosa non funziona e iterazione di conseguenza.
 
-Per un riepilogo di questo articolo e una demo live dell&#39;implementazione delle strategie di ricoinvolgimento, guarda il nostro [webinar](https://adobecustomersuccess.adobeconnect.com/pm8goho13xuy/).
-
-Ulteriori informazioni su strategia e leadership di pensiero nell&#39;hub [Customer Success](https://experienceleague.adobe.com/it/docs/customer-success/customer-success/overview).
-
+Ulteriori informazioni su strategia e leadership di pensiero nell&#39;hub [Prospettive](https://experienceleague.adobe.com/en/perspectives).
