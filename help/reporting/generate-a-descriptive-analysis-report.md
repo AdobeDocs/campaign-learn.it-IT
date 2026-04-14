@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Scopri come generare un [!UICONTROL descriptive analysis report] da un flusso di lavoro.
 
->[!VIDEO](https://video.tv.adobe.com/v/333994?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3448837?captions=ita&quality=12&learn=on){transcript=true}

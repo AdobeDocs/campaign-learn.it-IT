@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Scopri come modificare l’origine dati di una tabella di lavoro del flusso di lavoro utilizzando l’attività Modifica origine dati per gestire in modo flessibile i dati tra le diverse origini, come FDA, FFDA e database locale.
 
->[!VIDEO](https://video.tv.adobe.com/v/340064?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3449538?captions=ita&quality=12&learn=on){transcript=true}

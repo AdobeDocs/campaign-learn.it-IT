@@ -32,4 +32,4 @@ Un modello può includere sistematicamente:
 
 Il video seguente illustra come configurare un modello per una consegna ad hoc.
 
->[!VIDEO](https://video.tv.adobe.com/v/342082?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3409246?captions=ita&quality=12&learn=on){transcript=true}
