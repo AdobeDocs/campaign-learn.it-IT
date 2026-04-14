@@ -7,8 +7,8 @@ role: User, Admin, Developer
 level: Beginner
 exl-id: ec352448-e40b-4d22-b566-d25783e74b63
 source-git-commit: 5c1d1d039b331d031f33e55c1202632dab1ad2a7
-workflow-type: tm+mt
-source-wordcount: '368'
+workflow-type: ht
+source-wordcount: '406'
 ht-degree: 100%
 
 ---
@@ -23,7 +23,7 @@ Consulta
 > Hai delle domande? Vuoi condividere la tua esperienza o scambiare idee con altri utenti? O forse vuoi inviare al team Adobe un feedback sui contenuti di apprendimento? Partecipa alla conversazione nel [thread della community di apprendimento Adobe Campaign](https://experienceleaguecommunities.adobe.com:443/t5/adobe-campaign-classic/join-the-discussion-on-adobe-campaign-learning/td-p/419096).
 > 
 > Questi tutorial non sono quelli che stai cercando?
-> Consulta i [tutorial sull’interfaccia utente web di Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/overview.html?lang=it) per informazioni su come utilizzare l’interfaccia utente di Campaign Web.
+> Consulta i [tutorial sull’interfaccia utente di Adobe Campaign Web](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/overview.html?lang=it) per informazioni su come utilizzare l’interfaccia utente di Campaign Web.
 
 >[!NOTE]
 > Campaign v8 è attualmente disponibile solo come Managed Cloud Service e non può essere distribuito in ambienti on-premise o ibridi. La migrazione automatizzata da un ambiente esistente di Campaign Classic v7 non è ancora disponibile.
@@ -67,7 +67,7 @@ Consulta
     </a>
     </div>
     <p>
-    <em>Scopri il processo di creazione di una consegna e-mail e come progettare e personalizzare i contenuti.
+    <em>Scopri il processo di creazione di una consegna e-mail e come progettare e personalizzarne i contenuti.
 </em>
     <p>
   </td>
@@ -110,7 +110,7 @@ Consulta
     </a>
     </div>
     <p>
-    <em>Scopri le dimensioni di targeting e le tabelle di lavoro e come Adobe Campaign gestisce i dati tra diverse origini dati.</em>
+    <em>Scopri le dimensioni targeting e le tabelle di lavoro e come Adobe Campaign gestisce i dati tra diverse origini dati.</em>
     <p>
   </td>
   <td>

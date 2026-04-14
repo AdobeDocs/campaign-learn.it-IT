@@ -11,9 +11,9 @@ role: Admin
 level: Beginner
 exl-id: fb82b30d-7781-4aaf-a19a-c9810be5f87d
 source-git-commit: 116a24a8aa123f615e08fa4ebd187b3c4c460ba2
-workflow-type: tm+mt
-source-wordcount: '92'
-ht-degree: 92%
+workflow-type: ht
+source-wordcount: '91'
+ht-degree: 100%
 
 ---
 
@@ -26,10 +26,10 @@ Un modello può includere sistematicamente:
 * Tipologie
 * Indirizzi di invio e risposta
 * Blocchi di personalizzazione di base
-* Collegamenti a pagine mirror e collegamenti per annullare l’abbonamento
+* Collegamenti a pagine mirror e annullamento dell’abbonamento
 * Contenuto, logo aziendale o firma
 * Altre proprietà di consegna, ad esempio validità delle risorse, quantità batch...
 
 Il video seguente illustra come configurare un modello per una consegna ad hoc.
 
->[!VIDEO](https://video.tv.adobe.com/v/3409246?quality=12&learn=on&captions=ita){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/342082?quality=12&learn=on){transcript=true}
