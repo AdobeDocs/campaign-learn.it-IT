@@ -3,13 +3,13 @@ title: 'Tutorial tecnico: configurare la funzione SMS per Adobe Campaign'
 description: Scopri come configurare un account SMS per i provider SMTP e come analizzare e risolvere i problemi di configurazione.
 feature: SMS
 role: Admin, Developer
-badgeV7V8: label = “Applicabile a v7 e v8" type="Positive"
+badgeV7V8: label="Applicabile alle versioni v7 e v8" type="Positive"
 thumbnail: 340957.jpg
 exl-id: c1eaabbf-c349-431d-9bbb-6ae987926d99
-source-git-commit: 2ffcd562088eeb47b72fe4f79b4b4ce0210edf16
-workflow-type: ht
+source-git-commit: 41760d0ba303997abffa6cd79b6ae73d9ca54b3e
+workflow-type: tm+mt
 source-wordcount: '224'
-ht-degree: 100%
+ht-degree: 98%
 
 ---
 
@@ -23,10 +23,10 @@ Sono trattati i seguenti argomenti:
   *Scopri la funzione SMS e come Adobe Campaign invia SMS*
 
 * **[Configurare un account SMS per un provider SMPP standard](/help/tutorial-sms/set-up-account-for-standard-smpp-provider.md)**
-  *Scopri come adattare il connettore SMS al provider SMPP. Ottimizza le impostazioni SMS per gestire i limiti di connessione.Scopri come configurare la velocità effettiva massima, la finestra di invio e la crittografia con TLS.*
+  *Scopri come adattare il connettore SMS al provider SMPP. Ottimizza le impostazioni SMS per gestire i limiti di connessione.  Scopri come configurare la velocità effettiva massima, la finestra di invio e la crittografia con TLS.*
 
 * **[Adattare il connettore SMS al provider SMPP](/help/tutorial-sms/adapt-sms-connector-to-smpp-provider.md)**
-  *Scopri come ottimizzare le impostazioni SMS per gestire i limiti di connessione.Scopri come configurare la velocità effettiva massima, una finestra di invio e la crittografia con TLS.*
+  *Scopri come ottimizzare le impostazioni SMS per gestire i limiti di connessione. Scopri come configurare la velocità effettiva massima, una finestra di invio e la crittografia con TLS.*
 
 * **[Approfondimenti sul protocollo SMPP e risoluzione dei problemi](/help/tutorial-sms/smpp-deep-dive-and-troubleshooting.md)**
   *Scopri come vengono stabilite le connessioni SMPP e come il protocollo SMPP scambia i dati tramite le PDU. Come risolvere i problemi relativi alle connessioni.*
