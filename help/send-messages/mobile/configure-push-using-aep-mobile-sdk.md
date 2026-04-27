@@ -11,9 +11,9 @@ level: Beginner
 hide: true
 hidefromtoc: true
 exl-id: 1bdfb72b-49e0-4cdd-848a-97648fb1a7bf
-source-git-commit: 116a24a8aa123f615e08fa4ebd187b3c4c460ba2
+source-git-commit: cd0890e8b368b54b5c5a113c57408985355db110
 workflow-type: tm+mt
-source-wordcount: '49'
+source-wordcount: '47'
 ht-degree: 100%
 
 ---
@@ -23,4 +23,4 @@ ht-degree: 100%
 
 Questo video spiega come configurare e installare l’SDK di Adobe Experience Platform Mobile.
 
->[!VIDEO](https://video.tv.adobe.com/v/326586?quality=12&learn=on&captions=ita){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27699?quality=12&learn=on){transcript=true}
