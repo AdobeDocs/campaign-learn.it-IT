@@ -1,6 +1,6 @@
 ---
 source-git-commit: 94b2ca4943cd9b1785b84493007102d51d1d9898
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '440'
 ht-degree: 100%
 
@@ -11,7 +11,7 @@ Apprezziamo i contributi sia dalla nostra community sia dai dipendenti Adobe est
 
 ## Codice di condotta di Adobe Open Source
 
-Questo progetto ha adottato il [Codice di condotta Open Source di Adobe](code-of-conduct.md) o il codice di condotta di [.NET Foundation](https://dotnetfoundation.org/code-of-conduct).Per ulteriori informazioni, consulta l’articolo [Contribuire](contributing.md).
+Questo progetto ha adottato il [Codice di condotta Open Source di Adobe](code-of-conduct.md) o il codice di condotta di [.NET Foundation](https://dotnetfoundation.org/code-of-conduct). Per ulteriori informazioni, consulta l’articolo [Contribuire](contributing.md).
 
 ## Informazioni sui contributi ai contenuti di Adobe
 
@@ -21,13 +21,13 @@ Il modo in cui contribuisci dipende da chi sei e dal tipo di modifiche con cui d
 
 ### Modifiche minori
 
-Se desideri contribuire con piccoli aggiornamenti su base volontaria, consulta l’articolo e fai clic sul collegamento **Modifica**, che rimanda all’origine GitHub dell’articolo.Quindi, utilizza l’interfaccia utente di GitHub per apportare gli aggiornamenti.Per ulteriori informazioni, consulta la [Guida per i contributori della documentazione Adobe](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=it).
+Se desideri contribuire con piccoli aggiornamenti su base volontaria, consulta l’articolo e fai clic sul collegamento **Modifica**, che rimanda all’origine GitHub dell’articolo. Quindi, utilizza l’interfaccia utente di GitHub per apportare gli aggiornamenti. Per ulteriori informazioni, consulta la [Guida per i contributori della documentazione Adobe](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=it).
 
 Le correzioni minori o i chiarimenti inviati per la documentazione e gli esempi di codice in questo archivio sono soggetti alle Condizioni d’uso di Adobe.
 
 ### Modifiche sostanziali o nuovi articoli da parte dei membri della community
 
-Se fai parte della community Adobe e desideri creare un nuovo articolo o inviare modifiche importanti, utilizza la scheda Problemi nell’archivio Git per inviare una segnalazione e avviare una conversazione con il team addetto alla documentazione.Dopo aver concordato un piano, dovrai collaborare con un dipendente per introdurre i nuovi contenuti attraverso una combinazione di interventi negli archivi pubblici e privati.
+Se fai parte della community Adobe e desideri creare un nuovo articolo o inviare modifiche importanti, utilizza la scheda Problemi nell’archivio Git per inviare una segnalazione e avviare una conversazione con il team addetto alla documentazione. Dopo aver concordato un piano, dovrai collaborare con un dipendente per introdurre i nuovi contenuti attraverso una combinazione di interventi negli archivi pubblici e privati.
 
 <!--
 If you submit a pull request with significant changes to documentation and code examples, you'll see a message in the pull request asking you to submit an online contribution license agreement (CLA). We need you to complete the online form before we can review your pull request.
@@ -47,7 +47,7 @@ Per informazioni dettagliate, consulta la [Guida per i contributori della docume
 
 ## Come utilizzare il linguaggio Markdown per formattare l’argomento
 
-Tutti gli articoli in questo archivio utilizzano il linguaggio Markdown nella variante GitHub.Se non conosci Markdown, consulta:
+Tutti gli articoli in questo archivio utilizzano il linguaggio Markdown nella variante GitHub. Se non conosci Markdown, consulta:
 
 * [Nozioni di base su Markdown](https://help.github.com/articles/getting-started-with-writing-and-formatting-on-github/)
 * [Scheda di riferimento stampabile su Markdown](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
