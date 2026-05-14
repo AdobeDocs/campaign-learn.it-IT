@@ -5,10 +5,26 @@ role: User
 level: Beginner, Experienced
 jira: KT-15788
 exl-id: 0d11eeed-414b-47a1-9c30-41d91a0e5900
-source-git-commit: 06103a19174734f33761f05c19fd080ae5a9ca96
+TQID: https://experienceleague.adobe.com/IPKTwihpRvIqbVyEwKVprAtOLT711jqKdHAScQGnT-U
+product_v2:
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+feature_v2:
+  - id: a075b2c1-7748-4328-b7f6-343aa314616a
+  - id: d5ef99fa-df0c-4153-bf94-105ad0724167
+subfeature_v2:
+  - id: b1fd1501-3105-4d6b-b4d4-9af53126df75
+  - id: c3bf7e1e-1db5-4c72-9293-e2f0b1ab73d0
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: 1f6ccc9f0e59ce16a4e781d2d366cf0257b1c8aa
 workflow-type: tm+mt
-source-wordcount: '2242'
-ht-degree: 16%
+source-wordcount: 2242
+ht-degree: 18%
 
 ---
 
@@ -48,7 +64,7 @@ Per ulteriori informazioni, vedere [Introduzione ai profili](https://experiencel
 
 #### Tipi di pubblico
 
-Scopri come creare e gestire i tipi di pubblico, come selezionare i tipi di pubblico per una consegna e definire gruppi di controllo.
+Scopri come creare e gestire i tipi di pubblico, come selezionarli per una consegna e come definire gruppi di controllo.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3453210?captions=ita&quality=12&learn=on){transcript=true}
 
@@ -286,11 +302,11 @@ Adobe Campaign v8 supporta sia il canale push Android™ che iOS. Per eseguire l
 <p>
 </td>
 <td>
-<a href="https://experienceleague.adobe.com/it/docs/campaign-web/v8/landing-pages/lp-templates">
+<a href="https://experienceleague.adobe.com/en/docs/campaign-web/v8/landing-pages/lp-templates">
 <img alt="Convalida" src="_assets/lp-reporting.jpg">
 </a>
 <div>
-<a href="https://experienceleague.adobe.com/it/docs/campaign-web/v8/landing-pages/lp-templates"><strong>Utilizzare i modelli di pagina di destinazione</strong></a>
+<a href="https://experienceleague.adobe.com/en/docs/campaign-web/v8/landing-pages/lp-templates"><strong>Utilizzare i modelli di pagina di destinazione</strong></a>
 </div>
 <p>
 </td>
