@@ -32,4 +32,4 @@ In una campagna multicanale, una singola comunicazione di marketing utilizza piÃ
 
 Scopri come creare una campagna multicanale utilizzando e-mail, SMS e una consegna direct mailing, in base al canale preferito del destinatario.
 
->[!VIDEO](https://video.tv.adobe.com/v/335440?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452511?captions=ita&quality=12&learn=on){transcript=true}

@@ -30,4 +30,4 @@ ht-degree: 100%
 
 Scopri i diversi tipi di contenuti dinamici e come creare e applicare blocchi di personalizzazione e istruzioni condizionali a una consegna.
 
->[!VIDEO](https://video.tv.adobe.com/v/335734?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452876?captions=ita&quality=12&learn=on){transcript=true}

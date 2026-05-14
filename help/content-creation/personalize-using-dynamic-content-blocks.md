@@ -33,4 +33,4 @@ Un blocco di personalizzazione è dinamico, personalizzato e contiene un codice 
 
 Scopri come creare blocchi di contenuto dinamici e come utilizzarli per personalizzare il contenuto della consegna e-mail.
 
->[!VIDEO](https://video.tv.adobe.com/v/342088?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/344595?captions=ita&quality=12&learn=on){transcript=true}

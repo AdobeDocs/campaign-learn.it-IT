@@ -34,4 +34,4 @@ Scopri il concetto dei profili. Scopri come accedere ai dati, ordinare e filtrar
 
 Questo video illustra inoltre la conformità di Adobe Campaign con il Regolamento generale sulla protezione dei dati (GDPR) e con il California Consumer Privacy Act (CCPA).
 
->[!VIDEO](https://video.tv.adobe.com/v/334111?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452099?captions=ita&quality=12&learn=on){transcript=true}

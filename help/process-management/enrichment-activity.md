@@ -29,4 +29,4 @@ L’attività di arricchimento è un oggetto flusso di lavoro che aggiunge dati 
 
 Scopri come configurare un’attività di arricchimento in base alle informazioni del registro di consegna.
 
->[!VIDEO](https://video.tv.adobe.com/v/342639?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452176?captions=ita&quality=12&learn=on){transcript=true}

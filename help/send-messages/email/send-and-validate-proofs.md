@@ -28,4 +28,4 @@ ht-degree: 100%
 
 Scopri come inviare e convalidare una bozza per una consegna e-mail.
 
->[!VIDEO](https://video.tv.adobe.com/v/333404?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3447007?captions=ita&quality=12&learn=on){transcript=true}

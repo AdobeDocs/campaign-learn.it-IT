@@ -28,4 +28,4 @@ ht-degree: 100%
 
 Scopri come perfezionare il target utilizzando le attività di intersezione o di unione per combinare i risultati delle query in un flusso di lavoro.
 
->[!VIDEO](https://video.tv.adobe.com/v/334304?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3426432?captions=ita&quality=12&learn=on){transcript=true}

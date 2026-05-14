@@ -28,4 +28,4 @@ ht-degree: 100%
 
 Scopri come configurare un account esterno in Adobe Campaign per importare i dati dei destinatari da Adobe Experience Platform a Campaign. Scopri come creare un flusso di lavoro per caricare ed eseguire il targeting dei destinatari ricevuti da Experience Platform.
 
->[!VIDEO](https://video.tv.adobe.com/v/336641?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453485?captions=ita&quality=12&learn=on){transcript=true}

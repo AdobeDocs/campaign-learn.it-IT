@@ -30,4 +30,4 @@ ht-degree: 100%
 
 Scopri le funzionalità di reporting e analisi incorporate in Adobe Campaign e come generare un rapporto di consegna.
 
->[!VIDEO](https://video.tv.adobe.com/v/334965?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3448291?captions=ita&quality=12&learn=on){transcript=true}

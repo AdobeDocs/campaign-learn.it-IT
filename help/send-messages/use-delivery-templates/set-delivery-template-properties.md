@@ -28,4 +28,4 @@ ht-degree: 100%
 
 Scopri come impostare le proprietà del modello di consegna e il dettaglio di ciascuna proprietà.
 
->[!VIDEO](https://video.tv.adobe.com/v/338969?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3443409?captions=ita&quality=12&learn=on){transcript=true}

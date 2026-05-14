@@ -28,4 +28,4 @@ ht-degree: 100%
 
 Scopri gli elenchi in Adobe Campaign e come creare un elenco utilizzando l’attività di aggiornamento elenco in un flusso di lavoro.
 
->[!VIDEO](https://video.tv.adobe.com/v/334909?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3426460?captions=ita&quality=12&learn=on){transcript=true}

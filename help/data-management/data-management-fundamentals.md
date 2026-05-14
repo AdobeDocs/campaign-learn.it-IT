@@ -32,4 +32,4 @@ ht-degree: 100%
 
 Scopri le dimensioni targeting e le tabelle di lavoro e come Adobe Campaign gestisce i dati tra diverse origini dati.
 
->[!VIDEO](https://video.tv.adobe.com/v/339992?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452602?captions=ita&quality=12&learn=on){transcript=true}
