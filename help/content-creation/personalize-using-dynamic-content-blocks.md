@@ -10,9 +10,13 @@ team: TM
 role: Admin, Developer
 level: Experienced
 exl-id: dfbd4e9d-694e-4d43-bfc5-11b59e653ddc
-source-git-commit: 4d21755204c22fbeb4ac3a2916e9ee68cd2e0f9a
-workflow-type: ht
-source-wordcount: '105'
+TQID: https://experienceleague.adobe.com/-YIOwTlOHNwEKlZM8G8p4YppVc8UrN9ypWA7U6rdoOQ
+product_v2: id: dfc56824-e8b9-499e-85d4-21aedb507314
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+topic_v2: id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: 1f6ccc9f0e59ce16a4e781d2d366cf0257b1c8aa
+workflow-type: tm+mt
+source-wordcount: 105
 ht-degree: 100%
 
 ---
@@ -25,4 +29,4 @@ Un blocco di personalizzazione è dinamico, personalizzato e contiene un codice 
 
 Scopri come creare blocchi di contenuto dinamici e come utilizzarli per personalizzare il contenuto della consegna e-mail.
 
->[!VIDEO](https://video.tv.adobe.com/v/344595?quality=12&learn=on&captions=ita){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/342088?quality=12&learn=on){transcript=true}

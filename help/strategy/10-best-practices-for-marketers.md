@@ -6,11 +6,17 @@ feature: Personalization, Campaigns, Subscriptions, Deliverability
 role: User
 level: Beginner
 jira: KT-11778
-last-substantial-update: 2023-01-30T00:00:00Z
+last-substantial-update: 2023-01-30T00:00:00.000Z
 exl-id: a4191cfb-991a-4cd5-97b5-c24c6c93566b
-source-git-commit: 2cf7b12ea62026186255b08c4035d0f4bdac103d
-workflow-type: ht
-source-wordcount: '1354'
+TQID: https://experienceleague.adobe.com/VVDE-a6X5ZTIGTAFCC-KflG7Do-Qhrd1PF1AN5v42dA
+product_v2: id: dfc56824-e8b9-499e-85d4-21aedb507314
+feature_v2: id: a075b2c1-7748-4328-b7f6-343aa314616a
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1id: e0eb8757-182f-49f3-94a4-1587d16f5094id: e1e0219c-f879-479f-8427-888ed2a6e9c2id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 1f6ccc9f0e59ce16a4e781d2d366cf0257b1c8aa
+workflow-type: tm+mt
+source-wordcount: 1354
 ht-degree: 100%
 
 ---
@@ -40,7 +46,7 @@ Le campagne sono valide solo quanto lo sono le strutture di dati sottostanti che
 
 Come i tuoi clienti, anche tu segui una routine quotidiana. L’invio e l’orchestrazione delle campagne devono corrispondere a tale ritmo. In caso contrario, potresti non riuscire a contattare i tuoi clienti in quanto [l’85% della posta inviata non viene aperta e il 98% della posta inviata non riceve un click-through](https://www.validity.com/resource-center/state-of-email-2021/).
 
-Ad esempio, se i clienti controllano il telefono al mattino per le migliori offerte, prendi in considerazione la possibilità di inviare loro un messaggio promozionale. Se cercando la tendenza più in voga durante la notte, prendi in considerazione l&#39;invio di un&#39;e-mail di follow-up con un codice promozionale per la spedizione gratuita. È anche importante utilizzare lo strumento mappa termica in [!DNL Campaign] per tracciare il momento in cui vengono eseguiti i flussi di lavoro e gli invii. Coordinare e facilitare le comunicazioni tra più marchi può risultare impegnativo. [Tenere d&#39;occhio e conoscere il ritmo, la cadenza e la tempistica delle e-mail](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic-blogs/predictive-send-time-optimization-with-adobe-campaign/ba-p/561554?profile.language=it) è prezioso per la stabilità e la forza complessiva del messaggio e dell’istanza di Campaign.
+Ad esempio, se i clienti controllano il telefono al mattino per le migliori offerte, prendi in considerazione la possibilità di inviare loro un messaggio promozionale. Se cercando la tendenza più in voga durante la notte, prendi in considerazione l&#39;invio di un&#39;e-mail di follow-up con un codice promozionale per la spedizione gratuita. È anche importante utilizzare lo strumento mappa termica in [!DNL Campaign] per tracciare il momento in cui vengono eseguiti i flussi di lavoro e gli invii. Coordinare e facilitare le comunicazioni tra più marchi può risultare impegnativo. [Tenere d&#39;occhio e conoscere il ritmo, la cadenza e la tempistica delle e-mail](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic-blogs/predictive-send-time-optimization-with-adobe-campaign/ba-p/561554) è prezioso per la stabilità e la forza complessiva del messaggio e dell’istanza di Campaign.
 
 ## &#x200B;4. Utilizzare la personalizzazione dove è importante
 
