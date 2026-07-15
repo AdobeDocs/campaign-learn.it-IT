@@ -6,9 +6,9 @@ user-guide-description: Scopri come utilizzare le funzioni e le caratteristiche 
 breadcrumb-title: 'Console client: tutorial'
 auto-video-transcripts: true
 source-git-commit: ffa7a6da16e67856b96fdd0795f2d6990968ab22
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '496'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -41,7 +41,7 @@ ht-degree: 94%
       + [Personalizzare le e-mail mediante blocchi di contenuto dinamici](/help/content-creation/personalize-using-dynamic-content-blocks.md)
       + [Personalizzare le e-mail utilizzando i campi di personalizzazione](/help/content-creation/personalize-emails-using-personalization-fields.md)
       + [Creare una newsletter multilingue utilizzando contenuti condizionali](/help/content-creation/create-a-multilingual-newsletter-using-conditional-content.md)
-      + {hide-from-toc}[Definisci il contenuto delle e-mail interattive con AMP](/help/content-creation/design-interactive-email-content-with-amp.md)
+      + {hide-from-toc}[Definire il contenuto interattivo delle e-mail con AMP](/help/content-creation/design-interactive-email-content-with-amp.md)
    + [Configurare le pagine di destinazione](/help/content-creation/configure-landingpages.md)
    + [Creazione di un sondaggio](/help/content-creation/create-a-survey.md)
 + Inviare messaggi{#sending-messages}
@@ -55,8 +55,8 @@ ht-degree: 94%
    + SMS {#sms}
       + [Creare una consegna SMS](/help/send-messages/mobile/create-an-sms-delivery.md)
    + Push {#push}
-      + {hide-from-toc}[Installa il canale app mobile](/help/send-messages/mobile/install-the-mobile-app.md)
-      + {hide-from-toc}[Configurare il canale push con Experience Platform Mobile SDK](/help/send-messages/mobile/configure-push-using-aep-mobile-sdk.md)
+      + {hide-from-toc}[Installare il canale app mobile](/help/send-messages/mobile/install-the-mobile-app.md)
+      + {hide-from-toc}[Configurare il canale push utilizzando Experience Platform Mobile SDK](/help/send-messages/mobile/configure-push-using-aep-mobile-sdk.md)
    + Direct mail {#direct-mail}
       + [Creare consegne di direct mailing](/help/send-messages/direct-mail/create-direct-mail-deliveries.md)
    + Utilizzare i modelli di consegna{#using-delivery-templates}
