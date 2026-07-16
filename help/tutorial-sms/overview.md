@@ -7,8 +7,8 @@ badgeV7V8: label="Si applica a v7 e v8" type="Positive"
 thumbnail: 340957.jpg
 exl-id: c1eaabbf-c349-431d-9bbb-6ae987926d99
 source-git-commit: 41760d0ba303997abffa6cd79b6ae73d9ca54b3e
-workflow-type: ht
-source-wordcount: '224'
+workflow-type: tm+mt
+source-wordcount: '251'
 ht-degree: 100%
 
 ---
@@ -22,11 +22,14 @@ Sono trattati i seguenti argomenti:
 * **[Introduzione alla funzione SMS](/help/tutorial-sms/introduction-to-sms.md)**:
   *Scopri la funzione SMS e come Adobe Campaign invia SMS*
 
-* **[Configurare un account SMS per un provider SMPP standard  *Scopri come adattare il connettore SMS al provider SMPP. Ottimizza le impostazioni SMS per gestire i limiti di connessione.  Scopri come configurare la velocità effettiva massima, la finestra di invio e la crittografia con TLS.*
+* **[Configurare un account SMS per un provider SMPP standard](/help/tutorial-sms/set-up-account-for-standard-smpp-provider.md)**
+  *Scopri come adattare il connettore SMS al provider SMPP. Ottimizza le impostazioni SMS per gestire i limiti di connessione.  Scopri come configurare la velocità effettiva massima, la finestra di invio e la crittografia con TLS.*
 
-* **[Adattare il connettore SMS al provider SMPP  *Scopri come ottimizzare le impostazioni SMS per gestire i limiti di connessione. Scopri come configurare la velocità effettiva massima, una finestra di invio e la crittografia con TLS.*
+* **[Adattare il connettore SMS al provider SMPP](/help/tutorial-sms/adapt-sms-connector-to-smpp-provider.md)**
+  *Scopri come ottimizzare le impostazioni SMS per gestire i limiti di connessione. Scopri come configurare la velocità effettiva massima, una finestra di invio e la crittografia con TLS.*
 
-* **[Approfondimenti sul protocollo SMPP e risoluzione dei problemi  *Scopri come vengono stabilite le connessioni SMPP e come il protocollo SMPP scambia i dati tramite le PDU. Come risolvere i problemi relativi alle connessioni.*
+* **[Approfondimenti sul protocollo SMPP e risoluzione dei problemi](/help/tutorial-sms/smpp-deep-dive-and-troubleshooting.md)**
+  *Scopri come vengono stabilite le connessioni SMPP e come il protocollo SMPP scambia i dati tramite le PDU. Come risolvere i problemi relativi alle connessioni.*
 
 >[!NOTE]
 >
