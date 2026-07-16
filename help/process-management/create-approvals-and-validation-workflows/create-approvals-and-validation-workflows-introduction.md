@@ -19,9 +19,9 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 source-git-commit: 1f6ccc9f0e59ce16a4e781d2d366cf0257b1c8aa
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: 267
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
@@ -38,11 +38,11 @@ Prima di abilitare i passaggi di approvazione, il team di marketing deve definir
 
 ## Configurazione delle approvazioni {#configuring-approvals}
 
-1. [Configurare le approvazioni per le campagne](/help/process-management/create-approvals-and-validation-workflows/configure-approvals-for-campaigns.md):
+1. [Configura le approvazioni per le campagne](/help/process-management/create-approvals-and-validation-workflows/configure-approvals-for-campaigns.md):
 Se uno stesso gruppo revisori si occupa di tutte le consegne nel flusso di lavoro della campagna, puoi applicare la funzionalità di approvazione impostando approvazioni e revisori a livello di campagna. Quando il flusso di lavoro viene eseguito, le attività di approvazione e i revisori vengono applicati a ogni sua attività di consegna.
 2. [Configurare le approvazioni per le consegne](/help/process-management/create-approvals-and-validation-workflows/configure-approvals-for-deliveries.md):
 Puoi anche impostare le approvazioni a livello di consegna. Se i passaggi di approvazione e i revisori di una consegna differiscono da quelli della campagna, le impostazioni specifiche della consegna hanno la precedenza rispetto a quelle della campagna.
-3. [Creare un processo di approvazione in un flusso di lavoro](/help/process-management/create-approvals-and-validation-workflows/create-approval-process-in-a-workflow.md):
-L’attività di approvazione consente di creare un processo di approvazione all’interno di un flusso di lavoro. In questo modo, la logica di selezione del targeting può essere approvata prima dell’avvio della consegna stessa. Inoltre, se necessario, consente l’approvazione a più livelli all’interno del flusso di lavoro.
+3. [Crea un processo di approvazione in un flusso di lavoro](/help/process-management/create-approvals-and-validation-workflows/create-approval-process-in-a-workflow.md):
+L’attività di approvazione consente la creazione un processo di approvazione all’interno di un flusso di lavoro.In questo modo, la logica di selezione del targeting può essere approvata prima dell’avvio della consegna stessa. Inoltre, se necessario, consente l’approvazione a più livelli all’interno del flusso di lavoro.
 
 Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/flow-control-activities/approval.html?lang=it).
