@@ -28,4 +28,4 @@ ht-degree: 100%
 
 Scopri il concetto di gruppi di controllo e come utilizzarli per la consegna.
 
->[!VIDEO](https://video.tv.adobe.com/v/335606?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3446926?captions=ita&quality=12&learn=on){transcript=true}
