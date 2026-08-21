@@ -11,7 +11,7 @@ exl-id: e911cb89-bd27-4424-b4cd-2333321ffc08
 source-git-commit: f9944b896adbb7e4b023e667a6b7895a8399724a
 workflow-type: tm+mt
 source-wordcount: '108'
-ht-degree: 100%
+ht-degree: 71%
 
 ---
 
@@ -23,5 +23,5 @@ Scopri come creare un flusso di lavoro per avvisare tramite e-mail i destinatari
 
 *Eseguire query sui dati utilizzando diverse dimensioni di targeting e filtro e unire gli output utilizzando un’intersezione.*
 
-**Passaggio 2:** [Inviare una consegna ai destinatari abbonati](/help/tutorial-use-soap-apis/send-delivery-to-subscribed-recipients.md)
-*Scopri come unire i dati di due segmenti, creare un messaggio e-mail di avviso per un articolo e personalizzarlo in base ai dati ricevuti da un’API esterna.*
+**Passaggio 2:** [Invia una consegna ai destinatari abbonati](/help/tutorial-use-soap-apis/send-delivery-to-subscribed-recipients.md)
+*Scopri come unire i dati di due segmenti, creare un messaggio e-mail di avviso per un articolo e personalizzarlo in base ai dati ricevuti da un&#39;API esterna.*
