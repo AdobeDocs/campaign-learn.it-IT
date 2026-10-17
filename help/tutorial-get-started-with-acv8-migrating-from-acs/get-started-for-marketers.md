@@ -313,11 +313,11 @@ Adobe Campaign v8 supporta sia il canale push Android™ che iOS. Per eseguire l
 <p>
 </td>
 <td>
-<a href="https://experienceleague.adobe.com/en/docs/campaign-web/v8/landing-pages/lp-templates">
+<a href="https://experienceleague.adobe.com/it/docs/campaign-web/v8/landing-pages/lp-templates">
 <img alt="Convalida" src="_assets/lp-reporting.jpg">
 </a>
 <div>
-<a href="https://experienceleague.adobe.com/en/docs/campaign-web/v8/landing-pages/lp-templates"><strong>Utilizzare i modelli di pagina di destinazione</strong></a>
+<a href="https://experienceleague.adobe.com/it/docs/campaign-web/v8/landing-pages/lp-templates"><strong>Utilizzare i modelli di pagina di destinazione</strong></a>
 </div>
 <p>
 </td>
