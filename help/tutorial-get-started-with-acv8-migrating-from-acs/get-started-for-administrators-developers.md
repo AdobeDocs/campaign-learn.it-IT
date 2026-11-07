@@ -70,7 +70,7 @@ Scopri il modello di autorizzazione generale: operatori, gruppi di operatori (ru
    * Creare gruppi di operatori e assegnare diritti denominati
    * Mappare i profili di prodotto ⇄ i gruppi di operatori
 
->[!VIDEO](https://video.tv.adobe.com/v/3438198/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3505216/?captions=ita&learn=on)
 
 Per una guida dettagliata e scritta, consulta la [documentazione del prodotto](https://experienceleague.adobe.com/it/docs/campaign/campaign-v8/permissions/manage-permissions){target="_blank"}.
 
