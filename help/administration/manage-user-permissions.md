@@ -46,4 +46,4 @@ Scopri come configurare e gestire le autorizzazioni utente per Campaign v8:
 * Diritti denominati
 * Aggiungere autorizzazioni a livello di cartella
 
->[!VIDEO](https://video.tv.adobe.com/v/3438198/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3505216/?captions=ita&learn=on)
